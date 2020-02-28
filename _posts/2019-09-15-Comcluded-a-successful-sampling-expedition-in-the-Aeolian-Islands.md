@@ -1,5 +1,6 @@
 ---
 layout: post
+title:  "Concluded a successful sampling expedition in the Aeolian Islands"
 author: Donato Giovannelli
 share: true
 ---

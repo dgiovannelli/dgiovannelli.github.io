@@ -12,7 +12,7 @@ This website was forked from <a href="https://github.com/mpa139/allanlab">The Al
 
 ### Copyright / credit
 
-As stated by the Allan Lab, you can use this template as you please. You don't have to link to us or mention us (but of course we appreciate it). We also welcome it if you send an email with a link to your website, perhaps we'll publish a list here at some point.
+As stated by the Allan Lab, you can use this template as you please. You don't have to link to us or the Allan lab (but of course its appreciated). We also welcome it if you send an email with a link to your website, perhaps we'll publish a list here at some point.
 
 Comments welcome.
 

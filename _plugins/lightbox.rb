@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -21,13 +15,13 @@
   <link crossorigin="anonymous" media="all" integrity="sha512-lEwNhIgWxFtdGboTlCciWWGiX2vG3LOojEE671oRJEhnPj6jpmgQTJtpq3O2KBzCcln6RzwfvHlyFaI/oR+RNQ==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-849637ecbd4bd65815cc113d80fee2d4.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-J91Qhea0f13DaSjx3AXXGO3viFpQAPPnpVDE8Umc73sXEtrah52Hq277J1yN+ALwl/RwH5VQ/Ntc0756LZy/7w==" rel="stylesheet" href="https://github.githubassets.com/assets/site-d20aa35917cf810095fab7458ea2a8e4.css" />
     <link crossorigin="anonymous" media="all" integrity="sha512-nbXfO4fh1nahyjggjTnpWxGoA7FoTdx2f21d62JQeVn0RlLoYci8FX3fuqk4Sn/kD8Yuzgd/IHXroBMoxFLFWA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-8fec968b4bdafcef25940c968feaf09b.css" />
-    
-    
-    
-    
+
+
+
+
 
   <meta name="viewport" content="width=device-width">
-  
+
   <title>jekyll-lightbox/lightbox.rb at master · appfoundry/jekyll-lightbox · GitHub</title>
     <meta name="description" content="Simple Jekyll tag for Lightbox. Contribute to appfoundry/jekyll-lightbox development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
@@ -38,13 +32,13 @@
     <meta property="og:image" content="https://avatars2.githubusercontent.com/u/7791999?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="appfoundry/jekyll-lightbox" /><meta property="og:url" content="https://github.com/appfoundry/jekyll-lightbox" /><meta property="og:description" content="Simple Jekyll tag for Lightbox. Contribute to appfoundry/jekyll-lightbox development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  
+
   <meta name="pjax-timeout" content="1000">
-  
+
   <meta name="request-id" content="E98C:15DDE:3CA1CDE:5BAA755:5D8DBFD1" data-pjax-transient>
 
 
-  
+
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
 
@@ -64,7 +58,7 @@
 
 
 
-  
+
 
       <meta name="hostname" content="github.com">
     <meta name="user-login" content="">
@@ -77,7 +71,7 @@
   <meta name="html-safe-nonce" content="44c22fbfa8b706bdbdf2e352bd3c044cdedc769e">
 
   <meta http-equiv="x-pjax-version" content="26151a0489b3bba3856cd61a7a92e41f">
-  
+
 
       <link href="https://github.com/appfoundry/jekyll-lightbox/commits/master.atom" rel="alternate" title="Recent Commits to jekyll-lightbox:master" type="application/atom+xml">
 
@@ -107,15 +101,15 @@
   </head>
 
   <body class="logged-out env-production page-responsive page-blob">
-    
+
 
   <div class="position-relative js-header-wrapper ">
     <a href="#start-of-content" tabindex="1" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
     <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
 
-    
-    
-    
+
+
+
 
 
         <header class="Header-old header-logged-out js-details-container Details position-relative f4 py-2" role="banner">
@@ -126,7 +120,7 @@
         </a>
 
           <div class="d-lg-none css-truncate css-truncate-target width-fit p-2">
-            
+
               <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
     <a class="Header-link" href="/appfoundry">appfoundry</a>
     /
@@ -290,9 +284,9 @@
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
             <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
-              
+
 <ul class="d-none js-jump-to-suggestions-template-container">
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
@@ -333,7 +327,7 @@
 </ul>
 
 <ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
@@ -365,7 +359,7 @@
   </a>
 </li>
 
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
@@ -438,14 +432,14 @@
   <div class="application-main " data-commit-hovercards-enabled>
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <main  >
-      
-
-
-  
 
 
 
-  
+
+
+
+
+
 
 
 
@@ -463,7 +457,7 @@
 
 
   <li>
-    
+
   <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:&quot;1030502821.1546448874&quot;,&quot;originating_request_id&quot;:&quot;E98C:15DDE:3CA1CDE:5BAA755:5D8DBFD1&quot;,&quot;originating_url&quot;:&quot;https://github.com/appfoundry/jekyll-lightbox/blob/master/lightbox.rb&quot;,&quot;referrer&quot;:&quot;https://github.com/appfoundry/jekyll-lightbox&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fa3880255627ad22a16e50020f5e720603b88feb12c39c2e5fc920bc26496766" href="/login?return_to=%2Fappfoundry%2Fjekyll-lightbox">
     <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
     Watch
@@ -503,12 +497,12 @@
   <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/appfoundry/hovercard" href="/appfoundry">appfoundry</a></span><!--
 --><span class="path-divider">/</span><!--
 --><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/appfoundry/jekyll-lightbox">jekyll-lightbox</a></strong>
-  
+
 
 </h1>
 
     </div>
-    
+
 <nav class="hx_reponav reponav js-repo-nav js-sidenav-container-pjax container-lg p-responsive d-none d-lg-block"
      itemscope
      itemtype="http://schema.org/BreadcrumbList"
@@ -606,11 +600,11 @@
 <div class="container-lg clearfix new-discussion-timeline experiment-repo-nav  p-responsive">
   <div class="repository-content ">
 
-    
-    
 
 
-  
+
+
+
 
 
     <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/appfoundry/jekyll-lightbox/blob/6d2fbf42f581aebaa1ca4620ed4f5b01255227c8/lightbox.rb">Permalink</a>
@@ -633,7 +627,7 @@
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-column flex-md-row">
       <span class="d-flex flex-justify-between width-full width-md-auto">
-        
+
 <details class="details-reset details-overlay select-menu branch-select-menu  hx_rsm" id="branch-select-menu">
   <summary class="btn btn-sm select-menu-button css-truncate"
            data-hotkey="w"
@@ -695,7 +689,7 @@
 
 
     <div class="Box mt-3 position-relative">
-      
+
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
@@ -730,10 +724,10 @@
 
 
 
-      
+
 
   <div itemprop="text" class="Box-body p-0 blob-wrapper data type-ruby ">
-      
+
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
@@ -1007,7 +1001,7 @@
 
     </div>
 
-  
+
 
   <details class="details-reset details-overlay details-overlay-dark">
     <summary data-hotkey="l" aria-label="Jump to line"></summary>
@@ -1025,11 +1019,11 @@
 
     </main>
   </div>
-  
+
 
   </div>
 
-        
+
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
@@ -1072,11 +1066,11 @@
 
     <script crossorigin="anonymous" integrity="sha512-RwS+8T0XPR5cCcBdDmGcf/cL+FfKUdIjfRL93fvzAzjVUdgaknI2UpShICXEAx0szS45xu9lpIDeacN+3d3hZw==" type="application/javascript" src="https://github.githubassets.com/assets/compat-bootstrap-94789d4c.js"></script>
     <script crossorigin="anonymous" integrity="sha512-2e003yIUkuCG1IeaeQwIgzMwqYiC+7wN/ouvY2yay84wnLng3/MScKxudf02uj4T4RZAnF5zJumvacsF9lfTMw==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-8e9b232b.js"></script>
-    
+
     <script crossorigin="anonymous" async="async" integrity="sha512-mcmHw7hIuXtLZC0Osul3Ua16sxQbp4NacU9maZbuKdB3ja+sQs5MJplJHEgyGuZv17JocEgD405+gMl+3ZY9+A==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-e45d460a.js"></script>
-    
-    
-    
+
+
+
   <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner" hidden
     >
     <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
@@ -1104,4 +1098,3 @@
 
   </body>
 </html>
-
