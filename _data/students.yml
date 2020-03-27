@@ -1,5 +1,5 @@
 - name: Monica Correggia
-  photo: mcor.jpg
+  photo: bio.jpg
   role: Graduate Assistant
   info:
   collab:
@@ -65,7 +65,7 @@
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
 - name: Carmela Celentano
-  photo: cc.jpg
+  photo: bio.jpg
   role: Master student
   info:
   collab:
@@ -73,7 +73,7 @@
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
 - name: Giacomo Fabozzi
-  photo: gf.jpg
+  photo: bio.jpg
   role: Master student
   info:
   collab:
@@ -81,7 +81,7 @@
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
 - name: Antonio Cascone
-  photo: acasc.jpg
+  photo: bio.jpg
   role: Master student
   info:
   collab:
@@ -89,7 +89,7 @@
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
 - name: Raffaella Postiglione
-  photo: rf.jpg
+  photo: bio.jpg
   role: Master student
   info:
   collab:
@@ -97,7 +97,7 @@
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
 - name: Deborah Bastoni
-  photo: db.jpg
+  photo: bio.jpg
   role: Master student
   info:
   collab:
@@ -105,7 +105,7 @@
   education1: BSc Natural Sciences, University of Naples "Federico II", Naples, Italy
 
 - name: Ottavia Iacovino
-  photo: oi.jpg
+  photo: bio.jpg
   role: Master student
   info:
   collab:
@@ -113,7 +113,7 @@
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
 - name: Davide Limongello
-  photo: dl.jpg
+  photo: bio.jpg
   role: Master student
   info:
   collab: Prof. Matteo Porotto, Columbia University, NY, USA
