@@ -1,11 +1,20 @@
+- name: Monica Correggia
+  photo: mcor.jpg
+  role: Graduate Assistant
+  info:
+  collab:
+  number_educ: 2
+  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
+  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
+
 - name: Matteo Selci
   photo: ms.jpg
   role: PhD student
   info: Diversity of microbial communities in geothermal environments
   collab: Dr. Maarten de Moor, OVSICORI
   number_educ: 2
-  education1: MSc Marine Biology and Ecology, Polytechnic University of Marche
-  education2: BSc Biology, Polytechnic University of Marche
+  education1: MSc Marine Biology and Ecology, Polytechnic University of Marche, Ancona, Italy
+  education2: BSc Biology, Polytechnic University of Marche, Ancona, Italy
 
 - name: Alessandra Ferrillo
   photo: af.jpg
@@ -19,7 +28,7 @@
   photo: mc.jpg
   role: Master student
   info: Identification of new antimicrobial compounds from extremophiles
-  collab: Prof. Angelina Cordone, UNINA
+  collab:
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
@@ -27,7 +36,7 @@
   photo: rc.jpg
   role: Master student
   info: Antartic water column microbial diversity
-  collab: Prof. Angelina Cordone, UNINA
+  collab:
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
@@ -51,6 +60,62 @@
   photo: ac.jpg
   role: Master student
   info: Mycobacteria molecular biology
-  collab: Prof. Angelina Cordone, UNINA
+  collab:
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Carmela Celentano
+  photo: cc.jpg
+  role: Master student
+  info:
+  collab:
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Giacomo Fabozzi
+  photo: gf.jpg
+  role: Master student
+  info:
+  collab:
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Antonio Cascone
+  photo: acasc.jpg
+  role: Master student
+  info:
+  collab:
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Raffaella Postiglione
+  photo: rf.jpg
+  role: Master student
+  info:
+  collab:
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Deborah Bastoni
+  photo: db.jpg
+  role: Master student
+  info:
+  collab:
+  number_educ: 1
+  education1: BSc Natural Sciences, University of Naples "Federico II", Naples, Italy
+
+- name: Ottavia Iacovino
+  photo: oi.jpg
+  role: Master student
+  info:
+  collab:
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Davide Limongello
+  photo: dl.jpg
+  role: Master student
+  info:
+  collab: Prof. Matteo Porotto, Columbia University, NY, USA
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy

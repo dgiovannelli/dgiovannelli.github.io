@@ -169,14 +169,21 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alum
 
 ## Undergraduate Alumni
 <ul style="list-style-type: none">
-    <li>Alessia Masella, UNINA, Summer 2019</li>
-    <li>Angelica De Rosa, UNINA, Summer 2019</li>
+    <li>Alessandra Palazzi, UNINA, Spring 2020</li>
+    <li>Mariacarmen Del Mondo, UNINA, Spring 2020</li>
+    <li>Mattia Acunzo, UNINA, Spring 2020</li>
+    <li>Simona Piccolo, UNINA, Spring 2020</li>
+    <li>Mariavittoria Brandi, UNINA, Spring 2020</li>
+    <li>Andrea Campanile, UNINA, Spring 2020</li>
+    <li>Lucia Di peso, UNINA, Spring 2020</li>
     <li>Simone De Meo, UNINA, Fall 2019</li>
     <li>Raffaele Nocera, UNINA, Fall 2019</li>
     <li>Antonio Nappo, UNINA, Fall 2019</li>
     <li>Andrea Campanile, UNINA, Fall 2019</li>
     <li>Mariavittoria Brandi, UNINA, Fall 2019</li>
     <li>Nunzia Nappi, UNINA, Fall 2019</li>
+    <li>Alessia Masella, UNINA, Summer 2019</li>
+    <li>Angelica De Rosa, UNINA, Summer 2019</li>
 </ul>
 
 ## High School Alumni
