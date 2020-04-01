@@ -8,6 +8,9 @@ permalink: /mediaoutreach/
 Here our efforts to explain to the public and other scientist what we do, either through outreach activities or by interacting with the media. Jump to our [outreach activities](#outreach-activities) or check out the [media covering](#media-coverage) our research.
 
 # Outreach activities
+**2019** Guest of the [MiniGeology podcast](http://earthscience.rice.edu/minigeology) on the  KPFT Houston radio. The interview can be found at on [youtube](http://youtu.be/X6nwJbO3Q84)
+
+**2019** Invited speaker at the [2019 FISV Days](bit.ly/2OUn8iK) in Naples, to speak about the co-evolution of Life and planet. The talk, in Italian,  will soon be available on YouTube
 
 **2018** Together with Peter Barry (WHOI) and Karen Lloyd (University of Tennessee at Knoxville) we participated in a [Facebook live event](https://bit.ly/2TXv20l) organized by the University of Oxford, UK, and Oxford Sparks entitled “Sampling Earth Interior” highlighting our work in Costa Rica as part of the [Biology Meets Subduction](bms.html) project
 
