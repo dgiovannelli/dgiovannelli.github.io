@@ -68,7 +68,7 @@ I am an Assistant Professor at the [Department of Biology](http://www.dipartimen
 To this end in my lab we combine classic microbiology techniques with data from comparative genomic, phylogenetic, environmental surveys and computational approaches to reconstruct geo-bio interactions. The majority of our work is carried out in [extreme environments](research), ranging from deep-sea and shallow-water hydrothermal vents, hot springs and volcanoes, the subsurface and Antarctica.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/logopic/giovannellilab.png){: style="width: 25%; float: right; border: 10px "}
-> Our laboratory logo, an abstract representation of what we call "microbiology in planetary context". Designed by [Patricia Barcala Dominguez](https://www.instagram.com/pat_barcala/)s
+> Our laboratory logo, an abstract representation of what we call "microbiology in planetary context". Designed by [Patricia Barcala Dominguez](https://www.instagram.com/pat_barcala/)
 
 Check out our [reserach](research), our latest [pubblications](publications) or our [interactive map](fieldsites) showing our field sites. Head to the [team section](team) to read [more about myself]({{ site.url }}/myself.html) and the rest of the fantastic people I work with. Also, don't forget to take a look at the [picture gallery](pictures) or our [outreach](mediaoutreach#outreach-activities) activities and appearance in the [media](mediaoutreach#media-coverage). Take a look at the yearly report I post about my activities in [the Year in Numbers section]({{ site.url }}/yearinnumbers.html).
 
