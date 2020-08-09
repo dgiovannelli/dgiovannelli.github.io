@@ -6,7 +6,7 @@ share: true
 
 An international collaboration lead by a researcher from the University of Torino unveils new mechanisms of hydrogen and methane formation in subduction zones
 
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/Energy-deep.jpg){: style="width: 55%; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/blogpic/Energy-deep.jpg){: style="width: 55%; float: center; border: 10px"}
 
 > The study shows that subduction—the process by which one tectonic plate moves under another—may be
 responsible for the production of large amounts of hydrogen and methane, potentially sustaining microbial
