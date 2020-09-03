@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-I am an Assistant Professor at the [Department of Biology](http://www.dipartimentodibiologia.unina.it) of the [University of Naples "Federico II"](http://www.unina.it), in Italy. My group aims to explore and understand [the emergence and evolution of life](emergence) and the [co-evolution of the Geosphere and the Biosphere](coevolution).
+I am an Assistant Professor at the [Department of Biology](http://www.dipartimentodibiologia.unina.it) of the [University of Naples "Federico II"](http://www.unina.it), in Italy. My group aims to explore and understand [the emergence and evolution of life](emergence) and the [co-evolution of the Geosphere and the Biosphere](coevolution). I've been recently awarded a **ERC Starting Grant** to look at the co-evolution of biogeochemically-relevant proteins and trace metal availability in the environment called CoEVOLVE. Read more about [this project here](erccoevolve).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
@@ -80,9 +80,10 @@ We are located at the [University of Naples "Federico II"](http://www.unina.it),
 
 <br/>
 
-We are grateful for past and present funding from the [Deep Carbon Observatory](www.deepcarbon.net), [NASA](www.nasa.gov), the [C-DEBI](c-debi.org), the [National Science Foundation](www.nsf.gov) and the [ELSI Origins Network](http://eon.elsi.jp/).
+We are grateful for past and present funding from the [European Research Council](www.erc.europa.eu), the [Deep Carbon Observatory](www.deepcarbon.net), [NASA](www.nasa.gov), the [C-DEBI](c-debi.org), the [National Science Foundation](www.nsf.gov) and the [ELSI Origins Network](http://eon.elsi.jp/).
 
 <figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logo.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DCO.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/C-DEBI.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NASA.png" style="width: 90px">

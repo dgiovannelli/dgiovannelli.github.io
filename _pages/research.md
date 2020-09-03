@@ -25,6 +25,7 @@ Here is a list of present and past project, both funded and yet-to-be-funded, fo
 
 
 ### Current funded projects:
+**2020** Giovannelli D (PI). ERC Starting Grant 2020. “CoEvolve: ”Coevolution of Life and Planet: role of trace metal availability in the evolution of biogeochemically relevant redox metalloenzymes"
 
 **2016** Barry P (PI), de Moor M, Giovannelli D, Hummer D, Lloyd K, Lopez T and Pratt K (Co-PIs). Alfred P. Sloan Foundation. “Biology Meets Subduction: A Collaborative and Multi-disciplinary Deep Carbon Field Initiative”
 
