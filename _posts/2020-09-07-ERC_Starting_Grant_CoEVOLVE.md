@@ -5,7 +5,7 @@ share: true
 ---
 
 My project CoEVOLVE - "Coevolution of Life and Planet: role of trace metal availability in the evolution of biogeochemically relevant redox metalloenzymes" - has been awarded 2.1 M Euro by the European Research Council within the ERC Starting Grant 2020 scheme. The project will be broadly looking at the coevolution of Life and Earth through the lens of oxidoreductase protein evolution and the role of trace metal availability in controlling it. The project will last 5 years and involve a number of different expertise, including microbial physiology, genomics, proteomics and geochemistry.
-Soon I'll be opening up some PhD and Postdoctoral positions to work on the project, so keep an eye on the website and my twitter feed if interested. There will be also a section of the [website dedicated to the project](erccoevolve), where we will report on all the major advances.
+Soon I'll be opening up some PhD and Postdoctoral positions to work on the project, so keep an eye on the website and my twitter feed if interested. There will be also a section of the [website dedicated to the project](https://dgiovannelli.github.io/erccoevolve/), where we will report on all the major advances.
 For now please find below the abstract extracted from the project proposal and the new project logo designed by Patricia Barcala Domínguez.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/logopic/coevolve_logo.png){: style="width: 55%; float: center; border: 10px"}
