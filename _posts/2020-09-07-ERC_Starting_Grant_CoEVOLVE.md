@@ -8,7 +8,7 @@ My project CoEVOLVE - "Coevolution of Life and Planet: role of trace metal avail
 Soon I'll be opening up some PhD and Postdoctoral positions to work on the project, so keep an eye on the website and my twitter feed if interested. There will be also a section of the [website dedicated to the project](https://dgiovannelli.github.io/erccoevolve/), where we will report on all the major advances.
 For now please find below the abstract extracted from the project proposal and the new project logo designed by Patricia Barcala Domínguez.
 
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/coevolve_logo.png){: style="width: 55%; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/coevolve_logo.png){: style="width: 30%; float: center; border: 10px"}
 
 > The project will look at how the diversity and distribution of trace elements can influence the diversity and evolution of biogeochemically-relevant oxidoreductase proteins. Logo credit: Patricia Barcala Domínguez
 
