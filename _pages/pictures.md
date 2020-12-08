@@ -19,9 +19,17 @@ permalink: /pictures/
 #### Videos
 Here some videos from the lab and the field! More are available on our [youtube channel]() or in our social media feed on [Twitter]() or [Instagram]().
 
+<iframe width="355" height="200" src="https://www.youtube.com/embed/z2eLIO7PZew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="355" height="200" src="https://www.youtube.com/embed/2YTYleNFaPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="355" height="200" src="https://www.youtube.com/embed/WvLUnGnPBfs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="355" height="200" src="https://www.youtube.com/embed/TX0dIqX_UaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="355" height="200" src="https://www.youtube.com/embed/kZEDqsu8eVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="355" height="200" src="https://www.youtube.com/embed/pINSDv30m1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="355" height="200" src="https://www.youtube.com/embed/u9JxQdqtB_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

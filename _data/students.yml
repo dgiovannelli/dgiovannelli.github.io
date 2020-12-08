@@ -18,8 +18,8 @@
 
 - name: Martina Cascone
   photo: mc.jpg
-  role: Project Manager
-  info: ERC Starting Grant CoEvolve
+  role:
+  info:
   collab:
   number_educ: 2
   education1: MSc Biology, University of Naples "Federico II", Naples, Italy
@@ -27,9 +27,9 @@
 
 - name: Michele Intoccia
   photo: mi.jpg
-  role: Research Assistant
-  info: Bioinformatic analysis of microbila samples
-  collab: Dr. Giovanni Scala, UNINA
+  role:
+  info: 
+  collab:
   number_educ: 2
   education1: MSc Biology, University of Naples "Federico II", Naples, Italy
   education2: BSc Biology, University of Naples "Federico II", Naples, Italy
