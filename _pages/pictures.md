@@ -56,43 +56,11 @@ Here some videos from the lab and the field! More are available on our [youtube 
 <br/>
 <br/>
 #### Pictures
-
+##### From the Field
 {% include image-gallery.html folder="/images/picpic/field/" %}
 
-(Right-click *'view image'* to see a larger image.)
-{% assign number_printed = 0 %}
-{% for pic in site.data.piclist %}
+##### From the Lab
+{% include image-gallery.html folder="/images/picpic/laboratory/" %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/field/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 2 %}
-</div>
-{% endif %}
-
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
+##### General photography
+{% include image-gallery.html folder="/images/picpic/photography/" %}
