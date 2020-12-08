@@ -1,12 +1,3 @@
-- name: Monica Correggia
-  photo: mcor.jpg
-  role: Graduate Assistant
-  info:
-  collab:
-  number_educ: 2
-  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
-  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
-
 - name: Matteo Selci
   photo: ms.jpg
   role: PhD student
@@ -16,37 +7,32 @@
   education1: MSc Marine Biology and Ecology, Polytechnic University of Marche, Ancona, Italy
   education2: BSc Biology, Polytechnic University of Marche, Ancona, Italy
 
-- name: Alessandra Ferrillo
-  photo: af.jpg
-  role: Master student
-  info: Shallow-water hydrothermal vents microbial diversity
-  collab: Prof. Costantino Vetriani, Rutgers University
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+- name: Monica Correggia
+  photo: mcor.jpg
+  role: Graduate Assistant
+  info:
+  collab:
+  number_educ: 2
+  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
+  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
 
 - name: Martina Cascone
   photo: mc.jpg
-  role: Master student
-  info: Identification of new antimicrobial compounds from extremophiles
+  role: Project Manager
+  info: ERC Starting Grant CoEvolve
   collab:
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Rosaria Capuozzo
-  photo: rc.jpg
-  role: Master student
-  info: Antartic water column microbial diversity
-  collab:
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+  number_educ: 2
+  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
+  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
 
 - name: Michele Intoccia
   photo: mi.jpg
-  role: Master student
-  info: InterReg WaterCare project
-  collab: Dr. Elena Manini, CNR-IRBIM
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+  role: Research Assistant
+  info: Bioinformatic analysis of microbila samples
+  collab: Dr. Giovanni Scala, UNINA
+  number_educ: 2
+  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
+  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
 
 - name: Rosanna Bossa
   photo: rb.jpg
@@ -111,6 +97,38 @@
   collab:
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Michela Piegari
+  photo: mp.jpg
+  role: Master student
+  info:
+  collab:
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Francesco Montemagno
+  photo: fm.jpg
+  role: Master student
+  info:
+  collab:
+  number_educ: 1
+  education1: BSc Natural Sciences, University of Naples "Federico II", Naples, Italy
+
+- name: Angelica Severino
+  photo: as.jpg
+  role: Master student
+  info:
+  collab:
+  number_educ: 1
+  education1:  BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Sonia De Rosa
+  photo: sdr.jpg
+  role: Master student
+  info:
+  collab:
+  number_educ: 1
+  education1:  BSc Biology, University of Naples "Federico II", Naples, Italy
 
 - name: Davide Limongello
   photo: bio.jpg

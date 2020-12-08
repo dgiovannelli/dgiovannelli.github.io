@@ -23,6 +23,8 @@ Here some videos from the lab and the field! More are available on our [youtube 
 
 <iframe width="355" height="200" src="https://www.youtube.com/embed/u9JxQdqtB_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="355" height="200" src="https://www.youtube.com/embed/DeqUDAwUz3E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Pictures
 ##### From the Field
 (Right-click *'view image'* to see a larger image.)

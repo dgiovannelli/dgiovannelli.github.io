@@ -148,7 +148,7 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alum
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.role }}<br>project: {{ member.info }}<br>Co-Advisor: {{ member.collab }}</i>
+  <i>In the lab from {{ member.duration }} <br> as a: {{ member.role }}<br>Last we checked was a: {{ member.current }}</i>
   <ul style="overflow: hidden">
 
   </ul>
