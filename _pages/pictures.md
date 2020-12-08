@@ -62,5 +62,8 @@ Here some videos from the lab and the field! More are available on our [youtube 
 ##### From the Lab
 {% include image-gallery.html folder="/images/picpic/laboratory/" %}
 
+##### From meetings and conferences
+{% include image-gallery.html folder="/images/picpic/meetings/" %}
+
 ##### General photography
 {% include image-gallery.html folder="/images/picpic/photography/" %}
