@@ -8,6 +8,12 @@ permalink: /mediaoutreach/
 Here our efforts to explain to the public and other scientist what we do, either through outreach activities or by interacting with the media. Jump to our [outreach activities](#outreach-activities) or check out the [media covering](#media-coverage) our research.
 
 # Outreach activities
+**2021** I was recently interview by  [Microbiologia Italia](https://www.microbiologiaitalia.it/) for their "Un Caffé con la Microbiologia" series. We speak about my research, my career and my recent ERC Starting Grant project. The video is available on [YouTube](https://youtu.be/QjSwNesTJXY)
+
+**2020** My interview (in Italiano) with [Alberto Vitale-Brovarone (UNIBO)](https://sites.google.com/site/alvitalebrovarone/home) regarding our paper recently appeared in Nature Communication for the podcast Co.Scienza is available on [Spotify](https://spoti.fi/2FT2pen)
+
+**2020** My public seminar (in Italiano) on the Aeolian Island shallow-water hydrothermal vents entitled "Perché proteggere gli ambienti estremi delle Eolie?” organized by the Aeolian Island Preservation Fund is online and can be viewed on [YouTube](youtu.be/Ra0_wl7S9X0)
+
 **2019** Guest of the [MiniGeology podcast](http://earthscience.rice.edu/minigeology) on the  KPFT Houston radio. The interview can be found at on [youtube](http://youtu.be/X6nwJbO3Q84)
 
 **2019** Invited speaker at the [2019 FISV Days](bit.ly/2OUn8iK) in Naples, to speak about the co-evolution of Life and planet. The talk, in Italian,  will soon be available on YouTube
@@ -36,11 +42,29 @@ Here our efforts to explain to the public and other scientist what we do, either
 
 # Media coverage
 
-**2019** The new book from [Robert Hazen](), the Director of the Deep Carbon Observatory, entitled Symphony in C (buy it on amazaon here, it's a fantastic read) features a picture of myself and [Karen Lloyd (UTK)]() while we sample a hotsping in Costa rica during the 2017 field campaign. The same picture appeared on the book review published in [Science]()
+**2021** A new article appeared in the online blog Earth Island Journal entitled "Finding Carbon Sinks in Unlikely Places" and covering our recent work on carbon cycling at convergent margins. You can read the [article here](https://www.earthisland.org/journal/index.php/articles/entry/finding-carbon-sinks-in-unlikely-places)
 
-**2019** A great post appeared on the website [manyworlds.org]() highlights our recent Nature publication in the context of other publications discussing their role in changing our view of geo-bio interaction and the search of life on other planets
+**202** I appeared on the second episode (Janus) of the Netflix astrobiology-focused docuseries [Alien Worlds](https://www.netflix.com/title/80221410), talking about the importance of water for the search for life and the role of hydrothermal vents
 
-**2019** Our paper on a new sink of carbon in volcanic arc published in [Nature]({{ site.url }}/publications.html) was picked up by a number of International News sites and newspapers including the online science blogs [phys.org](), [manyworlds.org](), the international news websites XXXXXXXX, and the newspapers [Gazzetta del Mezzoggiorno](), [La Repubblica](),
+**2020** An article by Romulo Cruz based on  our American Mineralogist review on hydration-dehydration reactions appeared online in the [sciworthy blog](https://sciworthy.com/how-water-shaped-the-earth/) entitled “How water shaped the Earth. Minerologists, geologists, astronomers, astrobiologists explain how water shaped our planet’s history by studying the types of chemical reactions where water plays a fundamental role”
+
+**2020** Our recent Nature Communication article about deep sources of energy for subsurface microbial communities has been featured in Nature new [Subduction collection]( https://www.nature.com/collections/cbjbfjhdbg)
+
+**2020** Our Nature Communication article about a previously unrecognized sources of deep serpentinization in subduction zones has been covered by several media outlet, including the ScienceDaily, LeScienze and featured on online blog, twitter feed and science blogs. Find the full list here
+
+**2020** Our laboratory Winogradsky columns have appeared on the science communication blog [justinedees.com](justinedees.com/winogradsky-column)
+
+**2019** A blog entry written by Peter Barry (WHOI) appeared on the blog of the Nature journal Scientific Data regarding our [recent data paper](go.nature.com/2PWLzNm) on the Costa Rica dataset
+
+**2019** Appeared on a featured article on the deepcarb.net website about the Earth in Five Reactions Special Collection I am co-editing in [American Mineralogist](bit.ly/2R0BvF4)
+
+**2019** I appeared on a featured article on the deepcarb.net website about the [Wikipedia Fellowship](tiny.cc/3utgaz)
+
+**2019** The new book from [Robert Hazen](https://hazen.carnegiescience.edu/), the Director of the Deep Carbon Observatory, entitled Symphony in C (buy it on [Amazon here](https://www.amazon.com/Symphony-Carbon-Evolution-Almost-Everything-ebook/dp/B07JR2F2V5), it's a fantastic read) features a picture of myself and [Karen Lloyd (UTK)](http://lloydlab.utk.edu/) while we sample a hotsping in Costa Rica during the 2017 field campaign. The same picture appeared on the book review published in [Science](https://blogs.sciencemag.org/books/2019/07/02/symphony-in-c/)
+
+**2019** A great post appeared on the website [manyworlds.space](https://manyworlds.space/2019/06/23/the-interiors-of-exoplanets-may-well-hold-the-key-to-their-habitability/) entitle "The Interiors of Exoplanets May Well Hold the Key to Their Habitability", highlighing our recent Nature publication in the context of other publications discussing their role in changing our view of geo-bio interaction and the search of life on other planets
+
+**2019** Our paper on a new sink of carbon in volcanic arc published in [Nature]({{ site.url }}/publications.html) was picked up by a number of International News sites and newspapers including the online science blogs, international news websites and newspapers. See the full list of media coverage at [tiny.cc/v3tgaz](tiny.cc/v3tgaz)
 
 **2018** My December 2017 interview with New York Times science writer [Carl Zimmer](https://carlzimmer.com/) is finally online. Part of the “what is life?” series at the Caveat, NYC, USA. Listen to it at “[Warm Ponds Or Hellish Vents–Where Did Life Begin?](http://whatislife.libsyn.com/episode-7-donato-giovannelli-warm-ponds-or-hellish-ventswhere-did-life-begin)“
 
