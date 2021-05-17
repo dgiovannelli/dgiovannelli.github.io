@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** 
 
 
 Jump to [staff](#staff), [postdocs](#postdocs), [PhD students](#phds), [graduate students](#graduate-students), [current visitors](#current-visitors), [alumni](#alumni),  [undergraduate alumni](#undergraduate-alumni), [high school alumni](#high-school-alumni), [past visitors](#past-visitors). Read more about each staff member by clicking on their name!
