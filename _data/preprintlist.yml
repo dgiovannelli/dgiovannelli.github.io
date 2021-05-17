@@ -3,9 +3,10 @@
   description:
   authors: Fullerton KM, Schrenk M, Yucel M, Manini E, Fattorini D, di Carlo M, RegoliF, Nakagawa M, Smedile F, Vetriani C, Miller H, Morrison S, Martinez M, de Moor JM, Barry PH, Giovannelli D, Lloyd K
   year: 2019
+  doi: 10.31223/osf.io/gyr7n
   link:
-    url: https://eartharxiv.org/gyr7n
-    display: EarthArxiv, doi 10.31223/osf.io/gyr7n
+    url: https://doi.org/10.31223/osf.io/gyr7n
+    display: EarthArxiv
   highlight: 0
   news2:
 
@@ -14,9 +15,10 @@
   description:
   authors: Merino N, Aronson HS, Bojanova D, Feyhl-Buska J, Wong ML, Zhang S, Giovannelli D
   year: 2019
+  doi: 10.31223/osf.io/8eay6
   link:
-    url:
-    display: EarthArxiv, doi 10.31223/osf.io/8eay6
+    url: https://doi.org/10.31223/osf.io/8eay6
+    display: EarthArxiv
   highlight: 0
   news2:
 
@@ -25,8 +27,9 @@
   description:
   authors: Baldrighi E, Giovannelli E, D'errico G, Lavaleye MSS and Manini E
   year: 2018
+  doi: 10.5194/bg-2016-26
   link:
-    url:
-    display: Biogeoscience Discussion, doi 10.5194/bg-2016-26
+    url: https://doi.org/10.5194/bg-2016-26
+    display: Biogeoscience Discussion
   highlight: 0
   news2:

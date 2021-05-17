@@ -19,3 +19,27 @@
   education1: 2003 - BSc, Biology, University of Naples Federico II, Italy
   education2: 2003-2006 - PhD, Applied Biology, Microbiology and Ecology, University of Naples "Federico II", Naples, Italy
   education3: 2007-2008 - Postdoctoral Research Fellow, Reyrat laboratory, Necker Institute, Paris, France
+
+- name: Monica Correggia
+  photo: mcor.jpg
+  info: Graduate Assistant
+  email:
+  number_educ: 2
+  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
+  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Martina Cascone
+  photo: mc.jpg
+  info: ERC STG grant CoEvolve Project Manager
+  email:
+  number_educ: 2
+  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
+  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Bernardo Barosas
+  photo: bb.jpg
+  info: Graduate Assistant
+  email:
+  number_educ: 2
+  education1: MSc Microbiology, University of Aveiro, Portugal
+  education2: BSc Biology, University of Aveiro, Portugal

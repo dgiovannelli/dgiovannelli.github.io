@@ -1,3 +1,39 @@
+- title: "Plate tectonics drive deep biosphere microbial community structure"
+  image: fullerton_network.png
+  description: We show that the subsurface ecosystem in the convergent margin of Costa Rica is composed by a diverse community of chemolithoautotrophs responding coesively to changes in the geometry and geology of the subduction zone. We further show that the community feeds of CO2 released from the subducting slab and it is able to sequester a large amount of CO2 preventing it from reaching the atmosphere.
+  authors: Fullerton KM, Schrenk MO, Yücel M, Manini E, Basili M, Rogers TJ, Fattorini D, Di Carlo M, d’Errico G, Regoli F, Nakagawa M, Vetriani C, Smedile F, Ramírez C, Miller H, Morrison SM, Buongiorno J, Jessen GL, Martínez M, de Moor JM, Barry PH, Giovannelli D*, Lloyd KG*.
+  year: 2021
+  doi: 10.1038/s41561-021-00725-0
+  link:
+    url: https://doi.org/10.1038/s41561-021-00725-0
+    display: Nature Geoscience
+  highlight: 1
+  news2:
+
+- title: "Metaproteogenomic profiling of chemosynthetic microbial biofilms reveals metabolic flexibility during colonization of a shallow-water gas vent"
+  image:
+  description:
+  authors: Patwardhan S, F Smedile, D Giovannelli, C Vetriani.
+  year: 2021
+  doi: 10.3389/fmicb.2021.638300
+  link:
+    url: https://doi.org/10.3389/fmicb.2021.638300
+    display: Frontiers in Microbiology
+  highlight: 0
+  news2:
+
+- title: "Exploring carbon mineral systems: recent advances in C mineral evolution, mineral ecology, and network analysis"
+  image:
+  description:
+  authors: Shaunna SM*, Buongiorno J, Downs RT, Eleish A, Fox P, Giovannelli D*, Golden JJ, Hummer DR, Hystad G, Kellogg LH, Kreylos O, Krivovichev S, Liu C, Merdith A, Prabhu A, Ralph J, Runyon S, Zahirovic S, Hazen RM.
+  year: 2020
+  doi: 10.3389/feart.2020.00208
+  link:
+    url: https://doi.org/10.3389/feart.2020.00208
+    display: Frontiers in Earth Science, 8:208
+  highlight: 0
+  news2:
+
 - title: "Subduction hides high-pressure sources of energy that may feed the deep subsurface biosphere"
   image:
   description:
@@ -10,6 +46,18 @@
   highlight: 0
   news2:
 
+- title: "Microbial influences on subduction zone carbon cycling"
+  image:
+  description:
+  authors: Giovannelli D*, PH Barry, JM de Moor, KG Lloyd, and MO Schrenk.
+  year: 2020
+  doi: 10.1029/2020EO140906
+  link:
+    url: https://doi.org/10.1029/2020EO140906
+    display: Eos, 101
+  highlight: 0
+  news2:
+
 - title: "Major role of surrounding environment in shaping biofilm community composition on marine plastic debris"
   image:
   description:
@@ -18,7 +66,7 @@
   doi: 10.3389/fmars.2020.00262
   link:
     url: https://doi.org/10.3389/fmars.2020.00262
-    display: Frontiers in Marine Science, accepted
+    display: Frontiers in Marine Science,  Sci. 7:262
   highlight: 0
   news2:
 
@@ -27,22 +75,22 @@
   description:
   authors: Vitale-Brovarone A, Butch C, Ciappa A, Cleaves H, Elmaleh A, Faccenda M, Feineman M,  Hermann J, Nestola F, Cordone A, and Giovannelli D.
   year: 2020
-  doi:
+  doi: 10.2138/am-2020-7380
   link:
-    url:
-    display: American Mineralogist, accepted
+    url: https://doi.org/10.2138/am-2020-7380
+    display: American Mineralogist, 105 8:1152–1160
   highlight: 0
   news2:
 
-- title: "Biotic and biotic processes that drive carboxylation and decarboxylation reactions"
+- title: "Abiotic and biotic processes that drive carboxylation and decarboxylation reactions"
   image:
   description:
   authors: Sheik CS, Cleaves II HJ, Johnson-Finn K, Giovannelli D, Kieft TL, Papineau D, Schrenk MO, Tumiati S.
   year: 2020
-  doi:
+  doi: 10.2138/am-2020-7166CCBYNCND
   link:
-    url:
-    display: American Mineralogist, accepted
+    url: https://doi.org/10.2138/am-2020-7166CCBYNCND
+    display: American Mineralogist, 105 5:609–615
   highlight: 0
   news2:
 
@@ -53,7 +101,7 @@
   year: 2020
   doi: 10.1029/2020EO140906
   link:
-    url: https://oi.org/10.1029/2020EO140906
+    url: https://doi.org/10.1029/2020EO140906
     display: Eos, 101
   highlight: 0
   news2:
@@ -75,9 +123,9 @@
   description:
   authors: Mariscal C, N Aubert-Kato, A Umur Aydinoglu, A Barahona, S Bartlett, ML Cárdenas, K Chandru, HJ Cleaves II, C Cleland, BT Cocanougher, N Comfort, A Cornish-Bowden, T Deacon, T Froese, D Giovannelli, J Hernlund, N Merino, A Moreno, M Nakagawa, J Pereto, N Virgo, O Witkowski, J Kimura
   year: 2019
-  doi:
+  doi: 10.1007/s11084-019-09580-x
   link:
-    url: accepted
+    url: https://doi.org/10.1007/s11084-019-09580-x
     display: Origins of Life and Evolution of Biospheres,
   highlight: 0
   news2:
@@ -101,8 +149,8 @@
   year: 2019
   doi: 10.3389/fmicb.2019.00780
   link:
-    url: https://www.frontiersin.org/articles/10.3389/fmicb.2019.00780/abstract
-    display: Frontiers in Microbiology, accepted
+    url: https://www.frontiersin.org/articles/10.3389/fmicb.2019.00780
+    display: Frontiers in Microbiology, 10:780
   highlight: 1
   news2:
 
@@ -113,7 +161,7 @@
   year: 2019
   doi: 10.2138/am-2019-6833
   link:
-    url:
+    url: https://doi.org/10.2138/am-2019-6833
     display: "American Mineralogist, 104: 465–467"
   highlight: 0
   news2:
@@ -125,7 +173,7 @@
   year: 2018
   doi: 10.3389/fmicb.2018.02970
   link:
-    url:
+    url: https://doi.org/10.3389/fmicb.2018.02970
     display: Frontiers in Microbiology
   highlight: 0
   news2:
@@ -137,7 +185,7 @@
   year: 2018
   doi: 10.1016/B978-0-12-409548-9.11250-3
   link:
-    url:
+    url: https://doi.org/10.1016/B978-0-12-409548-9.11250-3
     display: Reference Module in Earth Systems and Environmental Sciences
   highlight: 0
   news2:
@@ -149,7 +197,7 @@
   year: 2018
   doi: 10.1016/B978-0-12-409548-9.11015-2
   link:
-    url:
+    url: https://doi.org/10.1016/B978-0-12-409548-9.11015-2
     display: Reference Module in Earth Systems and Environmental Sciences
   highlight: 0
   news2:
@@ -161,7 +209,7 @@
   year: 2018
   doi: 10.1111/1462-2920.14280
   link:
-    url:
+    url: https://doi.org/10.1111/1462-2920.14280
     display: "Environmental Microbiology, 20(6): 2301-2316"
   highlight: 0
   news2:
@@ -173,8 +221,8 @@
   year: 2017
   doi: 10.3389/feart.2017.00089
   link:
-    url:
-    display: "Frontiers in Earth Science, 5: 89"
+    url: https://doi.org/10.3389/feart.2017.00089
+    display: Frontiers in Earth Science, 5:89
   highlight: 0
   news2:
 
@@ -185,7 +233,7 @@
   year: 2017
   doi: 10.1016/j.marenvres.2017.10.003
   link:
-    url:
+    url: https://doi.org/10.1016/j.marenvres.2017.10.003
     display: "Marine Environmental Research, 132: 1-13"
   highlight: 0
   news2:
@@ -197,7 +245,7 @@
   year: 2017
   doi: 10.1038/ngeo3006
   link:
-    url:
+    url: https://doi.org/10.1038/ngeo3006
     display: "Nature Geoscience, 10: 629–636"
   highlight: 1
   news2:
@@ -209,7 +257,7 @@
   year: 2017
   doi: 10.3389/fmars.2017.00198
   link:
-    url:
+    url: https://doi.org/10.3389/fmars.2017.00198
     display: "Frontiers in Marine Sciences, 4"
   highlight: 0
   news2:
@@ -219,9 +267,9 @@
   description: "In this brif perspective I discuss together with Costa Vetriani the link between extremophiles, especially the Epsilonproteobacteria, and human pathogens, and how we can used comparative evolutionary genomic to study the evolutionary transition from free-living to obbligate pathogen."
   authors: Giovannelli D and Vetriani C
   year: 2017
-  doi:
+  doi: 10.1042/BIO03906004
   link:
-    url:
+    url: https://doi.org/10.2138/am-2020-7380
     display: "The Biochemist, vol. 39:6"
   highlight: 1
   news2:
@@ -233,7 +281,7 @@
   year: 2017
   doi: 10.1016/B978-0-12-409548-9.09523-3
   link:
-    url:
+    url: https://doi.org/10.1016/B978-0-12-409548-9.09523-3
     display: Reference Module in Earth Systems and Environmental Sciences
   highlight: 1
   news2:
@@ -245,7 +293,7 @@
   year: 2017
   doi: 10.7554/eLife.18990
   link:
-    url:
+    url: https://doi.org/10.7554/eLife.18990
     display: "eLife 6: e18990"
   highlight: 1
   news2:
@@ -257,7 +305,7 @@
   year: 2017
   doi: 10.5281/zenodo.569874
   link:
-    url:
+    url: https://doi.org/10.5281/zenodo.569874
     display: "CNR technical report, pp. 1-103"
   highlight: 0
   news2:
@@ -269,7 +317,7 @@
   year: 2016
   doi: 10.3389/fmicb.2016.00941
   link:
-    url:
+    url: https://doi.org/10.3389/fmicb.2016.00941
     display: "Frontiers in Microbiology, 7:941"
   highlight: 0
   news2:
@@ -281,7 +329,7 @@
   year: 2016
   doi: 10.1099/ijsem.0.001106
   link:
-    url:
+    url: https://doi.org/10.1099/ijsem.0.001106
     display: "IJSEM, 66: 2697-2701"
   highlight: 0
   news2:
@@ -293,7 +341,7 @@
   year: 2016
   doi: 10.1146/annurev-micro-102215-095521
   link:
-    url:
+    url: https://doi.org/10.1146/annurev-micro-102215-095521
     display: "Annual Review of Microbiology, 70 (1): 45-62"
   highlight: 0
   news2:
@@ -305,7 +353,7 @@
   year: 2015
   doi: 10.1016/j.dsr2.2015.07.020
   link:
-    url:
+    url: https://doi.org/10.1016/j.dsr2.2015.07.020
     display: "Deep-Sea Research Part II, 121:31-40"
   highlight: 0
   news2:
@@ -315,9 +363,9 @@
   description:
   authors: Pasotti F, E Manini, Giovannelli D, AC Wölfl, D Monien, E Verleyen, U Braeckman, D Abele, A Vanreusel
   year: 2014
-  doi: 0.1111/maec.12179
+  doi: 10.1111/maec.12179
   link:
-    url:
+    url: https://doi.org/10.1111/maec.12179
     display: Marine Biology
   highlight: 0
   news2:
@@ -329,7 +377,7 @@
   year: 2014
   doi: 10.1038/ismej.2013.246
   link:
-    url:
+    url: https://doi.org/10.1038/ismej.2013.246
     display: The ISME Journal
   highlight: 0
   news2:
@@ -341,7 +389,7 @@
   year: 2013
   doi: 10.1016/j.chemgeo.2013.07.020
   link:
-    url:
+    url: https://doi.org/10.1016/j.chemgeo.2013.07.020
     display: "Chemical Geology 356: 11–20"
   highlight: 0
   news2:
@@ -353,7 +401,7 @@
   year:
   doi: 10.1371/journal.pone.0072996
   link:
-    url:
+    url: https://doi.org/10.1371/journal.pone.0072996
     display: "PLoS ONE 8 (8): e72996"
   highlight: 0
   news2:
@@ -365,7 +413,7 @@
   year: 2012
   doi: 10.4056/sigs.2856770
   link:
-    url:
+    url: https://doi.org/10.4056/sigs.2856770
     display: "Standard In Genomic Science, 7(1):82-90"
   highlight: 0
   news2:
@@ -377,7 +425,7 @@
   year: 2012
   doi: 10.1016/j.chemosphere.2012.11.037
   link:
-    url:
+    url: https://doi.org/10.1016/j.chemosphere.2012.11.037
     display: Chemosphere
   highlight: 0
   news2:
@@ -389,7 +437,7 @@
   year: 2012
   doi: 10.1099/ijs.0.040808-0
   link:
-    url:
+    url: https://doi.org/10.1099/ijs.0.040808-0
     display: "IJSEM, 62(12):3060-3066"
   highlight: 0
   news2:
@@ -401,7 +449,7 @@
   year: 2012
   doi: 10.4056/sigs.2094859
   link:
-    url:
+    url: https://doi.org/10.4056/sigs.2094859
     display: "Standard In Genomic Science, 5(1):135-143"
   highlight: 0
   news2:
@@ -413,7 +461,7 @@
   year: 2012
   doi: 10.1016/j.ecss.2011.11.036
   link:
-    url:
+    url: https://doi.org/10.1016/j.ecss.2011.11.036
     display: "Estuarine and Coastal Shelf Science, 97:141-148"
   highlight: 0
   news2:
@@ -425,7 +473,7 @@
   year: 2011
   doi: 10.1016/j.aquaculture.2011.09.024
   link:
-    url:
+    url: https://doi.org/10.1016/j.aquaculture.2011.09.024
     display: "Aquaculture, 322-323:181-200"
   highlight: 0
   news2:
@@ -437,7 +485,7 @@
   year: 2008
   doi: 10.1289/ehp.10966
   link:
-    url:
+    url: https://doi.org/10.1289/ehp.10966
     display: "Environmental Health Perspective, 116: 441-447"
   highlight: 0
   news2:
@@ -449,7 +497,7 @@
   year: 2005
   doi: 10.1002/bmb.2005.49403304293
   link:
-    url:
+    url: https://doi.org/10.1002/bmb.2005.49403304293
     display: "Biochemistry and Molecular Biology Education, 33: 293-301"
   highlight: 0
   news2:

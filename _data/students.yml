@@ -1,59 +1,7 @@
-- name: Matteo Selci
-  photo: ms.jpg
-  role: PhD student
-  info: Diversity of microbial communities in geothermal environments
-  collab: Dr. Maarten de Moor, OVSICORI
-  number_educ: 2
-  education1: MSc Marine Biology and Ecology, Polytechnic University of Marche, Ancona, Italy
-  education2: BSc Biology, Polytechnic University of Marche, Ancona, Italy
-
-- name: Monica Correggia
-  photo: mcor.jpg
-  role: Graduate Assistant
-  info:
-  collab:
-  number_educ: 2
-  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
-  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Martina Cascone
-  photo: mc.jpg
-  role:
-  info:
-  collab:
-  number_educ: 2
-  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
-  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Michele Intoccia
-  photo: mi.jpg
-  role:
-  info: 
-  collab:
-  number_educ: 2
-  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
-  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Rosanna Bossa
-  photo: rb.jpg
-  role: Master student
-  info: Microbiome of by catch fish in the Lesina Lagoon
-  collab: Dr. Elena Manini, CNR-IRBIM
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Alessandro Coppola
-  photo: ac.jpg
-  role: Master student
-  info: Mycobacteria molecular biology
-  collab:
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
 - name: Carmela Celentano
   photo: cc.jpg
   role: Master student
-  info:
+  info: Microbial diversity of the shallow-water vents of the Campania region
   collab:
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
@@ -61,7 +9,7 @@
 - name: Giacomo Fabozzi
   photo: gf.jpg
   role: Master student
-  info:
+  info: Microbial diversity in samples from the IODP 374 expedition
   collab:
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
@@ -69,7 +17,7 @@
 - name: Antonio Cascone
   photo: acasc.jpg
   role: Master student
-  info:
+  info: Reconstructing the evolutionary history of the periplasmic nitrate reductase
   collab:
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
@@ -77,7 +25,7 @@
 - name: Raffaella Postiglione
   photo: rp.jpg
   role: Master student
-  info:
+  info: Diversity of gram+ in extreme environments
   collab:
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
@@ -85,7 +33,7 @@
 - name: Deborah Bastoni
   photo: db.jpg
   role: Master student
-  info:
+  info: Tracing constrains between the tectonic settings and the utilization fo trace elements by extremophilic microbial communities
   collab:
   number_educ: 1
   education1: BSc Natural Sciences, University of Naples "Federico II", Naples, Italy
@@ -93,15 +41,15 @@
 - name: Ottavia Iacovino
   photo: oi.jpg
   role: Master student
-  info:
-  collab:
+  info: Isolation and characterization of the etiological agents of seaurchins infections
+  collab: Dr. Francesca Carella
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
 - name: Michela Piegari
   photo: mp.jpg
   role: Master student
-  info:
+  info: Mapping relationship between different DNA pools in a extremophilic biofilm
   collab:
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
@@ -109,31 +57,7 @@
 - name: Francesco Montemagno
   photo: fm.jpg
   role: Master student
-  info:
+  info: Diversity of the microbiome associated with different shark species
   collab:
   number_educ: 1
   education1: BSc Natural Sciences, University of Naples "Federico II", Naples, Italy
-
-- name: Angelica Severino
-  photo: as.jpg
-  role: Master student
-  info:
-  collab:
-  number_educ: 1
-  education1:  BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Sonia De Rosa
-  photo: sdr.jpg
-  role: Master student
-  info:
-  collab:
-  number_educ: 1
-  education1:  BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Davide Limongello
-  photo: bio.jpg
-  role: Master student
-  info:
-  collab: Prof. Matteo Porotto, Columbia University, NY, USA
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy

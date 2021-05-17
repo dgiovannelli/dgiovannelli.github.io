@@ -25,7 +25,7 @@ Jump at the bottom of the page to see a [full list of publications](#full-list),
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
+  <div data-badge-popover="right" data-badge-type="donut" data-condensed="true" data-doi="{{ publi.doi }}" class="altmetric-embed" style="float: right; display: inline-block; clear: both;"></div><pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p>{{ publi.authors }}. {{ publi.year }}. {{ publi.title }}. <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em></p>
@@ -52,17 +52,20 @@ Jump at the bottom of the page to see a [full list of publications](#full-list),
 
 
 ## Full List
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 
 {% for publi in site.data.publist %}
 
-  {{ publi.authors }}. <strong>{{ publi.year }}</strong>. {{ publi.title }}. <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em>
+  <div data-badge-popover="right" data-badge-type="4" data-condensed="true" data-doi="{{ publi.doi }}" class="altmetric-embed" style="float: right; display: inline-block; clear: both;"></div> {{ publi.authors }}. <strong>{{ publi.year }}</strong>. {{ publi.title }}. <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em>
+
 
 {% endfor %}
 
 ## Preprints
 {% for publi in site.data.preprintlist %}
 
-  {{ publi.authors }}. <strong>{{ publi.year }}</strong>. {{ publi.title }}. <em>{{ publi.link.display }}</em>
+  <div data-badge-popover="right" data-badge-type="4" data-condensed="true" data-doi="{{ publi.doi }}" class="altmetric-embed" style="float: right; display: inline-block; clear: both;"></div> {{ publi.authors }}. <strong>{{ publi.year }}</strong>. {{ publi.title }}. <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em>
 
 {% endfor %}
 
@@ -70,13 +73,13 @@ Jump at the bottom of the page to see a [full list of publications](#full-list),
 
 {% for publi in site.data.booklist %}
 
-  {{ publi.authors }}. <strong>{{ publi.year }}</strong>. {{ publi.title }}. <em>{{ publi.link.display }}</em>
+  <div data-badge-popover="right" data-badge-type="4" data-condensed="true" data-isbn="{{ publi.isbn }}" class="altmetric-embed" style="float: right; display: inline-block; clear: both;"></div> {{ publi.authors }}. <strong>{{ publi.year }}</strong>. {{ publi.title }}. <em>{{ publi.link.display }}. {{ publi.doi }}</em>
 
 {% endfor %}
 
 ## Patents
 {% for publi in site.data.patentlist %}
 
-  <strong>{{ publi.year }}</strong>. {{ publi.title }}. {{ publi.authors }}. <em>{{ publi.link.display }}</em>
+  <div data-badge-popover="right" data-badge-type="4" data-condensed="true" data-doi="{{ publi.link.display }}" class="altmetric-embed" style="float: right; display: inline-block; clear: both;"></div>  <strong>{{ publi.year }}</strong>. {{ publi.title }}. {{ publi.authors }}. <em>{{ publi.link.display }}</em>
 
 {% endfor %}

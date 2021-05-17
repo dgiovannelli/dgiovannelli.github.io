@@ -8,6 +8,9 @@ permalink: /mediaoutreach/
 Here our efforts to explain to the public and other scientist what we do, either through outreach activities or by interacting with the media. Jump to our [outreach activities](#outreach-activities) or check out the [media covering](#media-coverage) our research.
 
 # Outreach activities
+
+**2021** I was recently interview by  [Passione Astronomia](https://www.passioneastronomia.it/) for their "I giovedí dell'Astrobiologia" series. We spoke about my research, my career and the new master porgam in the Biology of Extreme Environments I have contributed to design in Naples. The video is available on [YouTube](https://youtu.be/Y6SW5e5iHFc)
+
 **2021** I was recently interview by  [Microbiologia Italia](https://www.microbiologiaitalia.it/) for their "Un Caffé con la Microbiologia" series. We speak about my research, my career and my recent ERC Starting Grant project. The video is available on [YouTube](https://youtu.be/QjSwNesTJXY)
 
 **2020** My interview (in Italiano) with [Alberto Vitale-Brovarone (UNIBO)](https://sites.google.com/site/alvitalebrovarone/home) regarding our paper recently appeared in Nature Communication for the podcast Co.Scienza is available on [Spotify](https://spoti.fi/2FT2pen)
@@ -42,9 +45,11 @@ Here our efforts to explain to the public and other scientist what we do, either
 
 # Media coverage
 
-**2021** A new article appeared in the online blog Earth Island Journal entitled "Finding Carbon Sinks in Unlikely Places" and covering our recent work on carbon cycling at convergent margins. You can read the [article here](https://www.earthisland.org/journal/index.php/articles/entry/finding-carbon-sinks-in-unlikely-places)
+**2021** Our recent paper published in Nature Geoscience was covered by a news article in **AAAS Science**. Several colleagues comment on our findings and the impact of our ongoing research. Find the Science news [article here](https://www.sciencemag.org/news/2021/04/microbes-are-siphoning-massive-amounts-carbon-earth-s-tectonic-plates)
 
-**202** I appeared on the second episode (Janus) of the Netflix astrobiology-focused docuseries [Alien Worlds](https://www.netflix.com/title/80221410), talking about the importance of water for the search for life and the role of hydrothermal vents
+**2021** I recently appeared in an interview in the journal **Nature Italy** speaking about the new Master Program in the Biology of Extreme Environments I have designed in Naples. The article is available both in English and Italian and can be [found here](https://www.nature.com/articles/d43978-021-00042-5)
+
+**2020** I appeared on the second episode (Janus) of the **Netflix** astrobiology-focused docuseries [Alien Worlds](https://www.netflix.com/title/80221410), talking about the importance of water for the search for life and the role of hydrothermal vents
 
 **2020** An article by Romulo Cruz based on  our American Mineralogist review on hydration-dehydration reactions appeared online in the [sciworthy blog](https://sciworthy.com/how-water-shaped-the-earth/) entitled “How water shaped the Earth. Minerologists, geologists, astronomers, astrobiologists explain how water shaped our planet’s history by studying the types of chemical reactions where water plays a fundamental role”
 

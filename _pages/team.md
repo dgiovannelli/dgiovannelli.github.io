@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alumni),  [undergraduate alumni](#undergraduate-alumni), [high school alumni](#high-school-alumni) [lab visitors](#lab-visitors). Read [more about me here]({{ site.url }}/myself.html).
+Jump to [staff](#staff), [postdocs](#postdocs), [PhD students](#phds), [graduate students](#graduate-students), [current visitors](#current-visitors), [alumni](#alumni),  [undergraduate alumni](#undergraduate-alumni), [high school alumni](#high-school-alumni), [past visitors](#past-visitors). Read more about each staff member by clicking on their name!
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -75,8 +75,129 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alum
 </div>
 {% endif %}
 
+## Postdocs
+{% assign number_printed = 0 %}
+{% for member in site.data.postdocs %}
 
+{% assign even_odd = number_printed | modulo: 2 %}
 
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href=" {{ site.url }}/{{ member.bio }}">{{ member.name }}</a></h4>
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+## PhDs
+{% assign number_printed = 0 %}
+{% for member in site.data.phd %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href=" {{ site.url }}/{{ member.bio }}">{{ member.name }}</a></h4>
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 ## Graduate Students
 
@@ -133,6 +254,38 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alum
 </div>
 {% endif %}
 
+## Current Visitors
+
+{% assign number_printed = 0 %}
+{% for member in site.data.visitors %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.role }} <br> visiting from: {{ member.uni }}<br> Collaborating on: {{ member.topic }}</i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 ## Alumni
 
@@ -192,7 +345,7 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alum
     <li>Domenico Mazza, Istituto Istruzione Superiore "Giancarlo Siani", Napoli, summer 2019</li>
 </ul>
 
-## Visitors
+## Past Visitors
 <ul style="list-style-type: none">
     <li>Costantino Vetriani, visiting professor, Rutgers University, Fall 2019</li>
     <li>Matteo Selci, visiting student, Spring 2019</li>

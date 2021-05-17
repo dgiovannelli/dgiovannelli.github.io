@@ -1,13 +1,37 @@
+- name: Rosanna Bossa
+  photo: rb.jpg
+  duration: Oct 2019 - Apr 2021
+  current:
+  role: Master student in Biology @ Unina (Italy)
+
+- name: Angelica Severino
+  photo: as.jpg
+  duration: Oct 2019 - Apr 2021
+  current:
+  role: Master student in Biology @ Unina (Italy)
+
+- name: Alessandro Coppola
+  photo: ac.jpg
+  duration: Oct 2019 - Apr 2021
+  current:
+  role: Master student in Biology @ Unina (Italy)
+
+- name: Sonia De Rosa
+  photo: sdr.jpg
+  duration: Oct 2019 - Apr 2021
+  current:
+  role: Master student in Biology @ Unina (Italy)
+
 - name: Martina Cascone
   photo: mc.jpg
   duration: Apr 2019 - Dec 2020
-  current:
+  current: Project Manager in our Lab!
   role: MSc student in Biology @ UNINA (Italy)
 
 - name: Michele Intoccia
   photo: mi.jpg
   duration: Apr 2019 - Dec 2020
-  current:
+  current: Graduate Assistant at the CNR-ISA
   role: MSc student in Biology @ UNINA (Italy)
 
 - name: Alessandra Ferrillo
