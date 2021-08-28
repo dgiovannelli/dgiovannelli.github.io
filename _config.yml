@@ -11,7 +11,7 @@ email: donato.giovannelli@unina.it
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Giovannelli Lab at University of Naples 'Federico II'. Our group aims to aims to explore and understand the emergence and evolution of life and the co-evolution of the Geosphere and the Biosphere, focusing mainly on the microbiology of extreme environments.
 baseurl: ""
-url: "https://donatogiovannelli.com/"
+url: "https://www.donatogiovannelli.com/"
 
 include:
   - .htaccess
