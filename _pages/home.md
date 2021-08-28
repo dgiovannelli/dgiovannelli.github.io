@@ -84,6 +84,7 @@ We are grateful for past and present funding from the [European Research Council
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logo.png" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pra.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DCO.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/C-DEBI.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NASA.png" style="width: 90px">

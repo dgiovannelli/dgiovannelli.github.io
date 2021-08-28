@@ -1,8 +1,38 @@
+- name: Carmela Celentano
+  photo: cc.jpg
+  duration: May 2020 - Apr 2021
+  current:
+  role: Master student in Marine Biology @ Unina (Italy)
+
+- name: Giacomo Fabozzi
+  photo: gf.jpg
+  duration: Mar 2020 - Jul 2021
+  current:
+  role: Master student in Biology @ Unina (Italy)
+
+- name: Antonio Cascone
+  photo: acasc.jpg
+  duration: Mar 2020 - Apr 2021
+  current:
+  role: Master student in Biology @ Unina (Italy)
+
+- name: Raffaella Postiglione
+  photo: rp.jpg
+  duration: Mar 2020 - Apr 2021
+  current:
+  role: Master student in Biology @ Unina (Italy)
+
+- name: Deborah Bastoni
+  photo: db.jpg
+  duration: MAr 2020 - Apr 2021
+  current:
+  role: Master student in Natural Sciences @ Unina (Italy)
+
 - name: Rosanna Bossa
   photo: rb.jpg
   duration: Oct 2019 - Apr 2021
   current:
-  role: Master student in Biology @ Unina (Italy) 
+  role: Master student in Biology @ Unina (Italy)
 
 - name: Angelica Severino
   photo: as.jpg

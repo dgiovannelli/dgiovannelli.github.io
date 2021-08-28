@@ -1,43 +1,3 @@
-- name: Carmela Celentano 
-  photo: cc.jpg
-  role: Master student
-  info: Microbial diversity of the shallow-water vents of the Campania region
-  collab:
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Giacomo Fabozzi
-  photo: gf.jpg
-  role: Master student
-  info: Microbial diversity in samples from the IODP 374 expedition
-  collab:
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Antonio Cascone
-  photo: acasc.jpg
-  role: Master student
-  info: Reconstructing the evolutionary history of the periplasmic nitrate reductase
-  collab:
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Raffaella Postiglione
-  photo: rp.jpg
-  role: Master student
-  info: Diversity of gram+ in extreme environments
-  collab:
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Deborah Bastoni
-  photo: db.jpg
-  role: Master student
-  info: Tracing constrains between the tectonic settings and the utilization fo trace elements by extremophilic microbial communities
-  collab:
-  number_educ: 1
-  education1: BSc Natural Sciences, University of Naples "Federico II", Naples, Italy
-
 - name: Ottavia Iacovino
   photo: oi.jpg
   role: Master student
@@ -61,3 +21,19 @@
   collab:
   number_educ: 1
   education1: BSc Natural Sciences, University of Naples "Federico II", Naples, Italy
+
+- name: Feliciana Oliva
+  photo: fo.jpg
+  role: Master student
+  info: Microbial diversity of the hot springs of the Campania region
+  collab:
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Emanuele Nappo
+  photo: en.jpg
+  role: Master student
+  info: Microbial diversity of the alkaline shallo water idrothermal vents of Strytan, Iceland
+  collab: Dr. Roy Price (SUNY, USA)
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy

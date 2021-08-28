@@ -9,7 +9,9 @@ Here our efforts to explain to the public and other scientist what we do, either
 
 # Outreach activities
 
-**2021** I was recently interview by  [Passione Astronomia](https://www.passioneastronomia.it/) for their "I giovedí dell'Astrobiologia" series. We spoke about my research, my career and the new master porgam in the Biology of Extreme Environments I have contributed to design in Naples. The video is available on [YouTube](https://youtu.be/Y6SW5e5iHFc)
+**2021** A short video interview (in Italian) recorded while I was in Iceland sampling the shallow water vents of Strytan appeared in July on the Swiss Radio Television Website. You can see the fantastic <a href='https://www.rsi.ch/news/oltre-la-news/Un-puntino-blu-pieno-di-misteri-14197113.html'>full 4 minute interview</a> on the RSI website
+
+**2021** I was recently interview by [Passione Astronomia](https://www.passioneastronomia.it/) for their "I giovedí dell'Astrobiologia" series. We spoke about my research, my career and the new master porgam in the Biology of Extreme Environments I have contributed to design in Naples. The video is available on [YouTube](https://youtu.be/Y6SW5e5iHFc)
 
 **2021** I was recently interview by  [Microbiologia Italia](https://www.microbiologiaitalia.it/) for their "Un Caffé con la Microbiologia" series. We speak about my research, my career and my recent ERC Starting Grant project. The video is available on [YouTube](https://youtu.be/QjSwNesTJXY)
 
@@ -44,6 +46,8 @@ Here our efforts to explain to the public and other scientist what we do, either
 **2014** Shared a GoPro video of the 2014 Oceanographic Expedition to the East Pacific Hydrothermal Vents on board on the R/V Atlantis – [https://youtu.be/WvLUnGnPBfs](https://youtu.be/WvLUnGnPBfs)
 
 # Media coverage
+
+**2021** I was recently interviewed by the Swiss Radio Television (in Italian) while in Iceland to sample shallow water hydrothermal vents and hot springs. The video of the interview [is available here](https://www.rsi.ch/news/oltre-la-news/Un-puntino-blu-pieno-di-misteri-14197113.html)
 
 **2021** Our recent paper published in Nature Geoscience was covered by a news article in **AAAS Science**. Several colleagues comment on our findings and the impact of our ongoing research. Find the Science news [article here](https://www.sciencemag.org/news/2021/04/microbes-are-siphoning-massive-amounts-carbon-earth-s-tectonic-plates)
 
