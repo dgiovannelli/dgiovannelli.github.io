@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-I am Professor of Microbiology at the [Department of Biology](http://www.dipartimentodibiologia.unina.it) of the [University of Naples "Federico II"](http://www.unina.it), in Italy. My group aims to explore and understand [the emergence and evolution of life](emergence) and the [co-evolution of the Geosphere and the Biosphere](coevolution). I've been recently awarded a **ERC Starting Grant** to look at the co-evolution of biogeochemically-relevant proteins and trace metal availability in the environment called CoEVOLVE. Read more about [the CoeVOLVE project here](erccoevolve).
+I am a Professor of Microbiology at the [Department of Biology](http://www.dipartimentodibiologia.unina.it) of the [University of Naples "Federico II"](http://www.unina.it), in Italy. My group aims to explore and understand [the emergence and evolution of life](emergence) and the [co-evolution of the Geosphere and the Biosphere](coevolution). I've been recently awarded a **ERC Starting Grant** to look at the co-evolution of biogeochemically-relevant proteins and trace metal availability in the environment called CoEVOLVE. Read more about [the CoeVOLVE project here](erccoevolve).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
