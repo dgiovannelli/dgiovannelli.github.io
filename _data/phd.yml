@@ -3,6 +3,27 @@
   role: PhD student
   info: Diversity of microbial communities in geothermal environments
   collab: Dr. Maarten de Moor, OVSICORI
+  email:
   number_educ: 2
   education1: MSc Marine Biology and Ecology, Polytechnic University of Marche, Ancona, Italy
   education2: BSc Biology, Polytechnic University of Marche, Ancona, Italy
+
+- name: Bernardo Barosa
+  photo: bb.jpg
+  role: PhD student
+  info: ERC CoEvolve project
+  collab:
+  email:
+  number_educ: 2
+  education1: MSc Microbiology, University of Aveiro, Portugal
+  education2: BSc Biology, University of Aveiro, Portugal
+
+- name: Deborah Bastoni
+  photo: db.jpg
+  role: PhD student
+  info: ERC CoEvolve project
+  collab:
+  email:
+  number_educ: 2
+  education1: MSc Natural Sciences, University of Naples Federico II, Italy
+  education2: BSc Natural Sciences, University of Naples Federico II, Italy
