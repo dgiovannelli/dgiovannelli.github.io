@@ -13,6 +13,11 @@ permalink: /team/
 
 Jump to [staff](#staff), [postdocs](#postdocs), [PhD students](#phds), [graduate students](#graduate-students), [current visitors](#current-visitors), [alumni](#alumni),  [undergraduate alumni](#undergraduate-alumni), [high school alumni](#high-school-alumni), [past visitors](#past-visitors). Read more about each staff member by clicking on their name!
 
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/lab2021.jpg){: style="width: 80%; float: center; border: 10px"}
+
+The Giovannelli Lab team during a field excursion in Summer 2021!
+
 ## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}

@@ -12,7 +12,7 @@ I feel extremely privileged to be able to teach specialized courses to the gradu
 
 A great idea would be to have a centralized repository where professors can exchange course material freely, like a GitHub of teaching. Or perhaps GitHub is the way to go? If you know something in this regard or have ideas you would like to discuss, drop me a [line on twitter](https://twitter.com/d_giovannelli).
 
-While teaching I generally like to keep my classes informal and have plenty of discussion (class size permitting). I usually assign several option readings for students interested in going deeper, and usually we spend some time each class discussing the papers. I've been recently introducing the construction of Winogradsky columns as a way to do both class activities and outreach. Here a picture of some of our columns.
+While teaching I generally like to keep my classes informal and have plenty of discussion (class size permitting). I usually assign several optional readings for students interested in going deeper, and we spend some time each class discussing the papers. I've been recently introducing the construction of Winogradsky columns as a way to do both class activities and outreach. Here a picture of some of our columns:
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teachpic/Giovannelli Lab - Winogradsky 2019 - day 60.jpg){: style="width: 80%; float: center; border: 10px"}
 
@@ -34,12 +34,12 @@ In some of my smaller classes (below 40 students) I request that the student con
 
 |_**Location:**_ | |University of Naples Federico II |
 |_**Degree:**_ | |MSc in Biology of Extreme Environments|
-|_**Class size:**_ | |? students |
+|_**Class size:**_ | |~35 students |
 |_**Years active:**_ | |2021 |
 
 Introductory class providing a birds-eye view of the microbiology of extreme environments, the principal groups of extremophiles and a rundown of the main type if extreme environments present in our planet. The course provides also an introduction to the main field and laboratory techniques used to investigate microbial diversity in extreme ecosystems.
 
-The class is a first year requirement for both curricula of the new master degree program in the Biology of Extreme Environments that will start in September 2021 for the first time.
+The class is a first year requirement for both curricula of the new master degree program in the Biology of Extreme Environments started in September 2021 for the first time.
 
 ### Marine Microbial Diversity
 
@@ -97,7 +97,7 @@ Recordings (in Italian) are available on [my YouTube channel](https://www.youtub
 Grasuate class in microbial genetics at Rutgers University designed to provide a broad overview of the topic. No recordings or teaching material is available for this class.
 
 ## Wikipedia Contributions
-- 
+-
 
 
 
