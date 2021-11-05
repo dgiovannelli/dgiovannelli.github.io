@@ -25,6 +25,8 @@ Here is a list of present and past project, both funded and yet-to-be-funded, fo
 
 
 ### Current funded projects:
+**2021** Giovannelli D (PI). Italian Arctic Program (PRA). “Melting-ICE: ”Impact of climate change-induced permafrost and ice melting on the biodiversity and ecosystem functioning of Arctic environments"
+
 **2020** Giovannelli D (PI). ERC Starting Grant 2020. “CoEvolve: ”Coevolution of Life and Planet: role of trace metal availability in the evolution of biogeochemically relevant redox metalloenzymes"
 
 ### Past Projects
