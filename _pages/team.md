@@ -364,6 +364,6 @@ Jump to [staff](#staff), [postdocs](#postdocs), [PhD students](#phds), [graduate
 <ul style="list-style-type: none">
     <li>Marina Viggiani, visiting graduate assistant, CNR ISMAR Venezia, Summer 2021</li>
     <li>Costantino Vetriani, visiting professor, Rutgers University, Fall 2019</li>
-    <li>Matteo Selci, visiting student, Spring 2019</li>
+    <li>Matteo Selci, visiting student, Politechnic University of Marche, Spring 2019</li>
     <li>Joy Buongiorno, visiting postdoc, Carnegie Institution of Washington (USA), Jan-Feb 2019</li>
 </ul>
