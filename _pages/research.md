@@ -27,6 +27,7 @@ Here is a list of present and past project, both funded and yet-to-be-funded, fo
 ### Current funded projects:
 **2020** Giovannelli D (PI). ERC Starting Grant 2020. “CoEvolve: ”Coevolution of Life and Planet: role of trace metal availability in the evolution of biogeochemically relevant redox metalloenzymes"
 
+### Past Projects
 **2016** Barry P (PI), de Moor M, Giovannelli D, Hummer D, Lloyd K, Lopez T and Pratt K (Co-PIs). Alfred P. Sloan Foundation. “Biology Meets Subduction: A Collaborative and Multi-disciplinary Deep Carbon Field Initiative”
 
 **2016** Colwell F (PI) , Giovannelli D, Morgan L, Pratt K, Reysenbach AL, Shanks P (Co-PIs). Alfred P. Sloan Foundation. The second Deep Carbon Observatory Summer School
@@ -34,8 +35,6 @@ Here is a list of present and past project, both funded and yet-to-be-funded, fo
 **2015** Vetriani C (PI), Fostoukos D (PI) and Giovannelli D (Co-PI). NSF Molecular and Cellular Biosciences: Collaborative Research “Carbon fixation, anaerobic respiration and ROS detoxification in the anaerobic vent bacterium, Thermovibrio ammonificans”
 
 **2015** Collaborator: NASA Exobiology Exo/Evo program (Frank Robb and Costantino Vetriani PIs): Sentinel Microbes that Utilize Carbon Monoxide as Energy and Carbon Source
-
-### Past Projects
 
 **2014** Bongioni L (PI), Viaroli P, Sfriso A, Pallavicini A, Giovannelli D (Co-Pis). Lifewatch-Italy, distributed Laboratory of Molecular Biodiversity, “Responses of benthic microbial diversity and functioning to the recent invasion of Gracilaria vermiculophylla in the lagoon of Venice”
 
