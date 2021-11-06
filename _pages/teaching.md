@@ -16,7 +16,7 @@ While teaching I generally like to keep my classes informal and have plenty of d
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teachpic/Giovannelli Lab - Winogradsky 2019 - day 60.jpg){: style="width: 80%; float: center; border: 10px"}
 
-In some of my smaller classes (below 40 students) I request that the student contribute toward Wikipedia by selecting a stub-class or start-class article and improving it. This is usually accomplished in teams of 3-5 people, and we had great success over the last couple of years with my class in [Marine Microbial Diversity](#marine-microbial-diversity), contributing to several topics. Here you can see an example of the stats relative to the 2020 Marine Microbial Diversity class contribution to Wikipedia. For a complete list of the articles contributed by year [see below](#wikipedia-contributions).
+In some of my smaller classes (below 40 students) I request that the student contribute to Wikipedia by selecting a stub-class or start-class article in Marine or General Microbiology and improving it. This is usually accomplished in teams of 3-5 people, and we had great success over the last couple of years with my class in [Marine Microbial Diversity](#marine-microbial-diversity), contributing to several topics. Here you can see an example of the stats relative to the 2020 Marine Microbial Diversity class contribution to Wikipedia. For a complete list of the articles contributed by year [see below](#wikipedia-contributions), or head directly to the program page on the [Wikipedia dashboard](https://outreachdashboard.wmflabs.org/campaigns/microbiology_teaching_in_italy/programs).
 ![]({{ site.url }}{{ site.baseurl }}/images/teachpic/wikipedia_2019.png){: style="width: 70%; float: center; border: 10px"}
 
 
@@ -50,7 +50,6 @@ The class is a first year requirement for both curricula of the new master degre
 
 I'v been teaching Marine Microbial Diversity to the graduate student in the UNINA Marine Biology program since 2016. The course, entirely in English, provides an introduction to general marine microbiology to students with a diverse background, and therefore includes a broad recap of general microbiology concepts.
 
-Recordings (in English) are available on [my YouTube channel](https://www.youtube.com/channel/) and embedded below. The teaching slides (in English) can be downloaded from the [course GitHub repository](https://github.com/dgiovannelli/).
 
 ### Basic Stats and R course
 
@@ -87,7 +86,7 @@ Recordings (in Italian, slides in English) are available on [my YouTube channel]
 
 This class was designed to provide the students with a broad view of all the possible field of application of microbiology. We cover topics ranging from bioremediation to food microbiology and biological warfare. The class includes only 1-2 general lectures used as recap. I taught this class for two consecutive years before passing the course to a colleague.
 
-Recordings (in Italian) are available on [my YouTube channel](https://www.youtube.com/channel/) and embedded below. The teaching slides (in English) can be downloaded from the [course GitHub repository](https://github.com/dgiovannelli/).
+The teaching slides (in English) can be downloaded from the [course GitHub repository](https://github.com/dgiovannelli/).
 
 ### Microbial Genomics
 
@@ -99,8 +98,21 @@ Recordings (in Italian) are available on [my YouTube channel](https://www.youtub
 Grasuate class in microbial genetics at Rutgers University designed to provide a broad overview of the topic. No recordings or teaching material is available for this class.
 
 ## Wikipedia Contributions
--
 
+Here a list of the articles edited by the students as part of their assignment together with some basic stats regarding the added information. The complete data about our edits can be found in the dashboard of the [Microbiology Teaching in Italy Wikipedia]([Wikipedia dashboard](https://outreachdashboard.wmflabs.org/campaigns/microbiology_teaching_in_italy/programs) page.
+
+|Article	|Words Added |References added|
+|--|:--:|:--:|
+|[Riftia pachyptila](https://en.wikipedia.org/wiki/Riftia_pachyptila) |9160	|90	|
+|[Hydrogen oxidizing bacteria](https://en.wikipedia.org/wiki/Hydrogen_oxidizing_bacteria) |5013	|45
+|[Sulfolobus solfataricus](https://en.wikipedia.org/wiki/Sulfolobus_solfataricus) | 4809	|45	|
+|[Iron-oxidizing bacteria](https://en.wikipedia.org/wiki/Iron-oxidizing_bacteria) |3965	|49	|
+|[Carbon fixation](https://en.wikipedia.org/wiki/Carbon_fixation) | 2776	|27	|
+|[Sulfur-reducing bacteria](https://en.wikipedia.org/wiki/Sulfur-reducing_bacteria) |15290	|135	|
+|[Beggiatoa](https://en.wikipedia.org/wiki/Beggiatoa) | 8213	|45	|
+|[Gammaproteobacteria](https://en.wikipedia.org/wiki/Gammaproteobacteria) |7059	|61	|
+|[Nitrosomonas](https://en.wikipedia.org/wiki/Nitrosomonas) |5220	|57	|
+|[Purple bacteria](https://en.wikipedia.org/wiki/Purple_bacteria) |4688	|29 |
 
 
 <br />
