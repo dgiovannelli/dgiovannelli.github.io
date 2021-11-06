@@ -72,9 +72,11 @@ There are no recording available at the moment, but you can download the pdf of 
 
 Introductory class in Environmental Metagenomic for graduate students pursuing a Master Degree in Biology with a focus in environmental sciences. The class gives a recap of basic microbiology and microbial ecology concepts and then jumps into a 20 hours hand-on metagenomic analysis of publicly available datasets using web-based tools.
 
-Recordings (in Italian, slides in English) are available on [my YouTube channel](https://www.youtube.com/channel/UCaSYgEmBXy7MVuS6QBIH9BA) and embedded below. The teaching slides (in English) can be downloaded from the [course GitHub repository](https://github.com/dgiovannelli/unina_envmetagenomic).
+Recordings (in Italian, slides in English) are available on [my YouTube channel](https://youtube.com/playlist?list=PLqL0M7QST8bgnvCixkVGBlEBl_TcasR9c) and the couple of classes are embedded below. The teaching slides (in English) can be downloaded from the [Environmental Metagenomic course GitHub repository](https://github.com/dgiovannelli/unina_envmetagenomic).
 
-<iframe width="360" height="215" src="https://www.youtube.com/embed/u9JxQdqtB_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="215" src="https://www.youtube.com/embed/pR86w0p5G_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="360" height="215" src="https://www.youtube.com/embed/0D59u7Y5i2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Applied Microbiology
 

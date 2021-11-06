@@ -16,7 +16,7 @@ Jump to [staff](#staff), [postdocs](#postdocs), [PhD students](#phds), [graduate
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/lab2021.jpg){: style="width: 80%; float: center; border: 10px"}
 
-The Giovannelli Lab team during a field excursion in Summer 2021!
+The Giovannelli Lab team during a field excursion to the hot springs of Mondragone (Campania) in Summer 2021!
 
 ## Staff
 {% assign number_printed = 0 %}
