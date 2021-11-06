@@ -18,10 +18,10 @@ The majority of our work is focused on geothermal influenced environments, both 
 
 We also collaborate on several side projects, and new ideas jump-start in the lab anytime. Below you'll find a list of present and past project, both funded and yet-to-be-funded, for which I am/was (Co)-PI or to which I participated as named collaborator. Contact me in case you are interested in having more info! Among the interesting things we do, I have highlighted a few below.
 
+![](https://giovannellilab.github.io/polygonsplot/images/merino_frontiers.jpg){: style="width: 40%; float: left; border: 10px"}
 We have recently developed a new type of charts to visualized multivariate ranges (min-max-average). The Polygons plot is currently in beta version and we are working to develop a full R package. You can read more about [the Polygons plot here](https://giovannellilab.github.io/polygonsplot/).
 
-![](https://giovannellilab.github.io/polygonsplot/images/merino_frontiers.jpg){: style="width: 50%; float: left; border: 10px"}
->The first polygons plot appeared in [Merino et al. 2019 Frontiers in Microbiology](https://www.frontiersin.org/articles/10.3389/fmicb.2019.00780/full). If you find the plot interesting or useful, consider citing the Merino et al. 2019 paper. More information about how to cite the Polygon plot are available at the section how to cite of the website.
+The first polygons plot appeared in [Merino et al. 2019 Frontiers in Microbiology](https://www.frontiersin.org/articles/10.3389/fmicb.2019.00780/full). If you find the plot interesting or useful, consider citing the Merino et al. 2019 paper. More information about how to cite the Polygon plot are available at the section how to cite of the website.
 
 All our protocols are being deposited into a GitHub repository, served through ReadTheDocs and released as a Zenodo object with a DOI every time we submit a new preprint. You can see our online protocols heading to the [Giovannelli Lab protocol repository](https://giovannelli-lab-protocols.readthedocs.io/en/latest/). Additionally, the data and the code used for a paper are also released in GitHub with a Zenodo assigned DOI. This is designed to increase science reproducibility, providing the exact version of the laboratory protocols used to obtain the data, the data and the code to reproduce the analysis. We are strong supporters of the [FAIR principles](https://www.nature.com/articles/sdata201618), and we invest significant time and effort to ensure high standards of data management and sharing.
 
