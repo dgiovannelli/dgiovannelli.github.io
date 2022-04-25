@@ -1,11 +1,35 @@
+- title: "Bacterioplankton Diversity and Distribution in Relation to Phytoplankton Community Structure in the Ross Sea Surface Waters.  13:722900. doi: 10.3389/fmicb.2022.722900"
+  image: rosssea_network.jpg
+  description:
+  authors: Cordone A, D’Errico G, Magliulo M, Bolinesi F, Selci M, Basili M, de Marco R, Saggiomo M, Rivaro P, Giovannelli D and Mangoni O
+  year: 2022
+  doi: 10.3389/fmicb.2022.722900
+  link:
+    url: https://doi.org/10.3389/fmicb.2022.722900
+    display: Front. Microbiol.
+  highlight: 1
+  news2:
+
+- title: "Assessment of Spatio-Temporal Variability of Faecal Pollution along Coastal Waters during and after Rainfall Events"
+  image:
+  description:
+  authors: Manini E, Baldrighi E, Ricci F, Grilli F, Giovannelli D, Intoccia M, Casabianca S, Capellacci S, Marinchel N, Penna P, Moro F, Campanelli A, Cordone A, Correggia M, Bastoni D, Bolognini L, Marini M, Penna A
+  year: 2022
+  doi: 10.3390/w14030502
+  link:
+    url: https://doi.org/10.3390/w14030502
+    display: Water
+  highlight: 0
+  news2:
+
 - title: "High 3He/4He in central Panama reveals a distal connection to the Galápagos plume"
   image:
   description:
   authors: Bekaert DV, Gazel E, Turner S, Behn M, de Moor JM, Zahirovic S, Manea VC, Hoernle K, Fischer TP, Hammerstrom A, Seltzer AM, Kulongoski JT, Patel BS, Schrenk M, Halldórsson SA, Nakagawa M, Ramírez CR, Krantz JA, Yücel M, Ballentine CJ, Giovannelli D, Lloyd KG, Barry PH
   year: 2021
-  doi: accepted
+  doi: 10.1073/pnas.2110997118
   link:
-    url:
+    url:  https://doi.org/10.1073/pnas.2110997118
     display: PNAS
   highlight: 0
   news2:
@@ -15,9 +39,9 @@
   description:
   authors: Petrillo C, Castaldi S, Lanzilli M, Selci M, Cordone A, Giovannelli D, Isticato R.
   year: 2021
-  doi: accepted
+  doi: 10.3389/fmicb.2021.715678
   link:
-    url:
+    url: https://doi.org/10.3389/fmicb.2021.715678
     display: Frontiers in Microbiology
   highlight: 0
   news2:
@@ -271,7 +295,7 @@
   link:
     url: https://doi.org/10.1038/ngeo3006
     display: "Nature Geoscience, 10: 629–636"
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Exploring the relationship between macrofaunal biodiversity and ecosystem functioning in the deep sea"
@@ -295,7 +319,7 @@
   link:
     url: https://doi.org/10.1042/BIO03906004
     display: "The Biochemist, vol. 39:6"
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "A Review of the Geochemistry and Microbiology of Marine Shallow-water Hydrothermal Vents"
@@ -307,7 +331,7 @@
   link:
     url: https://doi.org/10.1016/B978-0-12-409548-9.09523-3
     display: Reference Module in Earth Systems and Environmental Sciences
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Insight into the evolution of microbial metabolism from the deep-branching bacterium, Thermovibrio ammonificans"
@@ -319,7 +343,7 @@
   link:
     url: https://doi.org/10.7554/eLife.18990
     display: "eLife 6: e18990"
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Taxonomy work at CNR"

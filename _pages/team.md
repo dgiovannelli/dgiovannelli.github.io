@@ -346,7 +346,7 @@ The Giovannelli Lab team during a field excursion to the hot springs of Mondrago
     <li>Mariacarmen Del Mondo, UNINA, 2020</li>
     <li>Mattia Acunzo, UNINA, 2020</li>
     <li>Simona Piccolo, UNINA, 2020</li>
-    <li>Maria Vittoria Brandi, UNINA, 2020</li>
+    <li>Mariavittoria Brandi, UNINA, 2020</li>
     <li>Andrea Campanile, UNINA, 2020</li>
     <li>Lucia Di peso, UNINA, 2020</li>
     <li>Simone De Meo, UNINA, 2019</li>

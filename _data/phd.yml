@@ -3,7 +3,7 @@
   role: PhD student
   info: Diversity of microbial communities in geothermal environments
   collab: Dr. Maarten de Moor, OVSICORI
-  email:
+  email: matteo.selci@unina.it
   number_educ: 2
   education1: MSc Marine Biology and Ecology, Polytechnic University of Marche, Ancona, Italy
   education2: BSc Biology, Polytechnic University of Marche, Ancona, Italy
@@ -12,8 +12,7 @@
   photo: bb.jpg
   role: PhD student
   info: ERC CoEvolve project
-  collab:
-  email:
+  email: bernardo.barosa@unina.it
   number_educ: 2
   education1: MSc Microbiology, University of Aveiro, Portugal
   education2: BSc Biology, University of Aveiro, Portugal
@@ -22,8 +21,16 @@
   photo: db.jpg
   role: PhD student
   info: ERC CoEvolve project
-  collab:
-  email:
+  email: deborah.bastoni@unina.it
   number_educ: 2
   education1: MSc Natural Sciences, University of Naples Federico II, Italy
   education2: BSc Natural Sciences, University of Naples Federico II, Italy
+
+- name: Martina Cascone
+  photo: mc.jpg
+  role: PhD student
+  info: PON funded project on the microbiology of Undeground Hydrogen Storage
+  email: martina.cascone@unina.it
+  number_educ: 2
+  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
+  education2: BSc Biology, University of Naples "Federico II", Naples, Italy

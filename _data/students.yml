@@ -6,22 +6,6 @@
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
-- name: Michela Piegari
-  photo: mp.jpg
-  role: Master student
-  info: Mapping relationship between different DNA pools in a extremophilic biofilm
-  collab:
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Francesco Montemagno
-  photo: fm.jpg
-  role: Master student
-  info: Diversity of the microbiome associated with different shark species
-  collab:
-  number_educ: 1
-  education1: BSc Natural Sciences, University of Naples "Federico II", Naples, Italy
-
 - name: Feliciana Oliva
   photo: fo.jpg
   role: Master student
@@ -33,7 +17,7 @@
 - name: Emanuele Nappo
   photo: en.jpg
   role: Master student
-  info: Microbial diversity of the alkaline shallo water idrothermal vents of Strytan, Iceland
+  info: Microbial diversity of the alkaline shallow water idrothermal vents of Strytan, Iceland
   collab: Dr. Roy Price (SUNY, USA)
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
@@ -75,5 +59,13 @@
   role: Master student
   info: ERASMUS
   collab: Prof. Kasper Kjeldsen (Denmark)
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Luigi Gallucci
+  photo: lg.jpg
+  role: Master student
+  info: Interaction microbiome of posidonia and its associated sponges
+  collab: Dr. Ulizze Cardini (SZN, Naples)
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
