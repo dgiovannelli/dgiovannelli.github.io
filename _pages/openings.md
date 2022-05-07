@@ -5,14 +5,6 @@ excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
-
----
-title: "Giovannelli Lab - Open positions"
-layout: textlay
-excerpt: "Giovannelli Lab -- Open positions"
-sitemap: false
-permalink: /vacancies/
----
 #Vacancies and Current Openings
 
 We are constantly looking for talented and passionate people to join our team, so even if you don't see specific positions here, don't be afraid to drop us an email! We can always discuss the possibility of writing a fellowship together to get to join us!
