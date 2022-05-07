@@ -49,6 +49,8 @@ Here our efforts to explain to the public and other scientist what we do, either
 
 # Media coverage
 
+**2022** Interviewed by Francesca Buoninconti for the Radio3 Scienza radiophonic program. The 30 minute interview in Italian is available at [the Radio3 Scienza website](https://www.raiplaysound.it/audio/2022/02/Radio3-Scienza-del-23022022-97ad3063-e3f3-4f95-a82c-6dd3de522869.html)
+
 **2021** I was recently interviewed by the Swiss Radio Television (in Italian) while in Iceland to sample shallow water hydrothermal vents and hot springs. The video of the interview [is available here](https://www.rsi.ch/news/oltre-la-news/Un-puntino-blu-pieno-di-misteri-14197113.html)
 
 **2021** Our recent paper published in Nature Geoscience was covered by a news article in **AAAS Science**. Several colleagues comment on our findings and the impact of our ongoing research. Find the Science news [article here](https://www.sciencemag.org/news/2021/04/microbes-are-siphoning-massive-amounts-carbon-earth-s-tectonic-plates)
