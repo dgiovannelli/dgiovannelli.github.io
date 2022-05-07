@@ -74,7 +74,7 @@ We are located at the [University of Naples "Federico II"](http://www.unina.it),
 
 <br/>
 
- **We have a few openings in our group!** [Check out the specific calls here]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We have a few openings in our group!** [Check out the specific calls here](vacancies) **!**
 
 <br/>
 
