@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Hi, my name si Donato Giovannelli and I am a Professor of Microbiology at the [Department of Biology](http://www.dipartimentodibiologia.unina.it) of the [University of Naples "Federico II"](http://www.unina.it), in Italy. My group aims to explore and understand the emergence and evolution of life and the co-evolution of the Geosphere and the Biosphere. I've been recently awarded a **ERC Starting Grant** to look at the co-evolution of biogeochemically-relevant proteins and trace metal availability in the environment called CoEvolve. Read more about [the CoEvolve project here](https://www.coevolve.eu).
+Hi, my name is Donato Giovannelli and I am a Professor of Microbiology at the [Department of Biology](http://www.dipartimentodibiologia.unina.it) of the [University of Naples "Federico II"](http://www.unina.it), in Italy. My group aims to explore and understand the emergence and evolution of life and the co-evolution of the Geosphere and the Biosphere. I've been recently awarded a **ERC Starting Grant** to look at the co-evolution of biogeochemically-relevant proteins and trace metal availability in the environment called CoEvolve. Read more about [the CoEvolve project here](https://www.coevolve.eu).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
