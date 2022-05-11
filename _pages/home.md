@@ -82,7 +82,7 @@ We are grateful for past and present funding from the [European Research Council
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logo.png" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pra.jpg" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pra.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DCO.png" style="width: 80px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/C-DEBI.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NASA.png" style="width: 90px">
@@ -90,4 +90,10 @@ We are grateful for past and present funding from the [European Research Council
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EON.jpeg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/icdp.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iodp.png" style="width: 110px">
+</figure>
+
+And to our technical sponsors, that support our research and field activities
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ande.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nanotech.png" style="width: 110px">
 </figure>
