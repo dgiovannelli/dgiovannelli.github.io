@@ -94,6 +94,7 @@ We are grateful for past and present funding from the [European Research Council
 
 And to our technical sponsors, that support our research and field activities
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ande.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ande.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nanotech.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/victorinox.png" style="width: 110px">
 </figure>
