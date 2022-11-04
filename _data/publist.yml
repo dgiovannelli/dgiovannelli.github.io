@@ -1,3 +1,135 @@
+- title: "Adaptations to high pressure of Nautilia sp. strain PV‐1, a piezophilic Campylobacterium (aka Epsilonproteobacterium) isolated from a deep‐sea hydrothermal vent"
+  image:
+  description:
+  authors: Smedile F, Dionysis I Foustoukos, Sushmita Patwardhan, Kelli Mullane, Ian Schlegel, Michael W Adams, Gerrit J Schut, Donato Giovannelli, Costantino Vetriani
+  year: 2022
+  doi: 10.1111/1462-2920.16256
+  link:
+    url: https://doi.org/10.1111/1462-2920.16256
+    display: mBio
+  highlight: 0
+  news2:
+
+- title: "Chemolithoautotroph distributions across the subsurface of a convergent margin"
+  image:
+  description:
+  authors: Rogers TJ, Joy Buongiorno, Gerdhard L Jessen, Matthew O Schrenk, James A Fordyce, J Maarten de Moor, Carlos J Ramírez, Peter H Barry, Mustafa Yücel, Matteo Selci, Angela Cordone, Donato Giovannelli, Karen G Lloyd
+  year: 2022
+  doi: 10.1038/s41396-022-01331-7
+  link:
+    url: https://doi.org/10.1038/s41396-022-01331-7
+    display: mBio
+  highlight: 0
+  news2:
+
+- title: "Reply to Oren et al.,“New Phylum Names Harmonize Prokaryotic Nomenclature”"
+  image:
+  description:
+  authors: Sharma G, Salim T Islam, Praveen Rahi, Mark W Silby, Donato Giovannelli, Paula V Welander, Monika Ehling-Schulz, Vasvi Chaudhry, Evelyn Molloy, Christian Hertweck, Sunil Mundra, Vipin Chandra Kalia, Rup Lal, Yogendra Singh, Edward Ruby, Christoph Weigel, Roberto Kolter
+  year: 2022
+  doi: 10.1128/mbio.02323-22
+  link:
+    url: https://doi.org/10.1128/mbio.02323-22
+    display: mBio
+  highlight: 0
+  news2:
+
+- title: "Sampling across large-scale geological gradients to study geosphere-biosphere interactions"
+  image: fmicb-13-998133-g002.jpg
+  description: In this paper we lay out the approach we have been using to study geo-bio interactions across large spatial scales. We had a lot of requests over the past years to discuss how we are approaching sampling the subsurface from the surface, and this short contribution explains it all. We define a class of features called Deeply-Sourced Seeps (DSS) that encompasses hot springs, fumaroles, deep chloride springs, etc... DSS have a deep (meaning not surface) source for the volatiles, and might be used as a window into the subsurface and into deep geo processes. Using this definition as a starting point, we have abandoned the classic ecological BACI approach and the surface transects sampled  across a single spring in favour of a single point sampling for each seeps repeated over hundreds of km to sample geological-scale gradients. This approach has been already successfully applied in a number of our recent papers, and many more to come.
+  authors: Giovannelli D, Barry PH, de Moor JM, Jessen GL, Schrenk MO, Lloyd KG
+  year: 2022
+  doi: 10.3389/fmicb.2022.998133
+  link:
+    url: https://doi.org/10.3389/fmicb.2022.998133
+    display: Fornt. Microbiol
+  highlight: 1
+  news2:
+
+- title: "Sampling across large-scale geological gradients to study geosphere-biosphere interactions"
+  image:
+  description:
+  authors: Giovannelli D, Barry PH, de Moor JM, Jessen GL, Schrenk MO, Lloyd KG
+  year: 2022
+  doi: 10.31223/X5G92M
+  link:
+    url: https://doi.org/10.31223/X5G92M
+    display: EarthArXiv
+  highlight: 0
+  news2:
+
+- title: "mebipred: identifying metal-binding potential in protein sequence"
+  image:
+  description:
+  authors: Aptekmann AA, J Buongiorno, D Giovannelli, M Glamoclija, DU Ferreiro, Y Bromberg
+  year: 2022
+  doi: 10.1093/bioinformatics/btac358
+  link:
+    url: https://doi.org/10.1093/bioinformatics/btac358
+    display: Bioinformatics
+  highlight: 0
+  news2:
+
+- title: "Stellar metallicity is a key parameter for the search of Life in the Universe"
+  image:
+  description:
+  authors: Covone G and Giovannelli D
+  year: 2022
+  doi: 10.48550/arXiv.2207.03748
+  link:
+    url: https://doi.org/10.48550/arXiv.2207.03748
+    display: arXiv
+  highlight: 0
+  news2:
+
+- title: "The helium and carbon isotope characteristics of the Andean Convergent Margin"
+  image:
+  description:
+  authors: Barry PH, J Maarten De Moor, A Chiodi, Felipe Aguilera, MR Hudak, DV Bekaert, SJ Turner, J Curtice, AM Seltzer, GL Jessen, E Osses, Jenny M Blamey, MJ Amenábar, Matteo Selci, M Cascone, A Bastianoni, M Nakagawa, R Filipovich, E Bustos, MO Schrenk, Joy Buongiorno, CJ Ramírez, Timothy J Rogers, Karen G Lloyd, Donato Giovannelli
+  year: 2022
+  doi: 10.3389/feart.2022.897267
+  link:
+    url: https://doi.org/10.3389/feart.2022.897267
+    display: Front. Earth Sci.
+  highlight: 0
+  news2:
+
+- title: "From Sequences to Enzymes: Comparative Genomics to Study Evolutionarily Conserved Protein Functions in Marine Microbes"
+  image:
+  description:
+  authors: Cordone A, Coppola A, Severino A, Correggia M, Selci M, Cascone A, Vetriani C, Giovannelli D
+  year: 2022
+  doi: 10.1007/978-1-0716-2313-8_5
+  link:
+    url: https://doi.org/10.1007/978-1-0716-2313-8_5
+    display: Marine Genomics
+  highlight: 0
+  news2:
+
+- title: "From Sequences to Enzymes: Heterologous Expression of Genes from Marine Microbes"
+  image:
+  description:
+  authors: Severino A, Coppola A, Correggia M, Vetriani C, Giovannelli D, Cordone A
+  year: 2022
+  doi: 10.1007/978-1-0716-2313-8_13
+  link:
+    url: https://doi.org/10.1007/978-1-0716-2313-8_13
+    display: Marine Genomics
+  highlight: 0
+  news2:
+
+- title: "Quantifying the bioavailable energy in an ancient hydrothermal vent on Mars and a modern Earth-based analogue."
+  image:
+  description:
+  authors: Rucker HR,  Ely TD, LaRowe DE, Giovannelli D, Price RE
+  year: 2022
+  doi: 10.1101/2022.09.09.507253
+  link:
+    url: https://doi.org/10.1101/2022.09.09.507253
+    display: bioRxiv
+  highlight: 0
+  news2:
+
 - title: "Bacterioplankton Diversity and Distribution in Relation to Phytoplankton Community Structure in the Ross Sea Surface Waters"
   image: rosssea_network.jpg
   description: In this paper we analyze the bacterial community structure in the Ross Sea and correlate it with the phytoplankton diversity. We use some neat network analysis and multivariate analysis tolls to investigate the diversity variations along the phytoplankton ecological gradient.
