@@ -97,4 +97,5 @@ And to our technical sponsors, that support our research and field activities
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ande.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nanotech.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/victorinox.png" style="width: 80px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/garmont.jpg" style="width: 80px">
 </figure>
