@@ -1,12 +1,22 @@
-- name: Marco Giardina
-  photo: mg.jpg
+- name: Davide Corso
+  photo: dc.jpg
   role: Postdoc
-  info: Diversity of microbial communities in geothermal environments
-  email: marco.giardina@unina.it
+  info: Developping new bioinformatic tools for the study of microbial diversity
+  email: davide.corso@unina.it
   number_educ: 3
-  education1: PhD in Microbial Ecology, University of Technology Sydney, Australia
-  education2: MSc Cellular and Molecular Biology, University of Catania, Italy
-  education3: BSc Biology, University of Catania, Italy
+  education1:
+  education2:
+  education3:
+
+- name: Annarita Ricciardelli
+  photo: ar.jpg
+  role: Postdoc
+  info: Effects of biometal availability on the physiology of microorganisms
+  email: annarita.ricciardelli@unina.it
+  number_educ: 3
+  education1:
+  education2:
+  education3:
 
 - name: Alessia Benedicta Bastianoni
   photo: ab.jpg

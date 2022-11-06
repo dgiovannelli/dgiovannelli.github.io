@@ -1,3 +1,39 @@
+- name: Marco Giardina
+  photo: mg.jpg
+  Duration: May 2021 - April 2022
+  current: Technical Support Agent at Zebra Technologies
+  role: Postdoctoral fellow @ Unina (Italy)
+
+- name: Alessandro Masi
+  photo: am.jpg
+  duration: Jul 2021 - Oct 2022
+  current: PhD Student, Department of Chemistry, University of Naples Federico II
+  role: Master student in Biology @ Unina (Italy)
+
+- name: Feliciana Oliva
+  photo: fo.jpg
+  duration: Jun 2021 - Oct 2022
+  current:
+  role: Master student in Biology @ Unina (Italy)
+
+- name: Ottavia Iacovino
+  photo: oi.jpg
+  duration: Jun 2021 - Jul 2022
+  current: PhD Candidate, Department of Natural History, NTNU University Museum, Norway
+  role: Master student in Marine Biology @ Unina (Italy)
+
+- name: Emanuele Nappo
+  photo: en.jpg
+  duration: Jun 2021 - Jul 2022
+  current:
+  role: Master student in Biology @ Unina (Italy)
+
+- name: Francesco Montemagno
+  photo: fm.jpg
+  duration: Jul 2020 - Dec 2021
+  current: PhD Student in our Lab!
+  role: Master student in Natural Sciences @ Unina (Italy)
+
 - name: Michela Piegari
   photo: mp.jpg
   duration: Apr 2021 - Feb 2022
@@ -7,7 +43,7 @@
 - name: Carmela Celentano
   photo: cc.jpg
   duration: May 2020 - Apr 2021
-  current: PhD Student at the Uni versity of Naples Federico II
+  current: PhD Student, Department of Biology, University of Naples Federico II
   role: Master student in Marine Biology @ Unina (Italy)
 
 - name: Giacomo Fabozzi
@@ -30,26 +66,26 @@
 
 - name: Deborah Bastoni
   photo: db.jpg
-  duration: MAr 2020 - Apr 2021
-  current:
+  duration: Mar 2020 - Apr 2021
+  current: PhD Student in our Lab!
   role: Master student in Natural Sciences @ Unina (Italy)
 
 - name: Rosanna Bossa
   photo: rb.jpg
   duration: Oct 2019 - Apr 2021
-  current:
+  current: PhD Student, Department of Biology, University of Naples Federico II
   role: Master student in Biology @ Unina (Italy)
 
 - name: Angelica Severino
   photo: as.jpg
   duration: Oct 2019 - Apr 2021
-  current:
+  current: PhD Student, Department of Chemistry, University of Naples Federico II
   role: Master student in Biology @ Unina (Italy)
 
 - name: Alessandro Coppola
   photo: ac.jpg
   duration: Oct 2019 - Apr 2021
-  current:
+  current: PhD Student, Stazione Zoologica Anthon Dorn
   role: Master student in Biology @ Unina (Italy)
 
 - name: Sonia De Rosa
@@ -61,41 +97,41 @@
 - name: Martina Cascone
   photo: mc.jpg
   duration: Apr 2019 - Dec 2020
-  current: Project Manager in our Lab!
+  current: PhD Student in our Lab!
   role: MSc student in Biology @ UNINA (Italy)
 
 - name: Michele Intoccia
   photo: mi.jpg
   duration: Apr 2019 - Dec 2020
-  current: Graduate Assistant at the CNR-ISA
+  current: Graduate Assistant, Department of Biology, University of Naples Federico II
   role: MSc student in Biology @ UNINA (Italy)
 
 - name: Alessandra Ferrillo
   photo: af.jpg
   duration: May 2019 - Nov 2020
-  current:
+  current: PhD Student, Norwegian University of Life Sciences, Norway
   role: MSc student in Marine Biology @ UNINA (Italy)
 
 - name: Rosaria Capuozzo
   photo: rc.jpg
   duration: May 2019 - Nov 2020
-  current:
+  current: PhD Student, University of Bologna, Italy
   role: MSc student in Biology @ UNINA (Italy)
 
 - name: Matteo Selci
   photo: ms.jpg
   duration: Jan 2018 - Feb 2019
-  current: PhD Student @ UNINA (Italy)
+  current: PhD Student in our lab!
   role: MSc student in Marine Biology @ UNIVPM (Italy)
 
 - name: Marco Basili
   photo: mb.jpg
   duration: Feb 2018 - Feb 2019
-  current: Graduate Assistant @ CNR-IRBIM (Italy)
+  current: PhD Student, CNR-IRBIM Ancona, Italy
   role: MSc student in Marine Biology @ UNIVPM (Italy)
 
 - name: Maria Magliulo
   photo: mm.jpg
   duration: Jun 2017 - Sept 2018
-  current: PhD student @ Essex University (UK)
+  current: PhD student, Essex University, UK
   role: MSc student in Marine Biology @ UNINA (Italy)

@@ -34,3 +34,21 @@
   number_educ: 2
   education1: MSc Biology, University of Naples "Federico II", Naples, Italy
   education2: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Monica Correggia
+  photo: mcor.jpg
+  role: PhD student
+  info: Developing new analytical techniques to couple microbiological and geochemical data
+  email: monica.correggia@unina.it
+  number_educ: 2
+  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
+  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Francesco Montemagno
+  photo: fm.jpg
+  role: PhD student
+  info: ERC CoEvolve project
+  email: francesco.montemagno@unina.it
+  number_educ: 2
+  education1: MSc Natural Sciences, University of Naples Federico II, Italy
+  education2: BSc Natural Sciences, University of Naples Federico II, Italy

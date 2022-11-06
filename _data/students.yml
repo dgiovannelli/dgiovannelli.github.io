@@ -1,24 +1,40 @@
-- name: Ottavia Iacovino
-  photo: oi.jpg
-  role: Master student
-  info: Isolation and characterization of the etiological agents of seaurchins infections
-  collab: Dr. Francesca Carella
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Feliciana Oliva
-  photo: fo.jpg
-  role: Master student
-  info: Microbial diversity of the hot springs of the Campania region
+- name: Mattia Esposito
+  photo: me.jpg
+  role: Master student, Biology of Extreme Environments
+  info: Use of extremophilic microorganisms for space mining applications
   collab:
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
-- name: Emanuele Nappo
-  photo: en.jpg
-  role: Master student
-  info: Microbial diversity of the alkaline shallow water idrothermal vents of Strytan, Iceland
-  collab: Dr. Roy Price (SUNY, USA)
+- name: Antonio Longo
+  photo: al.jpg
+  role: Master student, Biology of Extreme Environments
+  info: Ocean acidification and Carbonic Anidrase diversity
+  collab:
+  number_educ: 1
+  education1: BSc Agricultural Sciences, University of Naples "Federico II", Naples, Italy
+
+- name: Gabriella Gallo
+  photo: gg.jpg
+  role: Master student, Biological Sciences
+  info: Underground Hydrogen Stodare Microbiolgy
+  collab:
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Sharath Chandra
+  photo: sc.jpg
+  role: Master student, Biology of Extreme Environments
+  info: Microbial diversity of Svalbard permafrost
+  collab:
+  number_educ: 1
+  education1: MSc Biology,India
+
+- name: Luigi De Simone
+  photo: lds.jpg
+  role: Master student, Biology of Extreme Environments
+  info: Effect of trace elemeents on hot spring microbial diversity
+  collab:
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
@@ -43,14 +59,6 @@
   role: Master student
   info: Isolation of new chemolithoautotrophic strains from geothermal environments
   collab:
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Alessandro Masi
-  photo: am.jpg
-  role: Master student
-  info: Caraterization of the PrtC-like protein of Sulfurovum riftiae
-  collab: Prof. Marco Moracci (UNINA)
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
