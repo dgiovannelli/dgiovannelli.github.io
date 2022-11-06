@@ -4,9 +4,9 @@
   info: Developping new bioinformatic tools for the study of microbial diversity
   email: davide.corso@unina.it
   number_educ: 3
-  education1:
-  education2:
-  education3:
+  education1: Ph.D. student in Biosciences, University of Padova, Italy
+  education2: MSc in Bioinformatics, University of Rome Tor Vergata, Italy
+  education3: BSc in Computer Science, University of Rome Tor Vergata, Italy
 
 - name: Annarita Ricciardelli
   photo: ar.jpg
@@ -14,9 +14,9 @@
   info: Effects of biometal availability on the physiology of microorganisms
   email: annarita.ricciardelli@unina.it
   number_educ: 3
-  education1:
-  education2:
-  education3:
+  education1: PhD in Biotechnology, University of Naples "Federico II", Italy
+  education2: MSc in Pharmaceutical Biotechnology, University of Naples "Federico II", Italy
+  education3: BSc Biotechnology for Health, University of Naples "Federico II", Italy
 
 - name: Alessia Benedicta Bastianoni
   photo: ab.jpg
