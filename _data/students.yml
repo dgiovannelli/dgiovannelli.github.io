@@ -28,7 +28,7 @@
   info: Microbial diversity of Svalbard permafrost
   collab:
   number_educ: 1
-  education1: MSc Biotechnology,India
+  education1: MSc Biotechnology, India
 
 - name: Luigi De Simone
   photo: lds.jpg
@@ -43,14 +43,6 @@
   role: Master student
   info: Microbial diversity associated with the acidophilic algae of the Galderia genus
   collab: Prof. Antonino Pollio (UNINA)
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Mariavittoria Brandi
-  photo: mvb.jpg
-  role: Master student
-  info: Spore abundance in geothermal environemnts
-  collab: Prof. Ezio Ricca (UNINA)
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
