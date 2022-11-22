@@ -6,7 +6,7 @@
   doi: 10.1111/1462-2920.16256
   link:
     url: https://doi.org/10.1111/1462-2920.16256
-    display: mBio
+    display: Env. Microbiol.
   highlight: 0
   news2:
 
@@ -18,7 +18,7 @@
   doi: 10.1038/s41396-022-01331-7
   link:
     url: https://doi.org/10.1038/s41396-022-01331-7
-    display: mBio
+    display: ISMEJ
   highlight: 0
   news2:
 
@@ -42,20 +42,8 @@
   doi: 10.3389/fmicb.2022.998133
   link:
     url: https://doi.org/10.3389/fmicb.2022.998133
-    display: Fornt. Microbiol
+    display: Fornt. Microbiol.
   highlight: 1
-  news2:
-
-- title: "Sampling across large-scale geological gradients to study geosphere-biosphere interactions"
-  image:
-  description:
-  authors: Giovannelli D, Barry PH, de Moor JM, Jessen GL, Schrenk MO, Lloyd KG
-  year: 2022
-  doi: 10.31223/X5G92M
-  link:
-    url: https://doi.org/10.31223/X5G92M
-    display: EarthArXiv
-  highlight: 0
   news2:
 
 - title: "mebipred: identifying metal-binding potential in protein sequence"
@@ -67,18 +55,6 @@
   link:
     url: https://doi.org/10.1093/bioinformatics/btac358
     display: Bioinformatics
-  highlight: 0
-  news2:
-
-- title: "Stellar metallicity is a key parameter for the search of Life in the Universe"
-  image:
-  description:
-  authors: Covone G and Giovannelli D
-  year: 2022
-  doi: 10.48550/arXiv.2207.03748
-  link:
-    url: https://doi.org/10.48550/arXiv.2207.03748
-    display: arXiv
   highlight: 0
   news2:
 
@@ -115,18 +91,6 @@
   link:
     url: https://doi.org/10.1007/978-1-0716-2313-8_13
     display: Marine Genomics
-  highlight: 0
-  news2:
-
-- title: "Quantifying the bioavailable energy in an ancient hydrothermal vent on Mars and a modern Earth-based analogue."
-  image:
-  description:
-  authors: Rucker HR,  Ely TD, LaRowe DE, Giovannelli D, Price RE
-  year: 2022
-  doi: 10.1101/2022.09.09.507253
-  link:
-    url: https://doi.org/10.1101/2022.09.09.507253
-    display: bioRxiv
   highlight: 0
   news2:
 
