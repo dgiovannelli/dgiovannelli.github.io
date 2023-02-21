@@ -31,7 +31,7 @@ Finally, we have recently launched our new [CoEvolve project website](https://ww
 
 <br/>
 
-### Not-yet-funded current projects
+### Not-yet-funded ongoing projects
 [the Polygons plot](https://giovannellilab.github.io/polygonsplot/)
 
 The microbial diversity of the Campania Region geothermal sites
