@@ -23,6 +23,7 @@ In some of my smaller classes (below 40 students) I request that the student con
 ## Classes and Courses
 
 - [Microbiology of Extreme-Environments](#microbiology-of-extreme-environments)
+- [Microbial Metabolism and Habitability](#microbial-metabolism-and-habitability)
 - [Marine Microbial Diversity](#marine-microbial-diversity)
 - [Basic Stats and R course](#basic-stats-and-r-course)
 - [Environmental Metagenomic](#environmental-metagenomic)
@@ -35,18 +36,26 @@ In some of my smaller classes (below 40 students) I request that the student con
 |_**Location:**_ | |University of Naples Federico II |
 |_**Degree:**_ | |MSc in Biology of Extreme Environments|
 |_**Class size:**_ | |~35 students |
-|_**Years active:**_ | |2021 |
+|_**Years active:**_ | |2021, 2022, 2023 |
 
 Introductory class providing a birds-eye view of the microbiology of extreme environments, the principal groups of extremophiles and a rundown of the main type if extreme environments present in our planet. The course provides also an introduction to the main field and laboratory techniques used to investigate microbial diversity in extreme ecosystems.
 
 The class is a first year requirement for both curricula of the new master degree program in the Biology of Extreme Environments started in September 2021 for the first time.
+
+### Microbial Metabolism and Habitability
+|_**Location:**_ | |University of Naples Federico II |
+|_**Degree:**_ | |MSc in Biology of Extreme Environments|
+|_**Class size:**_ | |~35 students |
+|_**Years active:**_ | |2022, 2023 |
+
+This class explores the role of life in creating and maintaining planetary habitability, focusing on biogeochemical cycles and metabolic diversity. We also discuss geoengineering approaches to climate change and terraforming. The students are required to work in small groups to present a terraforming plan following very specific guidelines. The final project, in the form of a poster and presentation, is judged by a panel of external experts in the topics of astrobiology. Check out [the student project page](habitability-projects) containing all the projects organized by year.
 
 ### Marine Microbial Diversity
 
 |_**Location:**_ | |University of Naples Federico II |
 |_**Degree:**_ | |MSc in Marine Biology |
 |_**Class size:**_ | |20-40 students |
-|_**Years active:**_ | |2016, 2019, 2020, 2021 |
+|_**Years active:**_ | |2016, 2019, 2020, 2021, 2022 |
 
 I'v been teaching Marine Microbial Diversity to the graduate student in the UNINA Marine Biology program since 2016. The course, entirely in English, provides an introduction to general marine microbiology to students with a diverse background, and therefore includes a broad recap of general microbiology concepts.
 
