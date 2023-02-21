@@ -73,10 +73,10 @@ There are no recording available at the moment, but you can download the pdf of 
 
 ### Environmental Metagenomic
 
-|_**Location:**_ | University of Naples Federico II |
-|_**Degree:**_ | MSc in Biology |
-|_**Class size:**_ | 20-40 students |
-|_**Years active:**_ | 2021 |
+|_**Location:**_ | | University of Naples Federico II |
+|_**Degree:**_ | | MSc in Biology |
+|_**Class size:**_ | | 20-40 students |
+|_**Years active:**_ | | 2021 |
 
 Introductory class in Environmental Metagenomic for graduate students pursuing a Master Degree in Biology with a focus in environmental sciences. The class gives a recap of basic microbiology and microbial ecology concepts and then jumps into a 20 hours hand-on metagenomic analysis of publicly available datasets using web-based tools.
 
@@ -108,7 +108,7 @@ Grasuate class in microbial genetics at Rutgers University designed to provide a
 
 ## Wikipedia Contributions
 
-Here a list of the articles edited by the students as part of their assignment together with some basic stats regarding the added information. The complete data about our edits can be found in the dashboard of the [Microbiology Teaching in Italy Wikipedia]([Wikipedia dashboard](https://outreachdashboard.wmflabs.org/campaigns/microbiology_teaching_in_italy/programs) page.
+Here a list of the articles edited by the students as part of their assignment together with some basic stats regarding the added information. The complete data about our edits can be found in the dashboard of the [Microbiology Teaching in Italy Wikipedia](https://outreachdashboard.wmflabs.org/campaigns/microbiology_teaching_in_italy/programs) page.
 
 |Article	|Words Added |References added|
 |--|:--:|:--:|
