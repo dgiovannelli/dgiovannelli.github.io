@@ -38,7 +38,7 @@ Mariarca D'Aniello
 Afonso Mota, Marina Grilo and Gabriele Ellena
 ![]({{ site.url }}{{ site.baseurl }}/images/terraforming/trappist1e.jpg){: style="width: 60%; float: center; border: 10px"}
 
-Sergio Scottillo and Mauro Cardillo
+Sergio Scotillo and Mauro Cardillo
 ![]({{ site.url }}{{ site.baseurl }}/images/terraforming/ganymede.jpg){: style="width: 60%; float: center; border: 10px"}
 
 Filippo Villano and Alessia Silvestrin
