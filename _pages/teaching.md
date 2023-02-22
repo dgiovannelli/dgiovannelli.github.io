@@ -48,7 +48,7 @@ The class is a first year requirement for both curricula of the new master degre
 |_**Class size:**_ | |~35 students |
 |_**Years active:**_ | |2022, 2023 |
 
-This class explores the role of life in creating and maintaining planetary habitability, focusing on biogeochemical cycles and metabolic diversity. We also discuss geoengineering approaches to climate change and terraforming. The students are required to work in small groups to present a terraforming plan following very specific guidelines. The final project, in the form of a poster and presentation, is judged by a panel of external experts in the topics of astrobiology. Check out [the student project page](habitability-projects) containing all the projects organized by year.
+This class explores the role of life in creating and maintaining planetary habitability, focusing on biogeochemical cycles and metabolic diversity. We also discuss geoengineering approaches to climate change and terraforming. The students are required to work in small groups to present a terraforming plan following very specific guidelines. The final project, in the form of a poster and presentation, is judged by a panel of external experts in the topics of astrobiology. Check out [the student project page](terraforming.md) containing all the projects organized by year.
 
 ### Marine Microbial Diversity
 
