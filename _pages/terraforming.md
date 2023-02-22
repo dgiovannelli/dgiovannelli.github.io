@@ -26,22 +26,28 @@ As a final project I ask them to work in small groups (2-3 people) to devise a T
 Here are the results of this class so far. The poster are impressive, both for the graphics and the depth of the terraofrming plans.
 
 Dario Esposito and Valentina Foresta
+
 ![]({{ site.url }}{{ site.baseurl }}/images/terraforming/triton.jpg){: style="width: 60%; float: center; border: 10px"}
 
 Mattia Esposito and Antonio Longo
+
 ![]({{ site.url }}{{ site.baseurl }}/images/terraforming/teegardenC1.jpg){: style="width: 60%; float: center; border: 10px"}
 ![]({{ site.url }}{{ site.baseurl }}/images/terraforming/teegardenC2.jpg){: style="width: 60%; float: center; border: 10px"}
 
 Mariarca D'Aniello
+
 ![]({{ site.url }}{{ site.baseurl }}/images/terraforming/titan.jpg){: style="width: 60%; float: center; border: 10px"}
 
 Afonso Mota, Marina Grilo and Gabriele Ellena
+
 ![]({{ site.url }}{{ site.baseurl }}/images/terraforming/trappist1e.jpg){: style="width: 60%; float: center; border: 10px"}
 
 Sergio Scotillo and Mauro Cardillo
+
 ![]({{ site.url }}{{ site.baseurl }}/images/terraforming/ganymede.jpg){: style="width: 60%; float: center; border: 10px"}
 
 Filippo Villano and Alessia Silvestrin
+
 ![]({{ site.url }}{{ site.baseurl }}/images/terraforming/venus.jpg){: style="width: 60%; float: center; border: 10px"}
 
 <br />
