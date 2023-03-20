@@ -11,6 +11,8 @@ permalink: /yearinnumbers.html
 In 2016 I decided to post publicly each year a summary of my scientific activities. I was inspired by [Piet Hut](https://www.ids.ias.edu/piet), my host at the [Institute for Advanced Studies](https://www.ias.edu/) in Princeton, who’s posting every year detailed reports of his activities. I think this benefits both myself, as it bring into focus what I’ve been spending my time on during the year, and the public at large. Since my science is largely funded with taxpayers money it is good to be transparent about the activities carried out.
 
 ### Years
+- [2022](#2022-annual-report)
+- [2021](#2021-annual-report)
 - [2020](#2020-annual-report)
 - [2019](#2019-annual-report)
 - [2018](#2018-annual-report)

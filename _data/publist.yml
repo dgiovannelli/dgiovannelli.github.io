@@ -1,3 +1,63 @@
+- title: "Surface Bacterioplankton Community Structure Crossing the Antarctic Circumpolar Current Fronts"
+  image:
+  description:
+  authors: Cordone A, Selci M, Barosa B, Bastianoni A, Bastoni D, Bolinesi F, Capuozzo R, Cascone M, Correggia M, Corso D, Di Iorio L, Misic C, Montemagno F, Ricciardelli A, Saggiomo M, Tonietti L, Mangoni O, Giovannelli D
+  year: 2023
+  doi: 10.3390/microorganisms11030702
+  link:
+    url: https://doi.org/10.3390/microorganisms11030702
+    display: Microorganisms
+  highlight: 0
+  news2:
+
+- title: "Quantifying the Bioavailable Energy in an Ancient Hydrothermal Vent on Mars and a Modern Earth-Based Analog"
+  image:
+  description:
+  authors: Rucker HR, Ely TD, LaRowe DE, Giovannelli D, Price RE
+  year: 2023
+  doi: 10.1089/ast.2022.0064
+  link:
+    url: https://doi.org/10.1089/ast.2022.0064
+    display: Astrobiology
+  highlight: 0
+  news2:
+
+- title: "The gut microbiome–Does stool represent right?"
+  image:
+  description:
+  authors: Levitan O, Ma L, Giovannelli D, Burleson DB, McCaffrey P, Vala A,  Johnson DA
+  year: 2023
+  doi: 10.1016/j.heliyon.2023.e13602
+  link:
+    url: https://doi.org/10.1016/j.heliyon.2023.e13602
+    display: Heliyon
+  highlight: 0
+  news2:
+
+- title: "Chemolithoautotroph distributions across the subsurface of a convergent margin"
+  image:
+  description:
+  authors: Rogers TJ, Joy Buongiorno, Gerdhard L Jessen, Matthew O Schrenk, James A Fordyce, J Maarten de Moor, Carlos J Ramírez, Peter H Barry, Mustafa Yücel, Matteo Selci, Angela Cordone, Donato Giovannelli, Karen G Lloyd
+  year: 2023
+  doi: 10.1038/s41396-022-01331-7
+  link:
+    url: https://doi.org/10.1038/s41396-022-01331-7
+    display: ISMEJ
+  highlight: 0
+  news2:
+
+- title: "Microbial ecology of a shallow alkaline hydrothermal vent: Strýtan Hydrothermal Field, Eyjafördur, northern Iceland"
+  image:
+  description:
+  authors: Twing KI, Ward LM, Kane ZK, Sanders A, Price RE, Pendleton HL,  Giovannelli D, Brazelton WJ, McGlynn SE
+  year: 2023
+  doi: 10.3389/fmicb.2022.960335
+  link:
+    url: https://doi.org/10.3389/fmicb.2022.960335
+    display: Front. Microbiol.
+  highlight: 0
+  news2:
+
 - title: "Adaptations to high pressure of Nautilia sp. strain PV‐1, a piezophilic Campylobacterium (aka Epsilonproteobacterium) isolated from a deep‐sea hydrothermal vent"
   image:
   description:
@@ -7,18 +67,6 @@
   link:
     url: https://doi.org/10.1111/1462-2920.16256
     display: Env. Microbiol.
-  highlight: 0
-  news2:
-
-- title: "Chemolithoautotroph distributions across the subsurface of a convergent margin"
-  image:
-  description:
-  authors: Rogers TJ, Joy Buongiorno, Gerdhard L Jessen, Matthew O Schrenk, James A Fordyce, J Maarten de Moor, Carlos J Ramírez, Peter H Barry, Mustafa Yücel, Matteo Selci, Angela Cordone, Donato Giovannelli, Karen G Lloyd
-  year: 2022
-  doi: 10.1038/s41396-022-01331-7
-  link:
-    url: https://doi.org/10.1038/s41396-022-01331-7
-    display: ISMEJ
   highlight: 0
   news2:
 

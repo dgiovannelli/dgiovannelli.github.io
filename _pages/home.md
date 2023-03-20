@@ -8,6 +8,8 @@ permalink: /
 
 Hi, my name is Donato Giovannelli and I am a Professor of Microbiology at the [Department of Biology](http://www.dipartimentodibiologia.unina.it) of the [University of Naples "Federico II"](http://www.unina.it), in Italy. My group aims to explore and understand the emergence and evolution of life and the co-evolution of the Geosphere and the Biosphere. I've been recently awarded a **ERC Starting Grant** to look at the co-evolution of biogeochemically-relevant proteins and trace metal availability in the environment called CoEvolve. Read more about [the CoEvolve project here](https://www.coevolve.eu).
 
+### [www.coevolve.eu](https://www.coevolve.eu)
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -66,7 +68,7 @@ Hi, my name is Donato Giovannelli and I am a Professor of Microbiology at the [D
 In my lab we combine classic microbiology techniques with data from comparative genomic, phylogenetic, geochemistry, environmental surveys and computational approaches to reconstruct geo-bio interactions. The majority of our work is carried out in [extreme environments](research), ranging from deep-sea and shallow-water hydrothermal vents, hot springs and volcanoes, the subsurface and Polar regions.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/logopic/giovannellilab.png){: style="width: 25%; float: right; border: 10px "}
-> Our laboratory logo, an abstract representation of what we call "microbiology in planetary context". Designed by [Patricia Barcala Dominguez](https://www.instagram.com/pat_barcala/)
+> Our laboratory logo (in its version 2.0), an abstract representation of what we call "microbiology in planetary context". Designed by [Patricia Barcala Dominguez](https://www.instagram.com/pat_barcala/)
 
 Check out our [research](research), our latest [publications](publications) or our [interactive map](fieldsites) showing our field sites. Head to the [team section](team) to read [more about myself]({{ site.url }}/dg_bio.html) and the rest of the fantastic people I work with. Also, don't forget to take a look at the [gallery](pictures) containing videos and pictures from the remote locations we visit or check out our [outreach](mediaoutreach#outreach-activities) activities and appearance in the [media](mediaoutreach#media-coverage). Take a look at the yearly report I post about my activities in [the Year in Numbers section]({{ site.url }}/yearinnumbers.html).
 
