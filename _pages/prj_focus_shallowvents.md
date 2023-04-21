@@ -20,4 +20,5 @@ Here is a list of resources on shallow-water hydrothermal vent extracted from Pr
 A table containing the key characteristic of prokaryotic isolates in pure culture from shallow-water hydrothermal vents worldwide, updated regularly. Table shallow-water vent isolates
 A table containing the location and general characteristics of shallow-water hydrothermal vents occurring at less than 212 meters water depth, updated regularly. Table Confirmed shallow-water vent locations
 A bibtex file containing the my bibliographic database on shallow-water vent papers, updated regularly. File bibliography shallow-vents in bibtex format updated May 2018.
+
 Last update May 2018

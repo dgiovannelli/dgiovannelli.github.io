@@ -83,23 +83,23 @@ We are located at the [University of Naples "Federico II"](http://www.unina.it),
 We are grateful for past and present funding from the [European Research Council](http://www.erc.europa.eu), the [Deep Carbon Observatory](http://www.deepcarbon.net), [NASA](http://www.nasa.gov), the [International Continental Drilling Program (ICDP)](https://www.icdp-online.org/home/) and the [International Oceanic Discovery Program (IODP)](https://www.iodp.org/), the [Italian Arctic Program](https://www.mur.gov.it/it/aree-tematiche/ricerca/programmazione/programma-di-ricerche-artico) and the [Italian Antarctic Research Program](https://www.pnra.aq/) by the Italian Ministry of Research, the [C-DEBI](http://c-debi.org), the [National Science Foundation](www.nsf.gov) and the [ELSI Origins Network](http://eon.elsi.jp/).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logo.png" style="width: 90px; padding: 2px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pra.png" style="width: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/msca.jpg" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DCO.png" style="width: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/C-DEBI.png" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NASA.png" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_logo.png" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EON.jpeg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/icdp.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iodp.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logo.png" style="width: 90px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pra.png" style="width: 80px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/msca.jpg" style="width: 90px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DCO.png" style="width: 80px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/C-DEBI.png" style="width: 90px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NASA.png" style="width: 90px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_logo.png" style="width: 90px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EON.jpeg" style="width: 110px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/icdp.jpg" style="width: 110px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iodp.png" style="width: 110px; padding: 5px">
 </figure>
 
 Additionally, we benefit from a number of technical sponsors that support our research and field activities globally providing cutting edge equipment for testing:
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/garmin.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ande.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nanotech.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/victorinox.png" style="width: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/garmont.jpg" style="width: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/garmin.png" style="width: 100px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ande.png" style="width: 100px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nanotech.png" style="width: 110px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/victorinox.png" style="width: 80px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/garmont.jpg" style="width: 80px; padding: 5px">
 </figure>

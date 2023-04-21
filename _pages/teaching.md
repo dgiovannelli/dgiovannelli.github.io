@@ -57,7 +57,9 @@ This class explores the role of life in creating and maintaining planetary habit
 |_**Class size:**_ | |20-40 students |
 |_**Years active:**_ | |2016, 2019, 2020, 2021, 2022 |
 
-I'v been teaching Marine Microbial Diversity to the graduate student in the UNINA Marine Biology program since 2016. The course, entirely in English, provides an introduction to general marine microbiology to students with a diverse background, and therefore includes a broad recap of general microbiology concepts.
+I've been teaching Marine Microbial Diversity to the graduate student in the UNINA Marine Biology program since 2016. The course, entirely in English, provides an introduction to general marine microbiology to students with a diverse background, and therefore includes a broad recap of general microbiology concepts.
+
+There are no recording available at the moment, but you can download the pdf of the slides (in English) from the [course GitHub repository](https://github.com/dgiovannelli/unina_marinemicro).
 
 
 ### Basic Stats and R course
