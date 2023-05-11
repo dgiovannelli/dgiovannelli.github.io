@@ -1,13 +1,3 @@
-- name: Matteo Selci
-  photo: ms.jpg
-  role: PhD student
-  info: Diversity of microbial communities in geothermal environments
-  collab: Dr. Maarten de Moor, OVSICORI
-  email: matteo.selci@unina.it
-  number_educ: 2
-  education1: MSc Marine Biology and Ecology, Polytechnic University of Marche, Ancona, Italy
-  education2: BSc Biology, Polytechnic University of Marche, Ancona, Italy
-
 - name: Bernardo Barosa
   photo: bb.jpg
   role: PhD student
@@ -52,3 +42,53 @@
   number_educ: 2
   education1: MSc Natural Sciences, University of Naples Federico II, Italy
   education2: BSc Natural Sciences, University of Naples Federico II, Italy
+
+- name: Flavia Migliaccio
+  photo: flm.jpg
+  role: PhD student
+  info: Diversity of microbial communities in marine geothermal environments (PNRR BFNC)
+  collab:
+  email: flavia.migliaccio@unina.it
+  number_educ: 2
+  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
+  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Nunzia Nappi
+  photo: nn.jpg
+  role: PhD student
+  info: Diversity of microbial communities in the algal collection ACUF @UNINA  (PNRR IR MIRRI)
+  collab:
+  email: nunzia.nappi@unina.it
+  number_educ: 2
+  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
+  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Feliciana Oliva
+  photo: fo.jpg
+  role: PhD student
+  info: Diversity of microbiomes in terrestrial geothermal ecosystems (PNRR IR MIRRI)
+  collab:
+  email: feliciana.oliva@unina.it
+  number_educ: 2
+  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
+  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Marzia Licata
+  photo: ma.jpg
+  role: PhD student
+  info: Genomic diversity of isolates in the algal collection ACUF @UNINA  (PNRR IR MIRRI)
+  collab:
+  email: marzia.licata@unina.it
+  number_educ: 2
+  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
+  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Ana Pelicciari Silva
+  photo: ap.jpg
+  role: MSCA PhD student
+  info: Microbial diversity associated with shallow water hydrothermal vents and their biotechnological applications
+  collab:
+  email: ana.pelicciari@unina.it
+  number_educ: 2
+  education1:
+  education2:

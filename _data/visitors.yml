@@ -1,17 +1,23 @@
 - name: Valentina Marcheselli
   photo: vm.jpg
   role: Postdoc
-  uni: University of Trento, Italy
+  uni: University of Trento (Italy)
   topic: Sociology of science
+
+- name: Sara Diana
+  photo: sd.jpg
+  role: PhD Student
+  uni: University of Palermo (Italy)
+  topic: Geochemistry and microbiology of shallow-water hydrothermal vents
 
 - name: Luca Tonietti
   photo: lt.jpg
   role: PhD Student
-  uni: University of Naples "Parthenope"
+  uni: University of Naples "Parthenope" (Italy)
   topic: In situ resource utilization in Astrobiology and microbial metal mining
 
 - name: Jacopo Brusca
   photo: jb.jpg
   role: Master student
-  uni: Polytechnic University of Marche, Ancona, Italy
+  uni: Polytechnic University of Marche, Ancona (Italy)
   topic: Cambialistic metalloenzymes

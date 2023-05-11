@@ -327,6 +327,7 @@ The Giovannelli Lab team during a field excursion to the hot springs of Mondrago
 
 ## Undergraduate Alumni
 <ul style="list-style-type: none">
+    <li>Francesca Satolli, UNINA, 2023</li>
     <li>Natalia Russo, UNINA, 2020</li>
     <li>Emanuela Mastromo, UNINA, 2020</li>
     <li>Teresa Femiano, UNINA, 2020</li>

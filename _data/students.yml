@@ -37,35 +37,3 @@
   collab:
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Nunzia Nappi
-  photo: nn.jpg
-  role: Master student
-  info: Microbial diversity associated with the acidophilic algae of the Galderia genus
-  collab: Prof. Antonino Pollio (UNINA)
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Elena Panariello
-  photo: ep.jpg
-  role: Master student
-  info: Isolation of new chemolithoautotrophic strains from geothermal environments
-  collab:
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Flavia Migliaccio
-  photo: flm.jpg
-  role: Master student
-  info: ERASMUS
-  collab: Prof. Kasper Kjeldsen (Denmark)
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Luigi Gallucci
-  photo: lg.jpg
-  role: Master student
-  info: Interaction microbiome of posidonia and its associated sponges
-  collab: Dr. Ulizze Cardini (SZN, Naples)
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy

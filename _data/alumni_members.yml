@@ -1,6 +1,30 @@
+- name: Matteo Selci
+  photo: ms.jpg
+  duration: Sept 2019 - April 2023
+  current: Postdoctoral Research Fellow, Rutgers University (USA)
+  role: PhD Student @ Unina (Italy)
+
+- name: Nunzia Nnppi
+  photo: nn.jpg
+  Duration: February 2022 - April 2023
+  current: PhD Student @ Unina (Italy)
+  role: Master student in Biology @ Unina (Italy)
+
+- name: Luigi Gallucci
+  photo: lg.jpg
+  Duration: February 2022 - April 2023
+  current: Visiting Erasmus Student, Max Plank Institute, Bremen (Germany)
+  role: Master student in Marine Biology @ Unina (Italy)
+
+- name: Elena Manariello
+  photo: ep.jpg
+  Duration: February 2022 - April 2023
+  current:
+  role: Master student in Biology @ Unina (Italy)
+
 - name: Mariavittoria Brandi
   photo: mvb.jpg
-  role: Master student
+  role: Master student in Biology @ Unina (Italy)
   Duration: May 2021 - Nov 2022
   current:
 
@@ -19,7 +43,7 @@
 - name: Feliciana Oliva
   photo: fo.jpg
   duration: Jun 2021 - Oct 2022
-  current:
+  current: PhD Student @ Unina (Italy)
   role: Master student in Biology @ Unina (Italy)
 
 - name: Ottavia Iacovino
