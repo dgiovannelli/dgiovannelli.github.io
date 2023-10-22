@@ -6,7 +6,7 @@ sitemap: false
 permalink: /habproject/
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/blogpic/moon.jpg){: style="width: 80%; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/blogpic/moon.jpg){: style="width: 100%; float: center; border: 10px"}
 
 # Lunar Human Colony Microbial-Enabled Support System Interim Class Project
 
