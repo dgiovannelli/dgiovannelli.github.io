@@ -6,6 +6,8 @@ sitemap: false
 permalink: /habproject/
 ---
 
+![]({{ site.url }}{{ site.baseurl }}/images/blogpic/moon.jpg){: style="width: 80%; float: center; border: 10px"}
+
 # Lunar Human Colony Microbial-Enabled Support System Interim Class Project
 
 The MM&H program is inviting proposals for the Moon Shot Project. The detailed description of request for application can be found in the RFA below. Deadline for submission is Friday 3rd November 2023 at 11.59 am UTC. Proposal have to be submitted exclusively through the provided online submission system.
