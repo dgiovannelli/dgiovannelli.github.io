@@ -12,7 +12,7 @@ The MM&H program is inviting proposals for the Moon Shot Project. The detailed d
 ## Lunar Human Colony Microbial-Enabled Support System Program
 
 ### Art. 1 - General
-The MM&H program is designed to provide innovative solutions for the support of a long term human colony on the Moon. MM&H is requesting proposal for microbial-enabled support systems for the Moon Shot Project. The primary objective of this RFA is to encourage the development of cutting-edge microbial-based technologies that support human life on the Moon. These systems should address key aspects such as life support, resource utilization, and waste management, while ensuring the safety and sustainability of lunar habitats.
+The MM&H program is designed to provide innovative solutions for the support of a long term human colony on the Moon. MM&H is requesting proposal for microbial-enabled support systems for the Moon Shot Project. The primary objective of this RFA is to encourage the development of cutting-edge microbial-based technologies that support human life on the Moon. These systems should address key aspects such as life support, resource utilization, and waste management, while ensuring the safety and sustainability of lunar habitats. 
 
 ### Art. 2 - Available Resources
 The total budget assigned to the project is 600 Million Euro, and will be assigned to a single proposal selected by the MM&H review panel. Once assigned, the winning team will have 40 days to develop the project and present a full plan to the review board.
