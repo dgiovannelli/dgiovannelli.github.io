@@ -1,35 +1,3 @@
-- name: Mattia Esposito
-  photo: me.jpg
-  role: Master student, Biology of Extreme Environments
-  info: Use of extremophilic microorganisms for space mining applications
-  collab:
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Antonio Longo
-  photo: al.jpg
-  role: Master student, Biology of Extreme Environments
-  info: Ocean acidification and Carbonic Anidrase diversity
-  collab:
-  number_educ: 1
-  education1: BSc Agricultural Sciences, University of Naples "Federico II", Naples, Italy
-
-- name: Gabriella Gallo
-  photo: gg.jpg
-  role: Master student, Biological Sciences
-  info: Underground Hydrogen Stodare Microbiolgy
-  collab:
-  number_educ: 1
-  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
-
-- name: Sharath Chandra
-  photo: sc.jpg
-  role: Master student, Biology of Extreme Environments
-  info: Microbial diversity of Svalbard permafrost
-  collab:
-  number_educ: 1
-  education1: MSc Biotechnology, India
-
 - name: Luigi De Simone
   photo: lds.jpg
   role: Master student, Biology of Extreme Environments
@@ -37,3 +5,43 @@
   collab:
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Marina Grilo
+  photo: mp.jpg
+  role: Master student, Biology of Extreme Environments
+  info: Microbiology of Chile Laguna Roja
+  collab: Prof. Purificacion Lopez-Garcia, CNRS, France
+  number_educ: 1
+  education1:
+
+- name: Margherita Plotti
+  photo: mp.jpg
+  role: Master student, Biology of Extreme Environments
+  info: Microbiology of cryoconites and glaciers
+  collab: Prof. Andrea Franzetti, University of Milano Bicocca
+  number_educ: 1
+  education1:
+
+- name: Jake Lowe
+  photo: jl.jpg
+  role: Master student, Biology of Extreme Environments
+  info:
+  collab:
+  number_educ: 1
+  education1:
+
+- name: Michela Barbetta
+  photo: mbar.jpg
+  role: Master student, Biology of Extreme Environments
+  info:
+  collab:
+  number_educ: 1
+  education1:
+
+- name: Sathesh Raj Periasamey
+  photo: srp.jpg
+  role: Master student, Biology of Extreme Environments
+  info:
+  collab:
+  number_educ: 1
+  education1:

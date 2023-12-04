@@ -37,7 +37,7 @@
 - name: Francesco Montemagno
   photo: fm.jpg
   role: PhD student
-  info: ERC CoEvolve project
+  info: Role of copper in controlling the diversity of copper-containing enzymes
   email: francesco.montemagno@unina.it
   number_educ: 2
   education1: MSc Natural Sciences, University of Naples Federico II, Italy
@@ -57,7 +57,7 @@
   photo: nn.jpg
   role: PhD student
   info: Diversity of microbial communities in the algal collection ACUF @UNINA  (PNRR IR MIRRI)
-  collab:
+  collab: Prof. Antonino Pollio
   email: nunzia.nappi@unina.it
   number_educ: 2
   education1: MSc Biology, University of Naples "Federico II", Naples, Italy
@@ -67,7 +67,7 @@
   photo: fo.jpg
   role: PhD student
   info: Diversity of microbiomes in terrestrial geothermal ecosystems (PNRR IR MIRRI)
-  collab:
+  collab: Prof. Antonino Pollio
   email: feliciana.oliva@unina.it
   number_educ: 2
   education1: MSc Biology, University of Naples "Federico II", Naples, Italy
@@ -77,7 +77,7 @@
   photo: ma.jpg
   role: PhD student
   info: Genomic diversity of isolates in the algal collection ACUF @UNINA  (PNRR IR MIRRI)
-  collab:
+  collab: Prof. Antonino Pollio
   email: marzia.licata@unina.it
   number_educ: 2
   education1: MSc Biology, University of Naples "Federico II", Naples, Italy
@@ -92,3 +92,34 @@
   number_educ: 2
   education1:
   education2:
+
+- name: Jacopo Brusca
+  photo: jb.jpg
+  role: National Polar Science Doctoral Program student
+  info: Microbial diversity in polar region and biogeochemical cycling in a change climate
+  collab:
+  email: jacopo.brusca@unina.it
+  number_educ: 2
+  education1: MSc Biology, Polytechnic University of Marche, Ancona (Italy)
+  education2: BSc Biology, Polytechnic University of Marche, Ancona (Italy)
+
+- name: Antonio Longo
+  photo: al.jpg
+  role: PhD Student
+  info: Developping a microbial-based health index for the oceans
+  collab: Dr. Daniele Iudicone, Stazione Zoologica Anthon Dorhn
+  email: antonio.longo@unina.it
+  number_educ: 2
+  education1: MSc Biology of Extreme Environments, University of Naples "Federico II", Naples, Italy
+  education2: BSc Agricultural Sciences, University of Naples "Federico II", Naples, Italy
+
+- name: Guillermo Climent Gargallo
+  photo: gcg.jpg
+  role: MSCA PhD student
+  info: Microbiology of underground hydrogen storage
+  collab:
+  email:
+  number_educ: 3
+  education1: BSc in Biotechnology, Polytechnic University of Valencia, Spain
+  education2: MSc in Bioinformatics,  University of Valencia, Spain
+  education3: MSc in Data Science,  University of Valencia, Spain 

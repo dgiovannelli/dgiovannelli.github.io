@@ -1,3 +1,20 @@
+- name: Mattia Esposito
+  photo: me.jpg
+  role: Master student, Biology of Extreme Environments
+  duration: Septh 2022 - Dec 2023
+
+- name: Sharath Chandra
+  photo: sc.jpg
+  role: Master student, Biology of Extreme Environments
+  duration: Sept 2022 - Oct 2023
+  current: PhD Student, Portugal
+
+- name: Gabriella Gallo
+  photo: gg.jpg
+  role: Master student, Biological Sciences
+  duration: June 2022 - July 2023
+  current:
+
 - name: Matteo Selci
   photo: ms.jpg
   duration: Sept 2019 - April 2023
