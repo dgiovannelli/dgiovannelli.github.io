@@ -7,20 +7,20 @@
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
 - name: Marina Grilo
-  photo: mp.jpg
+  photo: mgrl.jpg
   role: Master student, Biology of Extreme Environments
   info: Microbiology of Chile Laguna Roja
   collab: Prof. Purificacion Lopez-Garcia, CNRS, France
   number_educ: 1
-  education1:
+  education1: BSc in Biology, University of Coimbra, Portugal
 
 - name: Margherita Plotti
-  photo: mp.jpg
+  photo: mpl.jpg
   role: Master student, Biology of Extreme Environments
   info: Microbiology of cryoconites and glaciers
-  collab: Prof. Andrea Franzetti, University of Milano Bicocca
+  collab: Prof. Andrea Franzetti, University of Milano Bicocca, Italy
   number_educ: 1
-  education1:
+  education1: BSc in Biology, University of Trieste, Italy
 
 - name: Jake Lowe
   photo: jl.jpg
@@ -28,7 +28,7 @@
   info:
   collab:
   number_educ: 1
-  education1:
+  education1: BSc in Biology, University of Utah, USA
 
 - name: Michela Barbetta
   photo: mbar.jpg
@@ -36,7 +36,7 @@
   info:
   collab:
   number_educ: 1
-  education1:
+  education1: BSc in Biology, University of Pavia, Italy
 
 - name: Sathesh Raj Periasamey
   photo: srp.jpg
@@ -44,4 +44,4 @@
   info:
   collab:
   number_educ: 1
-  education1:
+  education1:BSc in Biology, Universiti Sains Malaysia, Malaysia
