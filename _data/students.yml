@@ -22,10 +22,26 @@
   number_educ: 1
   education1: BSc in Biology, University of Pavia, Italy
 
-- name: Sathesh Raj Periasamey
-  photo: srp.jpg
+- name: Giulia Mallocci
+  photo: gml.jpg
   role: Master student, Biology of Extreme Environments
-  info:
-  collab:
+  info: Microbiology of Ionian Pockmarks and mud volcanoes
+  collab: 
   number_educ: 1
-  education1: BSc in Biology, Universiti Sains Malaysia, Malaysia
+  education1: BSc in Biology
+
+- name: Mirko Leggiero
+  photo: mlg.jpg
+  role: Master student, Biology of Extreme Environments
+  info: Microbial bioleaching in simulated space conditions
+  collab: 
+  number_educ: 1
+  education1: BSc in Biology
+
+- name: Martina Ferrara
+  photo: mfr.jpg
+  role: Master student, Biology of Extreme Environments
+  info: The microbiology of the Icelandic alkaline vent Strytan
+  collab: 
+  number_educ: 1
+  education1: BSc in Biology

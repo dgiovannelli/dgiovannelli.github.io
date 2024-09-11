@@ -14,9 +14,29 @@ Visiting positions are always possible, especially if funded though one of the m
 Below you'll find information about current searches at the [PhD](#phd-positions), [Postdoctoral level](#postdoctoral-fellow-positions) or with any time of qualification!
 
 ## PhD Positions
-- **MSCA PhD position in the Microbiology of Underground Hydrogen Storage in the framework of the MSCA Doctoral Ntwork SHINE**. A PhD position is open in my lab funded through the MSCA Doctoral Network SHINE to work on the microbiology of Underground Hydrogen Storage starting in November 2023. The calla nd the call deadline will be announced soon. Given this is a MSCA funded position, applicants must not have lived or carried out their main activity (e.g. study, work, research) in Italy for more than 12 months in the past 3 years immediately prior to the Call deadline.
-
-- **PhD positions in my group at the University of Naples**. In addition to the MSCA PhD position described above, the call for new positions in the Doctoral Schools in Biology and Biotechnology at the University of Naples Federico II will open soon. One or more position might be available to join my lab depending on the score and interests of selected candidates. I will post the new call as soon as it become available, but for now you can check out the past call to get a sense of the requirement to apply. Here last year call in [Italian](http://www.unina.it/documents/11958/24993304/DOT_37_2021-04-22_bando.pdf) and in [English](http://www.unina.it/documents/11958/25516556/PhD_37_CALL.pdf). The call should be out before the end of May and the deadline is usually less then a month after the call is announced. Get in touch with me asap if interested!
+There are no PhD positions available at the moment. Check back in a few months!
 
 ## Postdoctoral Fellow positions
-There are no postdoctoral positions available at the moment. Check back in a few months!
+
+Exciting **2-Year Postdoctoral Fellowship** in Bioinformatics available in my group at the University of Naples Federico II, funded by the ERC project CoEvolve (https://www.coevolve.eu/).
+
+The Coevolve project, now at the start of its 4th year, focuses on understanding how trace metal availability shapes microbial functional diversity (see this perspective for a small summary https://www.nature.com/articles/s43017-023-00477-y). We have a wealth of data awaiting exploration, and we’re looking for a talented and motivated postdoc to join us!
+
+Key Responsibilities:
+
+- Support and maintain bioinformatic tools already developed in our group
+- Develop new computational tools to tackle exciting questions
+- Contribute to large-scale data analyses
+- Develop your own research ideas aligned with the project’s goals
+
+You’ll be involved in exploring fascinating topics like the diversity of metal transporters in geothermal environments, correlating metal availability with specific reductases, and predicting cambialistic enzymes. This is a fantastic opportunity to develop and apply innovative bioinformatics solutions to real-world challenges. Opportunities to take part in fieldwork are also available if youŕe up fopr some adventure!
+
+We are looking for:
+
+- Proficiency in Python, R, and Bash
+- A strong sense of self-motivation, independence, and adaptability
+- Ability to thrive in collaborative, interdisciplinary teams
+
+The Giovannelli Lab is a dynamic and fast-paced research group studying the microbial ecology of extreme environments and the co-evolution of life and Earth (https://www.donatogiovannelli.com/). Our projects span everything from permafrost microbiology to underground hydrogen storage. We combine fieldwork in remote locations, classical microbiology, and computational tools, providing a truly interdisciplinary environment for innovation. The group is located at the University of Naples Federico II in Monte Sant'Angelo in the vibrant, colorful and never resting city of Naples, Italy. Curious about our work? Check out our latest research on Google Scholar (https://scholar.google.com/citations?user=eYxwQpkAAAAJ&hl=en) and our GitHub (https://github.com/giovannellilab).
+
+Applications will open soon (in line with formal Italian procedures) and will require that you pass a formal selection. Start date: November 1st, 2024. Don’t miss this opportunity to work on an exciting project at the forefront of bioinformatics and microbial ecology. Contact me for more information!
