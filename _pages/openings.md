@@ -18,7 +18,7 @@ There are no PhD positions available at the moment. Check back in a few months!
 
 ## Postdoctoral Fellow positions
 
-Exciting **2-Year Postdoctoral Fellowship** in Bioinformatics available in my group at the University of Naples Federico II, funded by the ERC project CoEvolve (https://www.coevolve.eu/).
+Exciting **2-Year Postdoctoral Fellowship** in Bioinformatics available in my group at the University of Naples Federico II, funded by the [ERC project CoEvolve](https://www.coevolve.eu/).
 
 The Coevolve project, now at the start of its 4th year, focuses on understanding how trace metal availability shapes microbial functional diversity (see this [perspective for a small summary](https://www.nature.com/articles/s43017-023-00477-y)). We have a wealth of data awaiting exploration, and we’re looking for a talented and motivated postdoc to join us!
 
