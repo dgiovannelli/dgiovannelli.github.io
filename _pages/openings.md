@@ -20,7 +20,7 @@ There are no PhD positions available at the moment. Check back in a few months!
 
 Exciting **2-Year Postdoctoral Fellowship** in Bioinformatics available in my group at the University of Naples Federico II, funded by the ERC project CoEvolve (https://www.coevolve.eu/).
 
-The Coevolve project, now at the start of its 4th year, focuses on understanding how trace metal availability shapes microbial functional diversity (see this perspective for a small summary https://www.nature.com/articles/s43017-023-00477-y). We have a wealth of data awaiting exploration, and we’re looking for a talented and motivated postdoc to join us!
+The Coevolve project, now at the start of its 4th year, focuses on understanding how trace metal availability shapes microbial functional diversity (see this [perspective for a small summary](https://www.nature.com/articles/s43017-023-00477-y)). We have a wealth of data awaiting exploration, and we’re looking for a talented and motivated postdoc to join us!
 
 Key Responsibilities:
 
@@ -37,6 +37,6 @@ We are looking for:
 - A strong sense of self-motivation, independence, and adaptability
 - Ability to thrive in collaborative, interdisciplinary teams
 
-The Giovannelli Lab is a dynamic and fast-paced research group studying the microbial ecology of extreme environments and the co-evolution of life and Earth (https://www.donatogiovannelli.com/). Our projects span everything from permafrost microbiology to underground hydrogen storage. We combine fieldwork in remote locations, classical microbiology, and computational tools, providing a truly interdisciplinary environment for innovation. The group is located at the University of Naples Federico II in Monte Sant'Angelo in the vibrant, colorful and never resting city of Naples, Italy. Curious about our work? Check out our latest research on Google Scholar (https://scholar.google.com/citations?user=eYxwQpkAAAAJ&hl=en) and our GitHub (https://github.com/giovannellilab).
+The Giovannelli Lab is a dynamic and fast-paced research group studying the microbial ecology of extreme environments and the co-evolution of life and Earth ([https://www.donatogiovannelli.com/](https://www.donatogiovannelli.com/)). Our projects span everything from permafrost microbiology to underground hydrogen storage. We combine fieldwork in remote locations, classical microbiology, and computational tools, providing a truly interdisciplinary environment for innovation. The group is located at the University of Naples Federico II in Monte Sant'Angelo in the vibrant, colorful and never resting city of Naples, Italy. Curious about our work? Check out our latest research on [Google Scholar](https://scholar.google.com/citations?user=eYxwQpkAAAAJ&hl=en) and our [GitHub](https://github.com/giovannellilab).
 
 Applications will open soon (in line with formal Italian procedures) and will require that you pass a formal selection. Start date: November 1st, 2024. Don’t miss this opportunity to work on an exciting project at the forefront of bioinformatics and microbial ecology. Contact me for more information!
