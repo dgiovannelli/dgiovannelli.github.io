@@ -6,7 +6,7 @@ sitemap: false
 permalink: /habproject/
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/blogpic/trappist-1e.png){: style="width: 100%; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/blogpic/mars.png){: style="width: 100%; float: center; border: 10px"}
 
 # Microbial-Enabled Terraforming project
 
