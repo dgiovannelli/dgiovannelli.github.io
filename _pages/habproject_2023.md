@@ -3,7 +3,7 @@ title: "Giovannelli Lab - Habitability Project"
 layout: textlay
 excerpt: "Giovannelli Lab -- Habitability Project"
 sitemap: false
-permalink: /habproject/
+permalink: /habproject2023/
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/blogpic/moon.jpg){: style="width: 100%; float: center; border: 10px"}
