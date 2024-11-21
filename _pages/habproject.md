@@ -6,11 +6,11 @@ sitemap: false
 permalink: /habproject/
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/blogpic/mars.png){: style="width: 100%; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/blogpic/mars.png){: style="width: 50%; float: center; border: 10px"}
 
 # Microbial-Enabled Terraforming project
 
-The MM&H program is inviting proposals for the Microbial-Enabled Terraforming project. The detailed description of request for application can be found in the RFA below. Deadline for submission is Friday 3rd November 2023 at 05.59 pm UTC. Proposal have to be submitted exclusively through the provided online submission system.
+The MM&H program is inviting proposals for the Microbial-Enabled Terraforming project. The detailed description of request for application can be found in the RFA below. Deadline for submission is Friday 6th December 2025 at 05.59 pm UTC. Proposal have to be submitted exclusively through the provided online submission system.
 
 ## Request for Applications (RFA)
 
@@ -37,7 +37,7 @@ The proposal can be a maximum of 5 pages (Arial, pt. 11, single line space, 2 cm
 One of the key requirements of this RFA is the development of a microbial-enabled terraforming plan. Microbes play a critical role in Earth habitability, and the proposals should clearly demonstrate how microbial solutions will be integrated.
 
 ### Art. 6 - Project submission
-Deadline for submission is Friday 6rd December 2024 at 05.59 pm  UTC. Proposal have to be submitted exclusively through the provided online submission system [https://forms.gle/QqQZK3uY9eqiVf1bA](https://forms.gle/QqQZK3uY9eqiVf1bA). A single PDF should be uploaded, consisting of the proposal, the timeline table (single page) and the [Cover sheet](https://docs.google.com/document/d/10OT9Ae_VluF1IEYx3gc76bAZQyZixiIOZ-8ckxyDN5E/edit?usp=sharing). Template for the cover sheet can be found here. The proposal cover page will need to clearly indicate the project team and have their hand signatures present. Only proposal completed in all their part will be evaluated.
+Deadline for submission is Friday 6th December 2024 at 05.59 pm  UTC. Proposal have to be submitted exclusively through the provided online submission system [https://forms.gle/QqQZK3uY9eqiVf1bA](https://forms.gle/QqQZK3uY9eqiVf1bA). A single PDF should be uploaded, consisting of the proposal, the timeline table (single page) and the [Cover sheet](https://docs.google.com/document/d/10OT9Ae_VluF1IEYx3gc76bAZQyZixiIOZ-8ckxyDN5E/edit?usp=sharing). Template for the cover sheet can be found here. The proposal cover page will need to clearly indicate the project team and have their hand signatures present. Only proposal completed in all their part will be evaluated.
 
 ### Art. 7 - Evaluation Criteria
 Proposals will be evaluated based on the following criteria:
@@ -46,4 +46,4 @@ Proposals will be evaluated based on the following criteria:
  3. Feasibility and adherence to the RFA (max 30 point)
  5. Overall strategy (max 30 point)
 
-All submissions will undergo a rigorous review process by a panel of experts form the MM&H class. Only one proposal will be awarded.
+Principal Investigators are requested to present and defend their project on Tuesday 10th, 2025 at 9 am by presenting 5 slides maximum in 5 minutes. This presentation will be followed by a 10 minute Q&A session. All submissions will undergo a rigorous review process by a panel of experts form the MM&H class.
