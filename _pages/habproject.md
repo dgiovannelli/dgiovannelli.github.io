@@ -12,6 +12,8 @@ permalink: /habproject/
 
 The MM&H program is inviting proposals for the Microbial-Enabled Terraforming project. The detailed description of request for application can be found in the RFA below. Deadline for submission is Friday 6th December 2025 at 05.59 pm UTC. Proposal have to be submitted exclusively through the provided online submission system.
 
+**NOTICE** _The deadline has been postponed to Sunday 8th December 2025 at 05.59 pm UTC_
+
 ## Request for Applications (RFA)
 
 ### Art. 1 - General
@@ -37,7 +39,7 @@ The proposal can be a maximum of 5 pages (Arial, pt. 11, single line space, 2 cm
 One of the key requirements of this RFA is the development of a microbial-enabled terraforming plan. Microbes play a critical role in Earth habitability, and the proposals should clearly demonstrate how microbial solutions will be integrated.
 
 ### Art. 6 - Project submission
-Deadline for submission is Friday 6th December 2024 at 05.59 pm  UTC. Proposal have to be submitted exclusively through the provided online submission system [https://forms.gle/QqQZK3uY9eqiVf1bA](https://forms.gle/QqQZK3uY9eqiVf1bA). A single PDF should be uploaded, consisting of the proposal, the timeline table (single page) and the [Cover sheet](https://docs.google.com/document/d/10OT9Ae_VluF1IEYx3gc76bAZQyZixiIOZ-8ckxyDN5E/edit?usp=sharing). Template for the cover sheet can be found here. The proposal cover page will need to clearly indicate the project team and have their hand signatures present. Only proposal completed in all their part will be evaluated.
+Deadline for submission is Friday 6th December 2024 at 05.59 pm  UTC. Proposal have to be submitted exclusively through the provided online submission system [https://forms.gle/gjvRhymEnbjPfCyj9](https://forms.gle/gjvRhymEnbjPfCyj9). A single PDF should be uploaded, consisting of the proposal, the timeline table (single page) and the [Cover sheet](https://docs.google.com/document/d/10OT9Ae_VluF1IEYx3gc76bAZQyZixiIOZ-8ckxyDN5E/edit?usp=sharing). Template for the cover sheet can be found here. The proposal cover page will need to clearly indicate the project team and have their hand signatures present. Only proposal completed in all their part will be evaluated.
 
 ### Art. 7 - Evaluation Criteria
 Proposals will be evaluated based on the following criteria:
