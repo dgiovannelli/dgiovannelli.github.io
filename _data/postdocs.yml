@@ -1,12 +1,11 @@
-- name: Davide Corso
-  photo: dc.jpg
+- name: Deborah Bastoni
+  photo: db.jpg
   role: Postdoc
-  info: Developping new bioinformatic tools for the study of microbial diversity
-  email: davide.corso@unina.it
-  number_educ: 3
-  education1: Ph.D. student in Biosciences, University of Padova, Italy
-  education2: MSc in Bioinformatics, University of Rome Tor Vergata, Italy
-  education3: BSc in Computer Science, University of Rome Tor Vergata, Italy
+  info: ERC CoEvolve project
+  email: deborah.bastoni@unina.it
+  number_educ: 2
+  education1: MSc Natural Sciences, University of Naples Federico II, Italy
+  education2: BSc Natural Sciences, University of Naples Federico II, Italy
 
 - name: Annarita Ricciardelli
   photo: ar.jpg

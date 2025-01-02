@@ -1,3 +1,24 @@
+- name: Davide Corso
+  photo: dc.jpg
+  role: Postdoc
+  duration: December 2022 September 2024
+  current: Postdoc at CNR IRSA Rome
+
+- name: Margherita Plotti
+  photo: mpl.jpg
+  role: Master student, Biology of Extreme Environments
+  duration: September 2023 - Dec 2024
+
+- name: Jake Lowe
+  photo: jl.jpg
+  role: Master student, Biology of Extreme Environments
+  duration: July 2023 - Nov 2024
+
+- name: Mirko Leggiero
+  photo: mlg.jpg
+  role: Master student, Biology of Extreme Environments
+  duration: July 2023 - Nov 2024
+
 - name: Alessia Benedicta Bastianoni
   photo: ab.jpg
   role: Postdoc

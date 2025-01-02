@@ -1,18 +1,10 @@
-- name: Margherita Plotti
-  photo: mpl.jpg
-  role: Master student, Biology of Extreme Environments
-  info: Microbiology of cryoconites and glaciers
-  collab: Prof. Andrea Franzetti, University of Milano Bicocca, Italy
-  number_educ: 1
-  education1: BSc in Biology, University of Trieste, Italy
-
-- name: Jake Lowe
-  photo: jl.jpg
+- name: Silvia Casciani
+  photo: sica.jpg
   role: Master student, Biology of Extreme Environments
   info:
   collab:
   number_educ: 1
-  education1: BSc in Biology, University of Utah, USA
+  education1: 
 
 - name: Michela Barbetta
   photo: mbar.jpg
@@ -22,18 +14,26 @@
   number_educ: 1
   education1: BSc in Biology, University of Pavia, Italy
 
+- name: Rita Carvalho
+  photo: rica.jpg
+  role: Master student, Biology of Extreme Environments
+  info:
+  collab:
+  number_educ: 1
+  education1: 
+
+- name: Isabel Bassolino
+  photo: isba.jpg
+  role: Master student, Marine Biology
+  info:
+  collab:
+  number_educ: 1
+  education1:
+
 - name: Giulia Mallocci
   photo: gml.jpg
   role: Master student, Biology of Extreme Environments
   info: Microbiology of Ionian Pockmarks and mud volcanoes
-  collab: 
-  number_educ: 1
-  education1: BSc in Biology
-
-- name: Mirko Leggiero
-  photo: mlg.jpg
-  role: Master student, Biology of Extreme Environments
-  info: Microbial bioleaching in simulated space conditions
   collab: 
   number_educ: 1
   education1: BSc in Biology
