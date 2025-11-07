@@ -164,6 +164,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/ERC_logo.png){: style="width: 10%; float: left; border: 10px"}
+
 Il progetto CoEvolve e questa mostra hanno ricevuto fondi dal European Research Council (ERC) nell’ambito del programma di ricerche e innovazione dell’Unione Europea Horizon 2020 Grant Agreement No. 948972-COEVOLVE-ERC-2020 STG.
 
 #### In collaborazione con:
@@ -177,10 +178,10 @@ Il progetto CoEvolve e questa mostra hanno ricevuto fondi dal European Research 
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pny.png" style="width: 100px; padding: 5px">
  </figure>
 
-#### Con il patrocinio di
+#### Con il patrocinio di:
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/unina_full.jpg" style="width: 100px; padding: 5px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DipBio_unina.jpg" style="width: 100px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/unina_full.jpg" style="width: 300px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DipBio_unina.jpg" style="width: 800px; padding: 5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/giovannellilab.png" style="width: 110px; padding: 5px">
 </figure>
 
