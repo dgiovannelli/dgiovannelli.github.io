@@ -28,6 +28,7 @@ Donato Giovannelli
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_1.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Sorgente idrotermale nelle deserto di Atacama (Cile, 2022)**
 
 Jacopo
@@ -36,6 +37,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_2.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Dal Laboratorio Zeppelin, Ny-Alesund, isole Svalbard (Norvegia, 2025)**
 
 Jacopo
@@ -44,6 +46,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_3.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Estrazione di acqua da una sorgente termale sommersa, Laguna Vilama (Cile, 2023)**
 
 Jacopo
@@ -52,6 +55,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_4.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Campioni di vita estrema, estremofili, lago Myvatn (Islanda, 2024)**
 
 Jacopo
@@ -60,6 +64,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_5.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Vulcanelli di fango, Otopotehetehe (Nuova Zelanda, 2025)**
 
 Jacopo
@@ -68,6 +73,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_6.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Estrazione di carota di ghiaccio, ghiacciaio di Austre Broggerbreen, Ny Alesund (Norvegia, 2025)**
 
 Jacopo
@@ -76,6 +82,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_7.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Discesa nel Vulcano Irruputuncu, Cile (2022)**
 
 Jacopo
@@ -84,6 +91,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_8.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Alla ricerca di una sorgente idrotermale abbandonata, (Argentina, 2023)**
 
 Jacopo
@@ -92,6 +100,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_9.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Misurazione di valori chimici e fisici da una sorgente idrotermale (Islanda, 2024)**
 
 Jacopo
@@ -100,6 +109,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_10.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Strýtan geothermal underwater vent, golfo di Akureyri (Islanda, 2022)**
 
 Jacopo
@@ -108,6 +118,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_11.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Vulcano di fango, Monowai (Nuova Zelanda, 2025)**
 
 Jacopo
@@ -116,6 +127,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_12.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Isola di Vulcano (Eolie, 2022)**
 
 Jacopo
@@ -124,6 +136,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_13.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Campionamento a Landmannalaugar (Islanda, 2023)**
 
 Jacopo
@@ -132,6 +145,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_14.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Sulla corona del Vulcano (Eolie, 2022)**
 
 Jacopo
@@ -140,6 +154,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_15.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Ny-Alesund, isole Svalbard (Norvegia, 2022)**
 
 Jacopo
@@ -148,6 +163,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_16.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Sorgente Nga Wai Ariki - Waters of the Gods (Nuova Zelanda, 2025)**
 
 Jacopo
@@ -156,6 +172,7 @@ Jacopo
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_17.jpg){: style="width: 80%; float: center; border: 10px"}
+
 **Vulcano, spiaggia di ponente (Eolie, 2022)**
 
 Jacopo
@@ -168,17 +185,20 @@ Jacopo
 Il progetto CoEvolve e questa mostra hanno ricevuto fondi dal European Research Council (ERC) nell’ambito del programma di ricerche e innovazione dell’Unione Europea Horizon 2020 Grant Agreement No. 948972-COEVOLVE-ERC-2020 STG.
 
 #### In collaborazione con:
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cicap_fest.png" style="width: 100px; padding: 5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orto_botanico.png" style="width: 100px; padding: 5px">
   </figure>
 
 #### Sponsor:
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pny.png" style="width: 100px; padding: 5px">
  </figure>
 
 #### Con il patrocinio di:
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/unina_full.jpg" style="width: 300px; padding: 5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DipBio_unina.jpg" style="width: 800px; padding: 5px">
