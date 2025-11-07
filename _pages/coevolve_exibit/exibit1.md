@@ -11,12 +11,6 @@ permalink: /coevolveexibit/
 ### Di Jacopo Pasotti
 ### Da un progetto di Donato Giovannelli
 
-In un'epoca in cui i confini fra natura, essere umano e tecnologia si fanno sempre più sfumati, queste foto propongono un immersione visiva nella ricerca scientifica sulle forme di vita che popolano gli ambienti estremi. Le immagini nascono dal progetto EU ERC CoEvolve, che studia la coevoluzione tra vita e Terra in contesti estremi e che sta svelando i legami che uniscono il Pianeta agli esseri viventi. 
-
-Il percorso, filtrato dallo sguardo del fotografo e giornalista ambientale Jacopo Pasotti, è un invito a scoprire in modo visivo, emozionale e intellettuale il lavoro scientifico sul campo. La mostra è un viaggio, raramente condiviso, nel “dietro le quinte” del processo scientifico nelle scienze ambientali, naturali e biologiche.
-
----
-
 >Fare ricerca in ambienti estremi è una grande sfida. Significa mettere insieme preparazione, logistica, competenza e una grande passione per l’imprevisto. Ti regala però emozioni forti, panorami mozzafiato, esperienze uniche e tempo negli angoli più remoti del pianeta. Significa progettare fino all’ultimo dettaglio, ma anche imparare a cambiare piano al primo imprevisto. E, soprattutto, significa entrare in contatto con luoghi che restituiscono emozioni intense: albe quasi monocromatiche tra i ghiacci, tramonti che sembrano esplosioni di colore sui deserti, e i colori di una vita estrema che fiorisce nei posti più impensabili.
 Sono quasi vent’anni che faccio lavoro sul campo in questi ambienti, ma non ho mai avuto però l’opportunità di condividere con voi le cose che ho visto, fino ad oggi. All’interno del progetto europeo ERC CoEvolve ho avuto la fortuna di avere accanto Jacopo Pasotti come responsabile della comunicazione e fotoreporter di campo. Le immagini che vedete qui sono il frutto di cinque anni di spedizioni condivise: la logistica complessa, gli imprevisti che diventano storie, esperienze condivise e, naturalmente, tanta tanta scienza.
 Con le sue foto e le sue parole Jacopo ci accompagna in un viaggio alla scoperta degli ecosistemi e degli ambienti naturali che sono i veri motori che permettono a questo pianeta di funzionare. CI racconta il contesto, la scelta compositiva e l’istante in cui ogni foto è nata. Un viaggio incredibile che ho la fortuna di fare ogni giorno nel mio lavoro, e che sono contento di poter condividere con voi tramite le fotografie di Jacopo Pasotti.
