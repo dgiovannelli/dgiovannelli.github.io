@@ -8,8 +8,6 @@ permalink: /coevolveexibit/
 
 # Sottoterra
 
-![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_cover.jpg){: style="width: 100%; float: center; border: 10px"}
-
 ### Di Jacopo Pasotti
 ### Da un progetto di Donato Giovannelli
 
@@ -17,13 +15,15 @@ In un'epoca in cui i confini fra natura, essere umano e tecnologia si fanno semp
 
 Il percorso, filtrato dallo sguardo del fotografo e giornalista ambientale Jacopo Pasotti, è un invito a scoprire in modo visivo, emozionale e intellettuale il lavoro scientifico sul campo. La mostra è un viaggio, raramente condiviso, nel “dietro le quinte” del processo scientifico nelle scienze ambientali, naturali e biologiche.
 
+---
 
-Donato Giovannelli:
 >Fare ricerca in ambienti estremi è una grande sfida. Significa mettere insieme preparazione, logistica, competenza e una grande passione per l’imprevisto. Ti regala però emozioni forti, panorami mozzafiato, esperienze uniche e tempo negli angoli più remoti del pianeta. Significa progettare fino all’ultimo dettaglio, ma anche imparare a cambiare piano al primo imprevisto. E, soprattutto, significa entrare in contatto con luoghi che restituiscono emozioni intense: albe quasi monocromatiche tra i ghiacci, tramonti che sembrano esplosioni di colore sui deserti, e i colori di una vita estrema che fiorisce nei posti più impensabili.
 Sono quasi vent’anni che faccio lavoro sul campo in questi ambienti, ma non ho mai avuto però l’opportunità di condividere con voi le cose che ho visto, fino ad oggi. All’interno del progetto europeo ERC CoEvolve ho avuto la fortuna di avere accanto Jacopo Pasotti come responsabile della comunicazione e fotoreporter di campo. Le immagini che vedete qui sono il frutto di cinque anni di spedizioni condivise: la logistica complessa, gli imprevisti che diventano storie, esperienze condivise e, naturalmente, tanta tanta scienza.
 Con le sue foto e le sue parole Jacopo ci accompagna in un viaggio alla scoperta degli ecosistemi e degli ambienti naturali che sono i veri motori che permettono a questo pianeta di funzionare. CI racconta il contesto, la scelta compositiva e l’istante in cui ogni foto è nata. Un viaggio incredibile che ho la fortuna di fare ogni giorno nel mio lavoro, e che sono contento di poter condividere con voi tramite le fotografie di Jacopo Pasotti.
 Ogni fotografia di Jacopo è accompagnata da un testo che racconta il contesto, il gesto scientifico, la scelta compositiva e l’istante in cui è nata. Spero che questa mostra non sia solo una galleria di immagini, ma una porta d’accesso ad un lavoro che studia come la vita e la Terra si siano plasmate a vicenda.
 Difficile dire quale sia la mia foto preferita. Forse, se dovessi scegliere, indicherei la n.17, l’ultima della mostra: il mio team visto dall’alto mentre campiona emissioni geotermiche nella spiaggia di Ponente a Vulcano. Quella foto mette in evidenza un contrasto che sento profondamente: l’ordine apparente degli ombrelloni e delle sdraio imposto dall’uomo contro il caos e la forza della natura, nei colori e nell’agitazione dello zolfo e dei batteri estremofili presenti nell’acqua del mare influenzata dall’attività del vulcano. Una foto dal profondo significato emotivo e filosofico. Una foto per me quasi metafisica. Spero che, guardando queste immagini, possiate ritrovare lo stesso stupore che provo ogni volta che torno a fare scienza sul campo. Buona visita.
+
+Donato Giovannelli
 
 ---
 
@@ -46,8 +46,8 @@ Jacopo
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_3.jpg){: style="width: 100%; float: center; border: 10px"}
 **Estrazione di acqua da una sorgente termale sommersa, Laguna Vilama (Cile, 2023)**
 
->Jacopo
-Karen Lloyd, della Università del Tennessee e Donato nei pressi del lago Vilama a 4510 metri di altitudine. L’aria è tersa, sarà l’altitudine, la luce è intensa, le nubi dense in lontananza catturano lo sguardo della microbiologa mentre Donato deve operare con attenzione una pompa peristaltica. Anche fare scienza ha i suoi momenti di magia.
+Jacopo
+>Karen Lloyd, della Università della California del Sud e Donato Giovannelli nei pressi del lago Vilama a 4510 metri di altitudine. L’aria è tersa, sarà l’altitudine, la luce è intensa, le nubi dense in lontananza catturano lo sguardo della microbiologa mentre Donato deve operare con attenzione una pompa peristaltica. Anche fare scienza ha i suoi momenti di magia.
 
 ---
 
@@ -70,16 +70,16 @@ Jacopo
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_6.jpg){: style="width: 100%; float: center; border: 10px"}
 **Estrazione di carota di ghiaccio, ghiacciaio di Austre Broggerbreen, Ny Alesund (Norvegia, 2025)**
 
->Jacopo
-Il cielo è cupo. Il sole sarebbe comunque nascosto dalle montagne, lo è stato già per diversi mesi. Il team della Università Federico II di Napoli ha scavato un buco nella neve fino a raggiungere il ghiaccio ed ora Donato sta operando un carotiere manuale. Il colore dello strumento, in un paesaggio così povero di cromatismo (perfino Donato è nero dal cappello agli stivali) attrae tutta la mia attenzione.
+Jacopo
+>Il cielo è cupo. Il sole sarebbe comunque nascosto dalle montagne, lo è stato già per diversi mesi. Il team della Università Federico II di Napoli ha scavato un buco nella neve fino a raggiungere il ghiaccio ed ora Donato sta operando un carotiere manuale. Il colore dello strumento, in un paesaggio così povero di cromatismo (perfino Donato è nero dal cappello agli stivali) attrae tutta la mia attenzione.
 
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_7.jpg){: style="width: 100%; float: center; border: 10px"}
 **Discesa nel Vulcano Irruputuncu, Cile (2022)**
 
->Jacopo
-Il vulcanologo portoricano Marteen De Moor scende nel vulcano Irruptuncu, a 5160 metri di altitudine. Tra le esperienze più incredibili che abbia mai fatto c’è questa: la difficile salita su questo vulcano, e poter assistere al lavoro dei vulcanologi. Dicono che una foto vale mille parole. Ma l’aria tossica e calda, che brucia gola e occhi e che potrebbe essere letale non si può che descrivere. Così come il sibilo di qualche condotto dove i gas risalgono con forte pressione dalle viscere della montagna. L’energia della Terra, qui la si sente tutta!
+Jacopo
+>Il vulcanologo portoricano Marteen De Moor scende nel vulcano Irruptuncu, a 5160 metri di altitudine. Tra le esperienze più incredibili che abbia mai fatto c’è questa: la difficile salita su questo vulcano, e poter assistere al lavoro dei vulcanologi. Dicono che una foto vale mille parole. Ma l’aria tossica e calda, che brucia gola e occhi e che potrebbe essere letale non si può che descrivere. Così come il sibilo di qualche condotto dove i gas risalgono con forte pressione dalle viscere della montagna. L’energia della Terra, qui la si sente tutta!
 
 ---
 
@@ -102,8 +102,8 @@ Jacopo
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_10.jpg){: style="width: 100%; float: center; border: 10px"}
 **Strýtan geothermal underwater vent, golfo di Akureyri (Islanda, 2022)**
 
->Jacopo
-Nel golfo di Akureyri c’è una concrezione rocciosa alta decine di metri dal fondale marino. In superficie si notano appena delle bollicine, che risalgono da questo vent. Per Donato, Roy Price, microbiologo della Stony Brook University (USA) e Erlendur dello Strytan Dive Center si immergono per raccogliere campioni di gas e di microorganismi. Immergersi a quelle temperature e profondità richiede esperienza. Dal gommone non posso fare altro che vederli sparire nelle acque scure del golfo.
+Jacopo
+>Nel golfo di Akureyri c’è una concrezione rocciosa alta decine di metri dal fondale marino. In superficie si notano appena delle bollicine, che risalgono da questo vent. Per Donato, Roy Price, geochimico della Stony Brook University (USA) e Erlendur dello Strytan Dive Center si immergono per raccogliere campioni di gas e di microorganismi. Immergersi a quelle temperature e profondità richiede esperienza. Dal gommone non posso fare altro che vederli sparire nelle acque scure del golfo.
 
 ---
 
@@ -118,6 +118,7 @@ Jacopo
 ![]({{ site.url }}{{ site.baseurl }}/images/exibit/sottoterra_12.jpg){: style="width: 100%; float: center; border: 10px"}
 **Isola di Vulcano (Eolie, 2022)**
 
+Jacopo
 >Il team di microbiologi della Federico II di Napoli si esercita nel campionamento nelle acque dell’isola di Vulcano. Devo fare attenzione alle mie macchine fotografiche perché il substrato è sassoso. Anche in questo caso accadono molte cose e io devo scegliere i soggetti che credo più rappresentativi, i momenti più interessanti. Di questo momento mi hanno attratto gli sguardi concentrati di Donato e dei suoi studenti: la raccolta del gas che emerge dal fondo richiede che diverse parti, tubi, valvole, bottiglie siano perfettamente funzionanti. Il rischio è quello di danneggiare gli strumenti, invalidare il campionamento, perdere materiale e tempo per niente.
 
 ---
@@ -166,15 +167,20 @@ Jacopo
 Il progetto CoEvolve e questa mostra hanno ricevuto fondi dal European Research Council (ERC) nell’ambito del programma di ricerche e innovazione dell’Unione Europea Horizon 2020 Grant Agreement No. 948972-COEVOLVE-ERC-2020 STG.
 
 #### In collaborazione con:
-![]({{ site.url }}{{ site.baseurl }}/images/exibit/cicap_fest.png){: style="width: 30%; float: left; border: 10px"}
-![]({{ site.url }}{{ site.baseurl }}/images/exibit/orto_botanico.png){: style="width: 30%; float: left; border: 10px"}
-
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cicap_fest.png" style="width: 100px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orto_botanico.png" style="width: 100px; padding: 5px">
+  </figure>
 
 #### Sponsor:
-![]({{ site.url }}{{ site.baseurl }}/images/exibit/pny.png){: style="width: 30%; float: left; border: 10px"}
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pny.png" style="width: 100px; padding: 5px">
+ </figure>
 
 #### Con il patrocinio di
-![]({{ site.url }}{{ site.baseurl }}/images/exibit/unina_full.jpg){: style="width: 30%; float: left; border: 10px"}
-![]({{ site.url }}{{ site.baseurl }}/images/exibit/DipBio_unina.jpg){: style="width: 30%; float: left; border: 10px"}
-![]({{ site.url }}{{ site.baseurl }}/images/exibit/giovannellilab.png){: style="width: 30%; float: left; border: 10px"}
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/unina_full.jpg" style="width: 100px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DipBio_unina.jpg" style="width: 100px; padding: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/giovannellilab.png" style="width: 110px; padding: 5px">
+</figure>
 
