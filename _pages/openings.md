@@ -14,36 +14,9 @@ Visiting positions are always possible, especially if funded though one of the m
 Below you'll find information about current searches at the [PhD](#phd-positions), [Postdoctoral level](#postdoctoral-fellow-positions) or with any time of qualification!
 
 ## PhD Positions
+
 There are no PhD positions available at the moment. Check back in a few months!
 
 ## Postdoctoral Fellow positions
 
-Exciting **1.5-Year Postdoctoral Fellowship** in Bioinformatics available in my group at the University of Naples Federico II, funded by the [ERC project CoEvolve](https://www.coevolve.eu/).
-
-The Coevolve project, now at the start of its 4th year, focuses on understanding how trace metal availability shapes microbial functional diversity (see this [perspective for a small summary](https://www.nature.com/articles/s43017-023-00477-y)). We have a wealth of data awaiting exploration, and we’re looking for a talented and motivated postdoc to join us!
-
-Key Responsibilities:
-
-- Support and maintain bioinformatic tools already developed in our group
-- Develop new computational tools to tackle exciting questions
-- Contribute to large-scale data analyses
-- Develop your own research ideas aligned with the project’s goals
-
-You’ll be involved in exploring fascinating topics like the diversity of metal transporters in geothermal environments, correlating metal availability with specific reductases, and predicting cambialistic enzymes. This is a fantastic opportunity to develop and apply innovative bioinformatics solutions to real-world challenges. Opportunities to take part in fieldwork are also available if youŕe up fopr some adventure!
-
-We are looking for:
-
-- Proficiency in Python, R, and Bash
-- A strong sense of self-motivation, independence, and adaptability
-- Ability to thrive in collaborative, interdisciplinary teams
-
-Other informations:
-- Base salary is capped by Italian law and set at 20,300 Euro gross (about 1,400 Euro per month net) 
-- No relocation money available (unfortunately Italian law does not allow us to pay for it)
-- Possibility of extending the contract up top 3 years
-
-**Deadline to apply is at 12:00 CET of December 16, 2024.**
-
-The Giovannelli Lab is a dynamic and fast-paced research group studying the microbial ecology of extreme environments and the co-evolution of life and Earth ([https://www.donatogiovannelli.com/](https://www.donatogiovannelli.com/)). Our projects span everything from permafrost microbiology to underground hydrogen storage. We combine fieldwork in remote locations, classical microbiology, and computational tools, providing a truly interdisciplinary environment for innovation. The group is located at the University of Naples Federico II in Monte Sant'Angelo in the vibrant, colorful and never resting city of Naples, Italy. Curious about our work? Check out our latest research on [Google Scholar](https://scholar.google.com/citations?user=eYxwQpkAAAAJ&hl=en) and our [GitHub](https://github.com/giovannellilab).
-
-Applications will open soon (in line with formal Italian procedures) and will require that you pass a formal selection. Start date: November 1st, 2024. Don’t miss this opportunity to work on an exciting project at the forefront of bioinformatics and microbial ecology. Contact me for more information!
+There are no Postdoc positions available at the moment. Check back in a few months!
