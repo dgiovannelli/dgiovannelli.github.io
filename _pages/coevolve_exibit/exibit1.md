@@ -25,7 +25,7 @@ _Difficile dire quale sia la mia foto preferita. Forse, se dovessi scegliere, in
 
 ---
 
-#### Di seguito commenti e impressioni di Jacopo Pasotti sulle immaginifotografie esposte
+#### **Di seguito commenti e impressioni di Jacopo Pasotti sulle fotografie esposte**
 
 ---
 
@@ -165,7 +165,7 @@ _Difficile dire quale sia la mia foto preferita. Forse, se dovessi scegliere, in
 
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/exibit/ERC_logo.png){: style="width: 10%; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logo.png){: style="width: 200px; float: left; border: 10px"}
 
 Il progetto CoEvolve e questa mostra hanno ricevuto fondi dal European Research Council (ERC) nell’ambito del programma di ricerche e innovazione dell’Unione Europea Horizon 2020 Grant Agreement No. 948972-COEVOLVE-ERC-2020 STG.
 
