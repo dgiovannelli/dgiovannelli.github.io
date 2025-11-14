@@ -13,6 +13,10 @@ permalink: /coevolveexibit/
 
 In un'epoca in cui i confini fra natura, essere umano e tecnologia si fanno sempre più sfumati, queste foto propongono un immersione visiva nella ricerca scientifica sulle forme di vita che popolano gli ambienti estremi. Le immagini nascono dal progetto EU ERC CoEvolve, che studia la coevoluzione tra vita e Terra in contesti estremi e che sta svelando i legami che uniscono il Pianeta agli esseri viventi. 
 
+![]({{ site.url }}{{ site.baseurl }}/images/exibit/jacopoPasotti.jpg){: style="width: 80%; float: center; border: 10px"}
+
+>Jacopo Pasotti sul campo in Islanda mentre documenta il lavoro fatto dai ricercatori del progetto ERC CoEvolve.
+
 ---
 
 _Fare ricerca in ambienti estremi è una grande sfida. Significa mettere insieme preparazione, logistica, competenza e una grande passione per l’imprevisto. Ti regala però emozioni forti, panorami mozzafiato, esperienze uniche e tempo negli angoli più remoti del pianeta. Significa progettare fino all’ultimo dettaglio, ma anche imparare a cambiare piano al primo imprevisto. E, soprattutto, significa entrare in contatto con luoghi che restituiscono emozioni intense: albe quasi monocromatiche tra i ghiacci, tramonti che sembrano esplosioni di colore sui deserti, e i colori di una vita estrema che fiorisce nei posti più impensabili._
@@ -109,7 +113,7 @@ _Difficile dire quale sia la mia foto preferita. Forse, se dovessi scegliere, in
 
 **Strýtan geothermal underwater vent, golfo di Akureyri (Islanda, 2022)**
 
->Nel golfo di Akureyri c’è una concrezione rocciosa alta decine di metri dal fondale marino. In superficie si notano appena delle bollicine, che risalgono da questo vent. Per Donato, Roy Price, geochimico della Stony Brook University (USA) e Erlendur dello Strytan Dive Center si immergono per raccogliere campioni di gas e di microorganismi. Immergersi a quelle temperature e profondità richiede esperienza. Dal gommone non posso fare altro che vederli sparire nelle acque scure del golfo.
+>Nel golfo di Akureyri c’è una concrezione rocciosa alta decine di metri dal fondale marino. In superficie si notano appena delle bollicine, che risalgono da questo vent. Donato, Roy Price, geochimico della Stony Brook University (USA) e Erlendur dello Strytan Dive Center si immergono per raccogliere campioni di gas e di microorganismi. Immergersi a quelle temperature e profondità richiede esperienza. Dal gommone non posso fare altro che vederli sparire nelle acque scure del golfo.
 
 ---
 
