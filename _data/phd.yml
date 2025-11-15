@@ -1,30 +1,3 @@
-- name: Bernardo Barosa
-  photo: bb.jpg
-  role: PhD student
-  info: ERC CoEvolve project
-  email: bernardo.barosa@unina.it
-  number_educ: 2
-  education1: MSc Microbiology, University of Aveiro, Portugal
-  education2: BSc Biology, University of Aveiro, Portugal
-
-- name: Deborah Bastoni
-  photo: db.jpg
-  role: PhD student
-  info: ERC CoEvolve project
-  email: deborah.bastoni@unina.it
-  number_educ: 2
-  education1: MSc Natural Sciences, University of Naples Federico II, Italy
-  education2: BSc Natural Sciences, University of Naples Federico II, Italy
-
-- name: Martina Cascone
-  photo: mc.jpg
-  role: PhD student
-  info: PON funded project on the microbiology of Undeground Hydrogen Storage
-  email: martina.cascone@unina.it
-  number_educ: 2
-  education1: MSc Biology, University of Naples "Federico II", Naples, Italy
-  education2: BSc Biology, University of Naples "Federico II", Naples, Italy
-
 - name: Monica Correggia
   photo: mcor.jpg
   role: PhD student
@@ -112,14 +85,3 @@
   number_educ: 2
   education1: MSc Biology of Extreme Environments, University of Naples "Federico II", Naples, Italy
   education2: BSc Agricultural Sciences, University of Naples "Federico II", Naples, Italy
-
-- name: Guillermo Climent Gargallo
-  photo: gcg.jpg
-  role: MSCA PhD student
-  info: Microbiology of underground hydrogen storage
-  collab:
-  email:
-  number_educ: 3
-  education1: BSc in Biotechnology, Polytechnic University of Valencia, Spain
-  education2: MSc in Bioinformatics,  University of Valencia, Spain
-  education3: MSc in Data Science,  University of Valencia, Spain 

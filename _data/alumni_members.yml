@@ -1,3 +1,63 @@
+- name: Silvia Casciani
+  photo: sica.jpg
+  role: Master student, Biology of Extreme Environments
+  duration: 
+  current:
+
+- name: Michela Barbetta
+  photo: mbar.jpg
+  role: Master student, Biology of Extreme Environments
+  duration: 
+  current:
+
+- name: Rita Carvalho
+  photo: rica.jpg
+  role: Master student, Biology of Extreme Environments
+  duration: 
+  current: 
+
+- name: Isabel Bassolino
+  photo: isba.jpg
+  role: Master student, Marine Biology
+  duration: 
+  current:
+
+- name: Giulia Mallocci
+  photo: gml.jpg
+  role: Master student, Biology of Extreme Environments
+  duration: 
+  current:
+
+- name: Martina Ferrara
+  photo: mfr.jpg
+  role: Master student, Biology of Extreme Environments
+  duration: 
+  current:
+
+- name: Deborah Bastoni
+  photo: db.jpg
+  role: Postdoc
+  duration: December 2024 June 2025
+  current: 
+
+- name: Annarita Ricciardelli
+  photo: ar.jpg
+  role: Postdoc
+  duration: October 2022 September 2025
+  current: 
+
+- name: Bernardo Barosa
+  photo: bb.jpg
+  role: PhD student
+  duration: November 2021 October 2024
+  current: Postdoc at University of Bologna
+
+- name: Martina Cascone
+  photo: mc.jpg
+  role: co-asdvised PhD student
+  duration: January 2022 December 2024
+  current:
+
 - name: Davide Corso
   photo: dc.jpg
   role: Postdoc
