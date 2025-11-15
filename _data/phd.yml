@@ -1,3 +1,12 @@
+- name: Francesca Iacuzzo
+  photo: fria.jpg
+  role: PhD student
+  info: Understanding the diversity and distribution of hydrogen oxidizing organisms
+  email: francesca.iacuzzzo@unina.it
+  number_educ: 2
+  education1: MSc Marine Biology, University of Trieste, Italy
+  education2: BSc Biology, University of Trieste, Italy
+
 - name: Monica Correggia
   photo: mcor.jpg
   role: PhD student

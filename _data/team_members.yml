@@ -27,3 +27,12 @@
   email: luciano.diiorio@unina.it
   number_educ: 1
   education1: Monte Sant'Angelo Beer Accademy
+
+- name: Edoardo Taccaliti
+  photo: edta.jpg
+  bio:
+  info: Bioinformatic specialist
+  email: edoardo.taccaliti@unina.it
+  number_educ: 2
+  education1: MSc in Bioinformatics, University of Bologna, Italy
+  education2: BSc in Biology 
