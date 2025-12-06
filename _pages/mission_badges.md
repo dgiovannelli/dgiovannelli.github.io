@@ -27,13 +27,15 @@ Here you can find all our badges laid out in chronological order starting from t
 
 <div style="text-align: center;">
 
+![NZL25]({{ site.url }}{{ site.baseurl }}/images/badges/NZL25.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
+![ISL23]({{ site.url }}{{ site.baseurl }}/images/badges/ISL23.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
 ![ARG23]({{ site.url }}{{ site.baseurl }}/images/badges/ARG23.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
 ![AEO22]({{ site.url }}{{ site.baseurl }}/images/badges/AEO22.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
-![CHL22]({{ site.url }}{{ site.baseurl }}/images/badges/CHL22.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
+![CHL22]({{ site.url }}{{ site.baseurl }}/images/badges/CHL22.png){: style="max-width: 160px; width: 100%; margin: 10px; display: inline-block;"}
 ![SVA22]({{ site.url }}{{ site.baseurl }}/images/badges/SVA22.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
 ![ICE21]({{ site.url }}{{ site.baseurl }}/images/badges/ICE21.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
 ![SVA21]({{ site.url }}{{ site.baseurl }}/images/badges/SVA21.jpg){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
-![CHL20]({{ site.url }}{{ site.baseurl }}/images/badges/CHL20.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
+![CHL20]({{ site.url }}{{ site.baseurl }}/images/badges/CHL20.png){: style="max-width: 160px; width: 100%; margin: 10px; display: inline-block;"}
 ![AEO19]({{ site.url }}{{ site.baseurl }}/images/badges/AEO19.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
 ![ICE17]({{ site.url }}{{ site.baseurl }}/images/badges/ICE17.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
 ![AEO17]({{ site.url }}{{ site.baseurl }}/images/badges/AEO17.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
