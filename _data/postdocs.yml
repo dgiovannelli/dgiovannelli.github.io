@@ -1,3 +1,13 @@
+- name: Matteo Selci
+  photo: ms.jpg
+  role: Research Fellow (Contratto di Ricerca)
+  info: Investigating the microbiology and hydrogenotrophic metabolism of subsurface ecosystems 
+  email: matteo.selci@unina.it
+  number_educ: 3
+  education1: Postdoctoral Research Fellow, Rutgers University (USA)
+  education2: PhD in Biology, University of Naples Federico II, Italy
+  education3: MSc in Marine Biology, Politechnic University of Marhce, Ancona, Italy 
+
 - name: Benoit de Pins
   photo: bdp.jpg
   role: MSCA Fellow
