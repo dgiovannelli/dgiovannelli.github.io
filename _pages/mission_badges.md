@@ -10,7 +10,7 @@ permalink: /missionbadges/
 
 Have ever seen the NASA mission badges? Something about the design of those badges was hypnotic for me. It had been hypnotic since I was a child dreaming of space exploration and fantastic adventures in the most remote places of the cosmos. It might have been the intricate designs, the mesmerizing color schemes or the sense of belonging that they evoked. The mission badges released by NASA, and by every other space agency at that time, where fascinating and evocative at the same time.
 
-![]({{ site.url }}{{ site.baseurl }}/images/badges/nasa_badges.jpg){: style="heigth: 30%; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/badges/nasa_badges.jpg){: style="max-width: 180px; width: 100%; float: center; border: 10px"}
 
 > An example of the beatiful designs of the NASA mission badges found on the internet. Credit: NASA
 
