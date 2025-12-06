@@ -25,24 +25,18 @@ Recently, we have started a special series of badges for our [ERC CoEvolve proje
 
 Here you can find all our badges laid out in chronological order starting from the newest.
 
-![]({{ site.url }}{{ site.baseurl }}/images/badges/ARG23.png){: style="width: 30%; float: center; border: 10px"}
+<div class="badge-grid">
 
-![]({{ site.url }}{{ site.baseurl }}/images/badges/AEO22.png){: style="width: 30%; float: left; border: 10px"}
+<img src="{{ site.url }}{{ site.baseurl }}/images/badges/ARG23.png" alt="ARG23" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/badges/AEO22.png" alt="AEO22" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/badges/CHL22.png" alt="CHL22" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/badges/SVA22.png" alt="SVA22" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/badges/ICE21.png" alt="ICE21" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/badges/SVA21.jpg" alt="SVA21" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/badges/CHL20.png" alt="CHL20" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/badges/AEO19.png" alt="AEO19" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/badges/ICE17.png" alt="ICE17" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/badges/AEO17.png" alt="AEO17" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/badges/CR17.png" alt="CR17" />
 
-![]({{ site.url }}{{ site.baseurl }}/images/badges/CHL22.png){: style="width: 30%; float: left; border: 10px"}
-
-![]({{ site.url }}{{ site.baseurl }}/images/badges/SVA22.png){: style="width: 30%; float: left; border: 10px"}
-
-![]({{ site.url }}{{ site.baseurl }}/images/badges/ICE21.png){: style="width: 30%; float: left; border: 10px"}
-
-![]({{ site.url }}{{ site.baseurl }}/images/badges/SVA21.jpg){: style="width: 30%; float: left; border: 10px"}
-
-![]({{ site.url }}{{ site.baseurl }}/images/badges/CHL20.png){: style="width: 30%; float: left; border: 10px"}
-
-![]({{ site.url }}{{ site.baseurl }}/images/badges/AEO19.png){: style="width: 30%; float: left; border: 10px"}
-
-![]({{ site.url }}{{ site.baseurl }}/images/badges/ICE17.png){: style="width: 30%; float: left; border: 10px"}
-
-![]({{ site.url }}{{ site.baseurl }}/images/badges/AEO17.png){: style="width: 30%; float: left; border: 10px"}
-
-![]({{ site.url }}{{ site.baseurl }}/images/badges/CR17.png){: style="width: 30%; float: left; border: 10px"}
+</div>

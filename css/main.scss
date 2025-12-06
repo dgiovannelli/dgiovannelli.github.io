@@ -120,3 +120,22 @@ firstp {
   display: block;       /* avoids inline-image whitespace quirks */
   object-fit: cover;    /* crop to fill without distortion */
 }
+
+/* Mission Badges Grid */
+.badge-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  justify-items: center;
+}
+
+/* Badge images */
+.badge-grid img {
+  max-width: 180px;       /* Set the badge size */
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;     /* optional, can remove */
+}
