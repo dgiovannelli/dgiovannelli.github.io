@@ -25,18 +25,72 @@ Recently, we have started a special series of badges for our [ERC CoEvolve proje
 
 Here you can find all our badges laid out in chronological order starting from the newest.
 
-<div class="badge-grid">
+<div class="row badge-grid">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/badges/ARG23.png" alt="ARG23" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/badges/AEO22.png" alt="AEO22" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/badges/CHL22.png" alt="CHL22" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/badges/SVA22.png" alt="SVA22" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/badges/ICE21.png" alt="ICE21" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/badges/SVA21.jpg" alt="SVA21" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/badges/CHL20.png" alt="CHL20" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/badges/AEO19.png" alt="AEO19" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/badges/ICE17.png" alt="ICE17" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/badges/AEO17.png" alt="AEO17" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/badges/CR17.png" alt="CR17" />
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <img class="img-responsive center-block mission-badge"
+         src="{{ site.url }}{{ site.baseurl }}/images/badges/ARG23.png"
+         alt="ARG23">
+  </div>
+
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <img class="img-responsive center-block mission-badge"
+         src="{{ site.url }}{{ site.baseurl }}/images/badges/AEO22.png"
+         alt="AEO22">
+  </div>
+
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <img class="img-responsive center-block mission-badge"
+         src="{{ site.url }}{{ site.baseurl }}/images/badges/CHL22.png"
+         alt="CHL22">
+  </div>
+
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <img class="img-responsive center-block mission-badge"
+         src="{{ site.url }}{{ site.baseurl }}/images/badges/SVA22.png"
+         alt="SVA22">
+  </div>
+
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <img class="img-responsive center-block mission-badge"
+         src="{{ site.url }}{{ site.baseurl }}/images/badges/ICE21.png"
+         alt="ICE21">
+  </div>
+
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <img class="img-responsive center-block mission-badge"
+         src="{{ site.url }}{{ site.baseurl }}/images/badges/SVA21.jpg"
+         alt="SVA21">
+  </div>
+
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <img class="img-responsive center-block mission-badge"
+         src="{{ site.url }}{{ site.baseurl }}/images/badges/CHL20.png"
+         alt="CHL20">
+  </div>
+
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <img class="img-responsive center-block mission-badge"
+         src="{{ site.url }}{{ site.baseurl }}/images/badges/AEO19.png"
+         alt="AEO19">
+  </div>
+
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <img class="img-responsive center-block mission-badge"
+         src="{{ site.url }}{{ site.baseurl }}/images/badges/ICE17.png"
+         alt="ICE17">
+  </div>
+
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <img class="img-responsive center-block mission-badge"
+         src="{{ site.url }}{{ site.baseurl }}/images/badges/AEO17.png"
+         alt="AEO17">
+  </div>
+
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <img class="img-responsive center-block mission-badge"
+         src="{{ site.url }}{{ site.baseurl }}/images/badges/CR17.png"
+         alt="CR17">
+  </div>
 
 </div>

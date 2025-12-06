@@ -94,48 +94,56 @@ firstp {
     margin-right: 20px;
 }*/
 
-/* Make the carousel a stable box */
+/* === Home page carousel: fix height + stop jitter === */
+
+/* Outer container: define a fixed aspect ratio BEFORE images load */
 #carousel {
-  max-width: 100%;
-  margin: 0 0 30px 0;
+  position: relative;
+  width: 100%;
+  margin: 20px 0 30px;
   overflow: hidden;
 }
 
-/* Fix the height of the inner container */
-#carousel .carousel-inner {
-  height: 400px; /* pick the height you want for the banner */
+/* 700x1400 images → 2:1 aspect ratio = 50% height of width */
+#carousel::before {
+  content: "";
+  display: block;
+  padding-top: 50%;  /* adjust if you ever change image aspect ratio */
 }
 
-/* Make every slide fill that height */
+/* Make the inner carousel fill that box */
+#carousel .carousel-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Each slide should fill the inner container */
 #carousel .item,
 #carousel .carousel-item {
   height: 100%;
 }
 
-/* Normalize image behavior */
+/* Images: fill slide, no baseline weirdness */
 #carousel .item img,
 #carousel .carousel-item img {
   width: 100%;
   height: 100%;
-  display: block;       /* avoids inline-image whitespace quirks */
-  object-fit: cover;    /* crop to fill without distortion */
+  display: block;     /* avoids inline-image vertical shift */
+  object-fit: cover;  /* crop nicely if proportions differ a bit */
 }
 
 /* Mission Badges Grid */
+/* Mission badges layout */
 .badge-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 1.5rem;
   margin-top: 20px;
   margin-bottom: 40px;
-  justify-items: center;
 }
 
-/* Badge images */
-.badge-grid img {
-  max-width: 180px;       /* Set the badge size */
-  width: 100%;
-  height: auto;
-  display: block;
-  border-radius: 6px;     /* optional, can remove */
+/* Cap the badge visual size */
+.mission-badge {
+  max-height: 220px;
+  margin-bottom: 20px;
 }
