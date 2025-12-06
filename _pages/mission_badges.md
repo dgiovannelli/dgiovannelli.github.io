@@ -10,7 +10,8 @@ permalink: /missionbadges/
 
 Have ever seen the NASA mission badges? Something about the design of those badges was hypnotic for me. It had been hypnotic since I was a child dreaming of space exploration and fantastic adventures in the most remote places of the cosmos. It might have been the intricate designs, the mesmerizing color schemes or the sense of belonging that they evoked. The mission badges released by NASA, and by every other space agency at that time, where fascinating and evocative at the same time.
 
-![]({{ site.url }}{{ site.baseurl }}/images/badges/nasa_budges.jpg){: style="heigth: 30%; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/badges/nasa_badges.jpg){: style="heigth: 30%; float: center; border: 10px"}
+
 > An example of the beatiful designs of the NASA mission badges found on the internet. Credit: NASA
 
 Fast forward a couple of decades and I found myself sitting in my office in Tokyo at the Earth Life Science Institute (ELSI, [www.elsi.jp](https://www.elsi.jp)) looking at the NASA mission badges once again. In the meanwhile I did not quite make it as an Astronaut (although I went very close with ESA last year), but I became a modern day explorer anyway organizing and participating in research expeditions in some of the most remote corner of our planet. That day at ELSI I was preparing for the first of what will become a long series of expeditions centered around volcanoes and the role of subsurface microbiology in controlling volatile cycling. With my colleagues we called it the "Biology meets Subduction" project, and we were about to leave for Costa Rica for the first time. I remember looking at the mission badges and though "Why only NASA? Why not having mission badges for our missions too?".
