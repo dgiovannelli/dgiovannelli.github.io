@@ -25,72 +25,19 @@ Recently, we have started a special series of badges for our [ERC CoEvolve proje
 
 Here you can find all our badges laid out in chronological order starting from the newest.
 
-<div class="row badge-grid">
+<div style="text-align: center;">
 
-  <div class="col-xs-6 col-sm-4 col-md-3">
-    <img class="img-responsive center-block mission-badge"
-         src="{{ site.url }}{{ site.baseurl }}/images/badges/ARG23.png"
-         alt="ARG23">
-  </div>
-
-  <div class="col-xs-6 col-sm-4 col-md-3">
-    <img class="img-responsive center-block mission-badge"
-         src="{{ site.url }}{{ site.baseurl }}/images/badges/AEO22.png"
-         alt="AEO22">
-  </div>
-
-  <div class="col-xs-6 col-sm-4 col-md-3">
-    <img class="img-responsive center-block mission-badge"
-         src="{{ site.url }}{{ site.baseurl }}/images/badges/CHL22.png"
-         alt="CHL22">
-  </div>
-
-  <div class="col-xs-6 col-sm-4 col-md-3">
-    <img class="img-responsive center-block mission-badge"
-         src="{{ site.url }}{{ site.baseurl }}/images/badges/SVA22.png"
-         alt="SVA22">
-  </div>
-
-  <div class="col-xs-6 col-sm-4 col-md-3">
-    <img class="img-responsive center-block mission-badge"
-         src="{{ site.url }}{{ site.baseurl }}/images/badges/ICE21.png"
-         alt="ICE21">
-  </div>
-
-  <div class="col-xs-6 col-sm-4 col-md-3">
-    <img class="img-responsive center-block mission-badge"
-         src="{{ site.url }}{{ site.baseurl }}/images/badges/SVA21.jpg"
-         alt="SVA21">
-  </div>
-
-  <div class="col-xs-6 col-sm-4 col-md-3">
-    <img class="img-responsive center-block mission-badge"
-         src="{{ site.url }}{{ site.baseurl }}/images/badges/CHL20.png"
-         alt="CHL20">
-  </div>
-
-  <div class="col-xs-6 col-sm-4 col-md-3">
-    <img class="img-responsive center-block mission-badge"
-         src="{{ site.url }}{{ site.baseurl }}/images/badges/AEO19.png"
-         alt="AEO19">
-  </div>
-
-  <div class="col-xs-6 col-sm-4 col-md-3">
-    <img class="img-responsive center-block mission-badge"
-         src="{{ site.url }}{{ site.baseurl }}/images/badges/ICE17.png"
-         alt="ICE17">
-  </div>
-
-  <div class="col-xs-6 col-sm-4 col-md-3">
-    <img class="img-responsive center-block mission-badge"
-         src="{{ site.url }}{{ site.baseurl }}/images/badges/AEO17.png"
-         alt="AEO17">
-  </div>
-
-  <div class="col-xs-6 col-sm-4 col-md-3">
-    <img class="img-responsive center-block mission-badge"
-         src="{{ site.url }}{{ site.baseurl }}/images/badges/CR17.png"
-         alt="CR17">
-  </div>
+![ARG23]({{ site.url }}{{ site.baseurl }}/images/badges/ARG23.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
+![AEO22]({{ site.url }}{{ site.baseurl }}/images/badges/AEO22.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
+![CHL22]({{ site.url }}{{ site.baseurl }}/images/badges/CHL22.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
+![SVA22]({{ site.url }}{{ site.baseurl }}/images/badges/SVA22.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
+![ICE21]({{ site.url }}{{ site.baseurl }}/images/badges/ICE21.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
+![SVA21]({{ site.url }}{{ site.baseurl }}/images/badges/SVA21.jpg){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
+![CHL20]({{ site.url }}{{ site.baseurl }}/images/badges/CHL20.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
+![AEO19]({{ site.url }}{{ site.baseurl }}/images/badges/AEO19.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
+![ICE17]({{ site.url }}{{ site.baseurl }}/images/badges/ICE17.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
+![AEO17]({{ site.url }}{{ site.baseurl }}/images/badges/AEO17.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
+![CR17]({{ site.url }}{{ site.baseurl }}/images/badges/CR17.png){: style="max-width: 180px; width: 100%; margin: 10px; display: inline-block;"}
 
 </div>
+

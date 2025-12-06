@@ -134,16 +134,3 @@ firstp {
   display: block;     /* avoids inline-image vertical shift */
   object-fit: cover;  /* crop nicely if proportions differ a bit */
 }
-
-/* Mission Badges Grid */
-/* Mission badges layout */
-.badge-grid {
-  margin-top: 20px;
-  margin-bottom: 40px;
-}
-
-/* Cap the badge visual size */
-.mission-badge {
-  max-height: 220px;
-  margin-bottom: 20px;
-}
