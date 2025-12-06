@@ -43,6 +43,7 @@ Introductory class providing a birds-eye view of the microbiology of extreme env
 The class is a first year requirement for both curricula of the new master degree program in the Biology of Extreme Environments started in September 2021 for the first time.
 
 ### Microbial Metabolism and Habitability
+
 |_**Location:**_ | |University of Naples Federico II |
 |_**Degree:**_ | |MSc in Biology of Extreme Environments|
 |_**Class size:**_ | |~35 students |

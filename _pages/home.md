@@ -27,31 +27,31 @@ Hi, my name is Donato Giovannelli and I am a Professor of Microbiology at the [D
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
-        <div class="item active">
+        <div class="item carousel-item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2014_alvin_deck.jpg" alt="Slide 1" />
         </div>
-        <div class="item">
+        <div class="item carousel-item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/s_riftiae.jpg" alt="Slide 2" />
         </div>
-        <div class="item">
+        <div class="item carousel-item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/northern_light_2019.jpg" alt="Slide 3" />
         </div>
-        <div class="item">
+        <div class="item carousel-item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/arenal_2017.jpg" alt="Slide 4" />
         </div>
-        <div class="item">
+        <div class="item carousel-item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/subductcr_sulfur.jpg" alt="Slide 5" />
         </div>
-        <div class="item">
+        <div class="item carousel-item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/yellowstone_2015.jpg" alt="Slide 6" />
         </div>
-        <div class="item">
+        <div class="item carousel-item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/strytan_2017.jpg" alt="Slide 7" />
         </div>
-        <div class="item">
+        <div class="item carousel-item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/subductcr_drone.jpg" alt="Slide 8" />
         </div>
-        <div class="item">
+        <div class="item carousel-item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/milos_2012.jpg" alt="Slide 9" />
         </div>              
     </div>
