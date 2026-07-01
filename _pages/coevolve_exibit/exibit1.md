@@ -179,14 +179,8 @@ _Difficile dire quale sia la mia foto preferita. Forse, se dovessi scegliere, in
 
 Il progetto CoEvolve e questa mostra hanno ricevuto fondi dal European Research Council (ERC) nell’ambito del programma di ricerche e innovazione dell’Unione Europea Horizon 2020 Grant Agreement No. 948972-COEVOLVE-ERC-2020 STG.
 
-#### In collaborazione con:
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cicap_fest.png" style="width: 100px; padding: 5px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/orto_botanico.png" style="width: 150px; padding: 5px">
-  </figure>
-
-#### Sponsor:
+#### Con il supporto di:
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pny.png" style="width: 120px; padding: 5px">
