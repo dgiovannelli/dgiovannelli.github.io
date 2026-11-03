@@ -1,3 +1,13 @@
+---
+title: "Giovannelli Lab - Habitability Project"
+layout: textlay
+excerpt: "Giovannelli Lab -- Habitability Project"
+sitemap: false
+permalink: /habproject_2025/
+---
+
+![]({{ site.url }}{{ site.baseurl }}/images/blogpic/mars.png){: style="width: 50%; float: center; border: 10px"}
+
 # Microbial-Enabled Mars Colonization Project
 
 The MM&H program is inviting proposals for the Microbial-Enabled Mars Colonization Project. The detailed Request for Proposals is provided below. The deadline for submission is **10 January 2027 at 18:00 UTC**.
